@@ -21,6 +21,12 @@ need better pics:
 MOST OF CX-17 BOOSTER NEEDS TO BE DONE STILL
 
 
+Need better BBLD Launcher pics and box pics for each one
+
+
+Technically need box pic for Red AeroPegasus
+
+
 # Blades:
 
 - PhoenixFeather Original Corocoro version
@@ -147,6 +153,8 @@ MOST OF CX-17 BOOSTER NEEDS TO BE DONE STILL
 
 - Red Hulk
 
+- BBLD Black Drandagger
+
 
 **Vortex:**
 
@@ -207,6 +215,7 @@ MOST OF CX-17 BOOSTER NEEDS TO BE DONE STILL
 
 - Obiwan Kenobi
 
+- BBLD Drandagger Black
 
 
 **4-80:**
@@ -228,6 +237,12 @@ MOST OF CX-17 BOOSTER NEEDS TO BE DONE STILL
 - G3 prize
 
 - Stormtrooper (Because of middle)
+
+
+
+**5-80**
+
+- BBLD Orange WyvernGale
 
 
 
