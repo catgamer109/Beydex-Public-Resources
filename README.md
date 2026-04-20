@@ -17,7 +17,7 @@ All images are publicly allowed to be used, crediting Beydex would be great but 
 
 # Contributors:
 
-If you have any of the images that are currently needed that is listed in "need better pics.md" or would like to contribute on images, please contact at catblader109@gmail.com
+If you have any of the images that are currently needed that are listed in "need better pics.md" or would like to contribute on images, please contact at catblader109@gmail.com
 
 - catgamer109
 - SunBro
