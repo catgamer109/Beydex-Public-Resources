@@ -10159,6 +10159,7 @@ export const allParts: Part[] = [
     "weight": 36.09,
     "image": getPartImage("TyrannoRoar-UX-15", "blades/tyrannoroar/ux-15.webp", "blade"),
     "identicalId": ["RoarTyranno", "Spinosaurus"],
+    "echoOf":["PhoenixWing", "SoarPhoenix"],
     "variants": [
       { "name": "UX-15 (TT) (Default)", "image": getPartImage("TyrannoRoar-UX-15", "blades/tyrannoroar/ux-15.webp", "blade"),"displayedName":"UX-15 (TT)" },
       { "name": "BXG-41 (Jurassic World Ver.) (TT)", "image": getPartImage("Spinosaurus-BXG-41", "blades/tyrannoroar/jurassic.webp", "blade") }
@@ -10175,6 +10176,7 @@ export const allParts: Part[] = [
     "weight": 36.09,
     "image": getPartImage("RoarTyranno-Roar Tyranno 9-60GF (Booster)", "blades/roartyranno/default.webp", "blade"),
     "identicalId": ["TyrannoRoar", "Spinosaurus"],
+    "echoOf":["PhoenixWing", "SoarPhoenix"],
     "variants": [
       { "name": "Roar Tyranno 9-60GF (Booster) (HB) (Default)", "image": getPartImage("RoarTyranno-Roar Tyranno 9-60GF (Booster)", "blades/roartyranno/default.webp", "blade"),"displayedName":"Roar Tyranno 9-60GF (Booster) (HB)" },
       { "name": "Spinosaurus 3-85A (Dual Pack) (HB)", "image": getPartImage("Spinosaurus-Spinosaurus 3-85A (Dual Pack)", "blades/roartyranno/jurassic.webp", "blade") }
