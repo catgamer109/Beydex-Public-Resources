@@ -12315,14 +12315,14 @@ export const allParts: Part[] = [
     "spinDirection": "Right",
     "identicalId": ["RocketGriffon"],
     "restrictions": {
-      "ratchetType": ["Normal", "Simple"]
+      "ratchetType": ["Normal", "Simple", "Fusion"],
     },
     "comingSoon": true,
     //"weight": ,
     "image": getPartImage("UX-19 (Default)", "blades/bulletgriffon/ux-19.webp", "blade"),
     "variants": [
       { "name": "UX-19 (TT) (Default)", "image": getPartImage("UX-19 (Default)", "blades/bulletgriffon/ux-19.webp", "blade"),"displayedName":"UX-19 (TT)" }
-    ]
+    ] 
   },
   {
     "id": "RocketGriffon",
@@ -12334,7 +12334,7 @@ export const allParts: Part[] = [
     "spinDirection": "Right",
     "identicalId": ["BulletGriffon"],
     "restrictions": {
-      "ratchetType": ["Normal", "Simple"]
+      "ratchetType": ["Normal", "Simple", "Fusion"]
     },
     "comingSoon": true,
     //"weight": ,
@@ -12384,7 +12384,7 @@ export const allParts: Part[] = [
     "company": "Hasbro",
     "spinDirection": "Right",
     "restrictions": {
-      "ratchetType": ["Normal", "Simple"]
+      "ratchetType": ["Normal", "Simple", "Fusion"]
     },
     "comingSoon": true,
     //"weight": ,
@@ -12402,7 +12402,7 @@ export const allParts: Part[] = [
     "company": "Hasbro",
     "spinDirection": "Right",
     "restrictions": {
-      "ratchetType": ["Normal", "Simple"]
+      "ratchetType": ["Normal", "Simple", "Fusion"]
     },
     "comingSoon": true,
     //"weight": ,
