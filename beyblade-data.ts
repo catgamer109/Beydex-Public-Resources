@@ -10229,7 +10229,8 @@ export const allParts: Part[] = [
     "company": "Takara Tomy",
     "spinDirection": "Right",
     "weight": 33.47,
-    "identicalId": ["Feather Phoenix"],
+    "identicalId": ["FeatherPhoenix"],
+    "echoOf": ["DranSword", "SwordDran"],
     "image": getPartImage("PhoenixFeather-Corocoro", "blades/phoenixfeather/default.webp", "blade"),
     "variants": [
       { "name": "Corocoro (TT) (Default)", "image": getPartImage("PhoenixFeather-Corocoro", "blades/phoenixfeather/default.webp", "blade"),"displayedName":"Corocoro (TT)" },
@@ -10247,6 +10248,7 @@ export const allParts: Part[] = [
     "spinDirection": "Right",
     "weight": 33.47,
     "identicalId": ["PhoenixFeather"],
+    "echoOf": ["DranSword", "SwordDran"],
     "image": getPartImage("PhoenixFeather-UX-12-5", "blades/featherphoenix/default.webp", "blade"),
     "variants": [
       { "name": "Feather Phoenix 2-60N (Starter) (HB)", "image": getPartImage("PhoenixFeather-UX-12-5", "blades/featherphoenix/default.webp", "blade") },
@@ -12312,7 +12314,10 @@ export const allParts: Part[] = [
     "company": "Takara Tomy",
     "spinDirection": "Right",
     "identicalId": ["RocketGriffon"],
-    "comingSoon": true,
+    "restrictions": {
+      "ratchetType": ["Normal", "Simple"]
+    },
+    //"comingSoon": true,
     //"weight": ,
     "image": getPartImage("UX-19 (Default)", "blades/bulletgriffon/ux-19.webp", "blade"),
     "variants": [
@@ -12328,7 +12333,10 @@ export const allParts: Part[] = [
     "company": "Hasbro",
     "spinDirection": "Right",
     "identicalId": ["BulletGriffon"],
-    "comingSoon": true,
+    "restrictions": {
+      "ratchetType": ["Normal", "Simple"]
+    },
+    //"comingSoon": true,
     //"weight": ,
     "image": getPartImage("Rocket Griffon H (Starter)", "blades/rocketgriffon/default.webp", "blade"),
     "variants": [
@@ -12375,6 +12383,9 @@ export const allParts: Part[] = [
     "series": ["UX", "UXE"],
     "company": "Hasbro",
     "spinDirection": "Right",
+    "restrictions": {
+      "ratchetType": ["Normal", "Simple"]
+    },
     "comingSoon": true,
     //"weight": ,
     "image": getPartImage("Cutter Shinobi LF (Sneak Attack Battle Set)", "blades/cuttershinobi/default.webp", "blade"),
@@ -12390,6 +12401,9 @@ export const allParts: Part[] = [
     "series": ["UX", "UXE"],
     "company": "Hasbro",
     "spinDirection": "Right",
+    "restrictions": {
+      "ratchetType": ["Normal", "Simple"]
+    },
     "comingSoon": true,
     //"weight": ,
     "image": getPartImage("Rampart Aegis GB (Sneak Attack Battle Set)", "blades/rampartaegis/default.webp", "blade"),
