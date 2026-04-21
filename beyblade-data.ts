@@ -12317,7 +12317,7 @@ export const allParts: Part[] = [
     "restrictions": {
       "ratchetType": ["Normal", "Simple"]
     },
-    //"comingSoon": true,
+    "comingSoon": true,
     //"weight": ,
     "image": getPartImage("UX-19 (Default)", "blades/bulletgriffon/ux-19.webp", "blade"),
     "variants": [
@@ -12336,7 +12336,7 @@ export const allParts: Part[] = [
     "restrictions": {
       "ratchetType": ["Normal", "Simple"]
     },
-    //"comingSoon": true,
+    "comingSoon": true,
     //"weight": ,
     "image": getPartImage("Rocket Griffon H (Starter)", "blades/rocketgriffon/default.webp", "blade"),
     "variants": [
