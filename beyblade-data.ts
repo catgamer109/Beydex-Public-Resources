@@ -6090,14 +6090,13 @@ export const allParts: Part[] = [
   
 
 
-  // Coming Soon April 25 2026
+
   {
     "id": "Product_UX-19",
     "name": "UX-19 Starter BulletGriffon H",
     "category": "Product",
     "series": ["UX", "UXE"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Product_UX-19_Image", "products/takara_tomy/ux-19/product_ux-19.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_UX-19", "variantName": "BulletGriffon H" },
@@ -6111,7 +6110,6 @@ export const allParts: Part[] = [
     "type": "Balance",
     "series": ["UX", "UXE"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Beyblade_UX-19_Image", "products/takara_tomy/ux-19/beyblade_ux-19.webp", "beyblade"),
     "contents": [
       { "partId": "BulletGriffon", "variantName": "UX-19 (TT) (Default)" },
@@ -6139,7 +6137,6 @@ export const allParts: Part[] = [
     "type": "Balance",
     "series": ["Rare Bey Get", "UX"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Beyblade_ScorpioSpearMagenta_Image", "products/takara_tomy/scorpiospearmagenta/beyblade_scorpiospearmagenta.webp", "beyblade"),
     "contents": [
       { "partId": "ScorpioSpear", "variantName": "UX-00 Metal Coat: Magenta (Beyblade Bar, Rare Bey Get) (TT)" },
@@ -6156,7 +6153,6 @@ export const allParts: Part[] = [
     "category": "Product",
     "series": ["CX", "CXE"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Product_CX-17-1_Image", "products/takara_tomy/cx-17-1/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_CX-17-1", "variantName": "UnicornDelta PO3-60GU" }
@@ -6169,7 +6165,6 @@ export const allParts: Part[] = [
     "type": "Balance",
     "series": ["CX", "CXE"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Beyblade_CX-17-1_Image", "products/takara_tomy/cx-17-1/beyblade.webp", "beyblade"),
     "contents": [
       { "partId": "FullBlade_CX-17-1", "variantName": "UnicornDelta PO" },
@@ -6183,7 +6178,6 @@ export const allParts: Part[] = [
     "category": "Full Blade",
     "series": ["CX", "CXE"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("FullBlade_CX-17-1_Image", "products/takara_tomy/cx-17-1/fullblade.webp", "blade"),
     "contents": [
       { "partId": "Unicorn", "variantName": "CX-17-1 (TT) (Default)" },
@@ -6198,7 +6192,6 @@ export const allParts: Part[] = [
     "category": "Product",
     "series": ["CX", "CXE"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Product_CX-17-2_Image", "products/takara_tomy/cx-17-2/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_CX-17-2", "variantName": "UnicornDelta PO1-80GR" }
@@ -6211,7 +6204,6 @@ export const allParts: Part[] = [
     "type": "Attack",
     "series": ["CX", "CXE"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Beyblade_CX-17-2_Image", "products/takara_tomy/cx-17-2/beyblade.webp", "beyblade"),
     "contents": [
       { "partId": "FullBlade_CX-17-2", "variantName": "UnicornDelta PO" },
@@ -6225,7 +6217,6 @@ export const allParts: Part[] = [
     "category": "Full Blade",
     "series": ["CX", "CXE"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("FullBlade_CX-17-2_Image", "products/takara_tomy/cx-17-2/fullblade.webp", "blade"),
     "contents": [
       { "partId": "Unicorn", "variantName": "CX-17-2 (TT)" },
@@ -6240,7 +6231,6 @@ export const allParts: Part[] = [
     "category": "Product",
     "series": ["CX", "CXE"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Product_CX-17-3_Image", "products/takara_tomy/cx-17-3/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_CX-17-3", "variantName": "SamuraiSaber 9-65LO" }
@@ -6253,7 +6243,6 @@ export const allParts: Part[] = [
     "type": "Stamina",
     "series": ["UX"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Beyblade_CX-17-3_Image", "products/takara_tomy/cx-17-3/beyblade.webp", "beyblade"),
     "contents": [
       { "partId": "SamuraiSaber", "variantName": "CX-17-3 (TT)" },
@@ -6267,7 +6256,6 @@ export const allParts: Part[] = [
     "category": "Product",
     "series": ["CX", "CXE"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Product_CX-17-4_Image", "products/takara_tomy/cx-17-4/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_CX-17-4", "variantName": "HellsHammer 3-85GU" }
@@ -6280,7 +6268,6 @@ export const allParts: Part[] = [
     "type": "Balance",
     "series": ["UX"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Beyblade_CX-17-4_Image", "products/takara_tomy/cx-17-4/beyblade.webp", "beyblade"),
     "contents": [
       { "partId": "HellsHammer", "variantName": "CX-17-4 (TT)" },
@@ -6294,7 +6281,6 @@ export const allParts: Part[] = [
     "category": "Product",
     "series": ["CX", "CXE"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Product_CX-17-5_Image", "products/takara_tomy/cx-17-5/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_CX-17-5", "variantName": "TyrannoBeat 3-60N" }
@@ -6307,7 +6293,6 @@ export const allParts: Part[] = [
     "type": "Defense",
     "series": ["BX"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Beyblade_CX-17-5_Image", "products/takara_tomy/cx-17-5/beyblade.webp", "beyblade"),
     "contents": [
       { "partId": "TyrannoBeat", "variantName": "CX-17-5 (TT)" },
@@ -6321,7 +6306,6 @@ export const allParts: Part[] = [
     "category": "Product",
     "series": ["CX", "CXE"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Product_CX-17-6_Image", "products/takara_tomy/cx-17-6/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_CX-17-6", "variantName": "CrimsonGaruda 7-80GU" }
@@ -6334,7 +6318,6 @@ export const allParts: Part[] = [
     "type": "Balance",
     "series": ["UX"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Beyblade_CX-17-6_Image", "products/takara_tomy/cx-17-6/beyblade.webp", "beyblade"),
     "contents": [
       { "partId": "CrimsonGaruda", "variantName": "CX-17-6 (TT)" },
@@ -9999,7 +9982,7 @@ export const allParts: Part[] = [
       { "name": "BX-31-2 (TT)", "image": getPartImage("TyrannoBeat-BX-31-2", "blades/tyrannobeat/bx-31-2.webp", "blade") },
       { "name": "UX-10 (TT)", "image": getPartImage("TyrannoBeat-UX-10", "blades/tyrannobeat/ux-10.webp", "blade") },
       { "name": "BXG-41 (Jurassic World Ver.) (TT)", "image": getPartImage("T.Rex-BXG-41", "blades/tyrannobeat/jurassic.webp", "blade"),"displayedName": "BXG-40 (Jurassic World Ver.) (TT)" },
-      { "name": "CX-17-5 (TT)", "image": getPartImage("TyrannoBeat-CX-17-5", "blades/tyrannobeat/cx-17-5.webp", "blade"),"comingSoon":true}
+      { "name": "CX-17-5 (TT)", "image": getPartImage("TyrannoBeat-CX-17-5", "blades/tyrannobeat/cx-17-5.webp", "blade")}
     ]
   },
   {
@@ -10708,7 +10691,7 @@ export const allParts: Part[] = [
     "identicalId": ["ScarletGaruda"],
     "variants": [
       { "name": "BX-38 (TT) (Default)", "image": getPartImage("CrimsonGaruda-BX-38", "blades/crimsongaruda/bx-38.webp", "blade"),"displayedName":"BX-38 (TT)" },
-      { "name": "CX-17-6 (TT)", "image": getPartImage("CrimsonGaruda-CX-17-6", "blades/crimsongaruda/cx-17-6.webp", "blade"),"comingSoon":true}
+      { "name": "CX-17-6 (TT)", "image": getPartImage("CrimsonGaruda-CX-17-6", "blades/crimsongaruda/cx-17-6.webp", "blade")}
     ]
   },
   {
@@ -11845,7 +11828,7 @@ export const allParts: Part[] = [
     "variants": [
       { "name": "UX-09 (TT) (Default)", "image": getPartImage("SamuraiSaber-UX-09", "blades/samuraisaber/ux-09.webp", "blade"),"displayedName":"UX-09 (TT)" },
       { "name": "Corocoro (TT)", "image": getPartImage("SamuraiSaber-corocoro", "blades/samuraisaber/corocoro.webp", "blade") },
-      { "name": "CX-17-3 (TT)", "image": getPartImage("SamuraiSaber-CX-17-3", "blades/samuraisaber/cx-17-3.webp", "blade"),"comingSoon":true},
+      { "name": "CX-17-3 (TT)", "image": getPartImage("SamuraiSaber-CX-17-3", "blades/samuraisaber/cx-17-3.webp", "blade")},
       { "name": "UX-00 Metal Coat: Samurai Blue JFA Ver. (TT)", "image": getPartImage("SamuraiSaber-UX-00", "blades/samuraisaber/jfa.webp", "blade"),"comingSoon":true}
     ]
   },
@@ -12165,7 +12148,7 @@ export const allParts: Part[] = [
       { "name": "UX-02 (TT) (Default)", "image": getPartImage("HellsHammer-UX-02", "blades/hellshammer/ux-02.webp", "blade"),"displayedName":"UX-02 (TT)" },
       { "name": "UX-10 (TT)", "image": getPartImage("HellsHammer-UX-10", "blades/hellshammer/ux-10.webp", "blade") },
       { "name": "UX-00 Bey Kick Off Set (TT)", "image": getPartImage("HellsHammer-UX-00 Barcelona Stadium Set", "blades/hellshammer/barcelona.webp", "blade") },
-      { "name": "CX-17-4 (TT)", "image": getPartImage("HellsHammer-CX-17-4", "blades/hellshammer/cx-17-4.webp", "blade"),"comingSoon":true}
+      { "name": "CX-17-4 (TT)", "image": getPartImage("HellsHammer-CX-17-4", "blades/hellshammer/cx-17-4.webp", "blade")}
     ]
   },
   {
@@ -12317,7 +12300,6 @@ export const allParts: Part[] = [
     "restrictions": {
       "ratchetType": ["Normal", "Simple", "Fusion"],
     },
-    "comingSoon": true,
     //"weight": ,
     "image": getPartImage("UX-19 (Default)", "blades/bulletgriffon/ux-19.webp", "blade"),
     "variants": [
@@ -12774,13 +12756,12 @@ export const allParts: Part[] = [
     "series": ["CX"],
     "company": "Takara Tomy",
     "spinDirection": "Right",
-    "comingSoon": true,
     "partStack60":true,
     "weight": 1.71,
     "image": getPartImage("Unicorn", "lock_chips/normal/unicorn/cx-17-1.webp", "lock chip"),
     "variants": [
       { "name": "CX-17-1 (TT) (Default)", "image": getPartImage("Unicorn", "lock_chips/normal/unicorn/cx-17-1.webp", "lock chip"), "stackedImage": getPartImage("unicorn", "lock_chips/stacked/unicorn/cx-17-1.webp", "lock chip"),"displayedName":"CX-17-1 (TT)" },
-      { "name": "CX-17-2 (TT)", "image": getPartImage("Unicorn", "lock_chips/normal/unicorn/cx-17-2.webp", "lock chip",), "stackedImage": getPartImage("unicorn", "lock_chips/stacked/unicorn/cx-17-2.webp", "lock chip",) },
+      { "name": "CX-17-2 (TT)", "image": getPartImage("Unicorn", "lock_chips/normal/unicorn/cx-17-2.webp", "lock chip"), "stackedImage": getPartImage("unicorn", "lock_chips/stacked/unicorn/cx-17-2.webp", "lock chip") },
     ]
   },
 
@@ -12843,12 +12824,11 @@ export const allParts: Part[] = [
     "series": ["CXE", "CX"],
     "company": "Takara Tomy",
     "spinDirection": "Right",
-    "comingSoon": true,
-    //"weight": 3.74,
+    //"weight": ,
     "image": getPartImage("P-Peak-cx-17-1", "over_blades/normal/p/cx-17-1.webp", "Over Blade"),
     "variants": [
       { "name": "CX-17-1 (TT) (Default)", "image": getPartImage("P-Peak-cx-17-1", "over_blades/normal/p/cx-17-1.webp", "Over Blade"), "stackedImage": getPartImage("P-Peak-cx-17-1", "over_blades/stacked/p/cx-17-1.webp", "Over Blade"),"displayedName":"CX-17-1 (TT)" },
-      { "name": "CX-17-2 (TT)", "image": getPartImage("P-Peak-cx-17-2", "over_blades/normal/p/cx-17-2.webp", "Over Blade",), "stackedImage": getPartImage("P-Peak-cx-17-2", "over_blades/stacked/p/cx-17-2.webp", "Over Blade",),"displayedName":"CX-17-2 (TT)" },
+      { "name": "CX-17-2 (TT)", "image": getPartImage("P-Peak-cx-17-2", "over_blades/normal/p/cx-17-2.webp", "Over Blade"), "stackedImage": getPartImage("P-Peak-cx-17-2", "over_blades/stacked/p/cx-17-2.webp", "Over Blade"),"displayedName":"CX-17-2 (TT)" },
     ]
   },
 
@@ -12912,12 +12892,11 @@ export const allParts: Part[] = [
     "series": ["CXE", "CX"],
     "company": "Takara Tomy",
     "spinDirection": "Right",
-    "comingSoon":true,
-    //"weight": 27.11,
+    //"weight": ,
     "image": getPartImage("Delta-cx-17-1", "metal_blades/normal/delta/cx-17-1.webp", "Metal Blade"),
     "variants": [
       { "name": "CX-17-1 (TT) (Default)", "image": getPartImage("Delta-cx-17-1", "metal_blades/normal/delta/cx-17-1.webp", "Metal Blade"), "stackedImage": getPartImage("Delta-cx-17-1", "metal_blades/stacked/delta/cx-17-1.webp", "Metal Blade"),"displayedName":"CX-17-1 (TT)" },
-      { "name": "CX-17-2 (TT)", "image": getPartImage("Delta-cx-17-2", "metal_blades/normal/delta/cx-17-2.webp", "Metal Blade",), "stackedImage": getPartImage("Delta-cx-17-2", "metal_blades/stacked/delta/cx-17-2.webp", "Metal Blade",)},
+      { "name": "CX-17-2 (TT)", "image": getPartImage("Delta-cx-17-2", "metal_blades/normal/delta/cx-17-2.webp", "Metal Blade"), "stackedImage": getPartImage("Delta-cx-17-2", "metal_blades/stacked/delta/cx-17-2.webp", "Metal Blade")},
     ]
   },
 
@@ -13557,12 +13536,11 @@ export const allParts: Part[] = [
     "spinDirection": "Right",
     //"height": "70",
     //"weight": 6.06,
-    "comingSoon": true,
     "type": "Balance",
     "image": getPartImage("O-Odd-Assist-cx-17-1", "assist_blades/normal/o/cx-17-1.webp", "assist blade"),
     "variants": [
       { "name": "CX-17-1 (TT) (Default)", "image": getPartImage("O-Odd-Assist-cx-17-1", "assist_blades/normal/o/cx-17-1.webp", "assist blade"), "stackedImage": getPartImage("O-Odd-Assist-cx-17-1", "assist_blades/stacked/o/cx-17-1.webp", "assist blade"),"displayedName":"CX-17-1 (TT)" },
-      { "name": "CX-17-2 (TT)", "image": getPartImage("O-Odd-Assist-cx-17-2", "assist_blades/normal/o/cx-17-2.webp", "assist blade",), "stackedImage": getPartImage("O-Odd-Assist-cx-17-2", "assist_blades/stacked/o/cx-17-2.webp", "assist blade",)},
+      { "name": "CX-17-2 (TT)", "image": getPartImage("O-Odd-Assist-cx-17-2", "assist_blades/normal/o/cx-17-2.webp", "assist blade"), "stackedImage": getPartImage("O-Odd-Assist-cx-17-2", "assist_blades/stacked/o/cx-17-2.webp", "assist blade")},
     ]
   },
 
@@ -13635,7 +13613,7 @@ export const allParts: Part[] = [
       { "name": "CX-07", "image": getPartImage("Winder-Launcher-CX-07-TT", "launchers/tt_longwinder_launcher/cx-07.webp", "winder launcher") },
       { "name": "CX-09", "image": getPartImage("Winder-Launcher-CX-09-TT", "launchers/tt_longwinder_launcher/cx-09.webp", "winder launcher") },
       { "name": "CX-00 PegasusBlast", "image": getPartImage("Winder-Launcher-CX-00-Pegasus-TT", "launchers/tt_longwinder_launcher/tokyotoy.webp", "winder launcher") },
-      { "name": "UX-19", "image": getPartImage("Winder-Launcher-UX-19", "launchers/tt_longwinder_launcher/ux-19.webp", "winder launcher"), "comingSoon": true },
+      { "name": "UX-19", "image": getPartImage("Winder-Launcher-UX-19", "launchers/tt_longwinder_launcher/ux-19.webp", "winder launcher")},
       { "name": "Evangelion Deck Set (Black)", "image": getPartImage("Winder-Launcher-EvangelionDeckSet-(Black)", "launchers/tt_longwinder_launcher/evangelion_black.webp", "winder launcher"), "comingSoon": true },
       { "name": "Evangelion Deck Set (White)", "image": getPartImage("Winder-Launcher-EvangelionDeckSet-(White)", "launchers/tt_longwinder_launcher/evangelion_white.webp", "winder launcher"), "comingSoon": true }
 
@@ -14439,7 +14417,7 @@ export const allParts: Part[] = [
       "variants": [
         { "name": "CX-06-1 (TT)", "image": getPartImage("GR-CX-06-1", "bits/gr/cx-06-1.webp", "bit"), "identicalVariants": ["Brush Fox J 9-70 GR (Starter) (HB)"] },
         { "name": "Brush Fox J 9-70GR (Starter) (HB)", "image": getPartImage("GR-CX-06-1", "bits/gr/brushfox.webp", "bit"), "identicalVariants": ["CX-06-1 (TT)"] },
-        { "name": "CX-17-2 (TT)", "image": getPartImage("GR-CX-17-2", "bits/gr/cx-17-2.webp", "bit",), "comingSoon":true},
+        { "name": "CX-17-2 (TT)", "image": getPartImage("GR-CX-17-2", "bits/gr/cx-17-2.webp", "bit",)},
       ]
     },
     {
@@ -14450,9 +14428,8 @@ export const allParts: Part[] = [
       "attributes": ["Balance", "High", "12-tooth (Normal)"],
       "resistance": "High",
       "xDashGear": "12-tooth (Normal)",
-      //"weight": 2.1,
+      //"weight": ,
       "company": "Takara Tomy",
-      "comingSoon": true,
       "image": getPartImage("GU-CX-17-1", "bits/gu/cx-17-1.webp", "bit"),
       "variants": [
         { "name": "CX-17-1 (TT)", "image": getPartImage("GU-CX-17-1", "bits/gu/cx-17-1.webp", "bit")},
@@ -14479,7 +14456,7 @@ export const allParts: Part[] = [
         { "name": "UX-00 (Bey Kick Off Set HellsHammer) (TT)", "image": getPartImage("H-Barcelona", "bits/h/barcelona.webp", "bit") },
         { "name": "Hammer Incendio 3-70H (Starter) (HB)", "image": getPartImage("H-UX-02", "bits/h/hammerincendio.webp", "bit"), "identicalVariants": ["UX-02 (TT)"] },
         { "name": "Soar Phoenix 5-80H (Booster) (HB)", "image": getPartImage("H-BX-35-5", "bits/h/soarphoenix5-80h.webp", "bit"), "identicalVariants": ["BX-35-5 (TT)"] },
-        { "name": "UX-19 (TT)", "image": getPartImage("H-UX-19", "bits/h/ux-19.webp", "bit"), "comingSoon": true },
+        { "name": "UX-19 (TT)", "image": getPartImage("H-UX-19", "bits/h/ux-19.webp", "bit")},
         { "name": "Rocket Griffon H (Starter) (HB)", "image": getPartImage("H-rocketgriffon", "bits/h/ux-19.webp", "bit"), "comingSoon": true },
       ]
     },
@@ -14655,7 +14632,7 @@ export const allParts: Part[] = [
         { "name": "CX-02 (TT)", "image": getPartImage("LO-CX-02", "bits/lo/cx-02.webp", "bit"), "identicalVariants": ["Arc Wizard R 4-55LO (Starter) (HB)"] },
         { "name": "Arc Wizard R 4-55LO (Starter) (HB)", "image": getPartImage("LO-CX-02", "bits/lo/arcwizard.webp", "bit"), "identicalVariants": ["CX-02 (TT)"] },
         { "name": "CX-00 (WizardArc Metal Coat: Black) (TT)", "image": getPartImage("LO-Bit-CX-00-Metal-Coat-Black", "bits/lo/black_wizard.webp", "bit") },
-        { "name": "CX-17-3 (TT)", "image": getPartImage("LO-CX-17-3", "bits/lo/cx-17-3.webp", "bit",),"comingSoon":true}
+        { "name": "CX-17-3 (TT)", "image": getPartImage("LO-CX-17-3", "bits/lo/cx-17-3.webp", "bit",)}
       ]
     },
     {
@@ -14752,7 +14729,7 @@ export const allParts: Part[] = [
         { "name": "Starscream 3-80N (Dual Pack) (HB)", "image": getPartImage("N-Starscream", "bits/n/starscream.webp", "bit"), "identicalVariants": ["BXG-37 (Starscream) (TT)"] },
         { "name": "Venom 3-80N (Dual Pack) (HB)", "image": getPartImage("N-UX-12-4", "bits/n/venom.webp", "bit"), "identicalVariants": ["UX-12-4 (TT)", "BXG-30 (Venom) (TT)"] },
         { "name": "Feather Phoenix 2-60N (Starter) (HB)", "image": getPartImage("N-UX-12-5", "bits/n/featherphoenix.webp", "bit") },
-        { "name": "CX-17-5 (TT)", "image": getPartImage("N-CX-17-5", "bits/n/cx-17-5.webp", "bit",),"comingSoon":true}
+        { "name": "CX-17-5 (TT)", "image": getPartImage("N-CX-17-5", "bits/n/cx-17-5.webp", "bit",)}
       ]
     },
     {
@@ -15325,7 +15302,7 @@ export const allParts: Part[] = [
         { "name": "T. Rex 1-80GB (Dual Pack) (HB)", "image": getPartImage("1-80-BXG-40-T-Rex", "ratchets/1-80/trex.webp", "ratchet"), "identicalVariants": ["BXG-40 (T. Rex) (TT)"] },
         { "name": "Red Hulk 1-80R (Dual Pack) (HB)", "image": getPartImage("1-80-Red-Hulk", "ratchets/1-80/redhulk.webp", "ratchet") },
         { "name": "WhaleWave Tsuri Spirits Wonder Ver. (TT)", "image": getPartImage("1-80-WhaleWave-TsuriSpirits", "ratchets/1-80/tsurispirits(whalewave).webp", "ratchet") },
-        { "name": "CX-17-2 (TT)", "image": getPartImage("1-80-CX-17-2", "ratchets/1-80/cx-17-2.webp", "ratchet",), "comingSoon":true},
+        { "name": "CX-17-2 (TT)", "image": getPartImage("1-80-CX-17-2", "ratchets/1-80/cx-17-2.webp", "ratchet",)},
       ]
     },
     {
@@ -15437,8 +15414,8 @@ export const allParts: Part[] = [
         { "name": "Yell Kong 3-60GB (Booster, Dual Pack) (HB)", "image": getPartImage("3-60-Yell-Kong-Booster", "ratchets/3-60/yellkong.webp", "ratchet") },
         { "name": "Lance Knight 3-60LF (Booster) (HB)", "image": getPartImage("3-60-BX-21", "ratchets/3-60/lanceknight3-60lf.webp", "bit"), "identicalVariants": ["BX-21 (TT)"] },
         { "name": "Bumblebee 3-60GP (Dual Pack) (HB)", "image": getPartImage("3-60-Bumblebee", "ratchets/3-60/bumblebee.webp", "ratchet") },
-        { "name": "CX-17-1 (TT)", "image": getPartImage("3-60-CX-17-1", "ratchets/3-60/cx-17-1.webp", "ratchet",), "comingSoon":true},
-        { "name": "CX-17-5 (TT)", "image": getPartImage("3-60-CX-17-5", "ratchets/3-60/cx-17-5.webp", "ratchet",), "comingSoon":true},
+        { "name": "CX-17-1 (TT)", "image": getPartImage("3-60-CX-17-1", "ratchets/3-60/cx-17-1.webp", "ratchet",)},
+        { "name": "CX-17-5 (TT)", "image": getPartImage("3-60-CX-17-5", "ratchets/3-60/cx-17-5.webp", "ratchet",)},
       ]
     },
     {
@@ -15535,7 +15512,7 @@ export const allParts: Part[] = [
         { "name": "X-treme Expansion Pack (HB)", "image": getPartImage("3-85-UX-10", "ratchets/3-85/xep.webp", "ratchet"),"displayedName": "X-Treme Expansion Pack (HB)" },
         { "name": "Obsidian Shell 3-85S (Dual Pack) (HB)", "image": getPartImage("3-85-Yellow_Shell", "ratchets/3-85/obsidianshell3-85s.webp", "ratchet") },
         { "name": "BX-48-4 (TT)", "image": getPartImage("3-85-BX-48-4", "ratchets/3-85/bx-48-4.webp", "ratchet") },
-        { "name": "CX-17-4 (TT)", "image": getPartImage("3-85-CX-17-4", "ratchets/3-85/cx-17-4.webp", "ratchet",),"comingSoon":true}
+        { "name": "CX-17-4 (TT)", "image": getPartImage("3-85-CX-17-4", "ratchets/3-85/cx-17-4.webp", "ratchet",)}
       ]
     },
     {
@@ -15910,7 +15887,7 @@ export const allParts: Part[] = [
       "variants": [
         { "name": "BX-39-1 (TT)", "image": getPartImage("7-80-BX-39-1", "ratchets/7-80/bx-39-1.webp", "ratchet"), "identicalVariants": ["Shelter Drake 7-80GP (Starter)"] },
         { "name": "Shelter Drake 7-80GP (Starter) (HB)", "image": getPartImage("7-80-BX-39-1", "ratchets/7-80/shelterdrake7-80gp.webp", "ratchet"), "identicalVariants": ["BX-39-1 (TT)"] },
-        { "name": "CX-17-6 (TT)", "image": getPartImage("7-80-CX-17-6", "ratchets/7-80/cx-17-6.webp", "ratchet",),"comingSoon":true}
+        { "name": "CX-17-6 (TT)", "image": getPartImage("7-80-CX-17-6", "ratchets/7-80/cx-17-6.webp", "ratchet",)}
       ]
     },
     {
@@ -15970,7 +15947,7 @@ export const allParts: Part[] = [
         { "name": "UX-16-2 (TT)", "image": getPartImage("9-65-UX-16-2", "ratchets/9-65/ux-16-2.webp", "ratchet") },
         { "name": "UX-16-3 (TT)", "image": getPartImage("9-65-UX-16-3", "ratchets/9-65/ux-16-3.webp", "ratchet") },
         { "name": "X-treme Expansion Pack (HB)", "image": getPartImage("9-65-XEP-Hasbro", "ratchets/9-65/xep.webp", "ratchet"),"displayedName": "X-Treme Expansion Pack (HB)" },
-        { "name": "CX-17-3 (TT)", "image": getPartImage("9-65-CX-17-3", "ratchets/9-65/cx-17-3.webp", "ratchet",),"comingSoon":true}      
+        { "name": "CX-17-3 (TT)", "image": getPartImage("9-65-CX-17-3", "ratchets/9-65/cx-17-3.webp", "ratchet",)}      
       ]
     },
     {
