@@ -4524,7 +4524,7 @@ export const allParts: Part[] = [
     "id": "Product_BX-00_25thAnniversary",
     "name": "BX-00 Beyblade 25th Anniversary Set",
     "category": "Product",
-    "series": ["BX"],
+    "series": ["BX", "XOver"],
     "company": "Takara Tomy",
     "image": getPartImage("Product_BX-00_25thAnniversary_Image", "products/takara_tomy/bx-00_25_anniversary/product_bx-00_25_anniversary.webp", "product box"),
     "contents": [
@@ -5987,10 +5987,23 @@ export const allParts: Part[] = [
   },
 
 // BBLD
+{
+  "id": "Product_BBLD_Drandagger_Black",
+  "name": "BX-00-1 BBLD Booster DRDG4-60R (BLACK-BBLD)",
+  "category": "Product",
+  "series": ["BX"],
+  "company": "Takara Tomy",
+  "image": getPartImage("Product_bbld_black_Image", "products/takara_tomy/bbld/product_drandagger_black.webp", "product box"),
+  "contents": [
+    { "partId": "Beyblade_DranDagger_Black-BBLD", "variantName": "DranDagger 4-60R (BBLD-BLACK)" },
+    {"partId":"TT_WinderLauncher", "variantName": "BBLD (Black)"}
+  ]
+},
 
   {
     "id": "Beyblade_DranDagger_Black-BBLD",
     "name": "DranDagger 4-60R (BBLD-BLACK)",
+    "displayedName": "DranDagger 4-60R (BLACK-BBLD)",
     "category": "Beyblades",
     "type": "Attack",
     "series": ["BX"],
@@ -6003,8 +6016,21 @@ export const allParts: Part[] = [
     ]
   },
   {
+    "id": "Product_BBLD_Drandagger_Blue",
+    "name": "BX-00-2 BBLD Booster DRDG4-60R (BLUE-BBLD)",
+    "category": "Product",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Product_bbld_blue_Image", "products/takara_tomy/bbld/product_drandagger_blue.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_DranDagger_Blue-BBLD", "variantName": "DranDagger 4-60R (BBLD-BLUE)" },
+      {"partId":"TT_WinderLauncher", "variantName": "BBLD (Blue)"}
+    ]
+  },
+  {
     "id": "Beyblade_DranDagger_Blue-BBLD",
     "name": "DranDagger 4-60R (BBLD-BLUE)",
+    "displayedName": "DranDagger 4-60R (BLUE-BBLD)",
     "category": "Beyblades",
     "type": "Attack",
     "series": ["BX"],
@@ -6017,8 +6043,21 @@ export const allParts: Part[] = [
     ]
   },
   {
+    "id": "Product_BBLD_UnicornSting_Pink",
+    "name": "BX-00-3 BBLD Booster UCSG5-60GP (PINK-BBLD)",
+    "category": "Product",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Product_bbld_pink_Image", "products/takara_tomy/bbld/product_unicornsting_pink.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_UnicornSting_Pink-BBLD", "variantName": "UnicornSting 5-60GP (BBLD-PINK)" },
+      {"partId":"TT_WinderLauncher", "variantName": "BBLD (Pink)"}  
+    ]
+  },
+  {
     "id": "Beyblade_UnicornSting_Pink-BBLD",
     "name": "UnicornSting 5-60GP (BBLD-PINK)",
+    "displayedName": "UnicornSting 5-60GP (PINK-BBLD)",
     "category": "Beyblades",
     "type": "Balance",
     "series": ["BX"],
@@ -6031,8 +6070,21 @@ export const allParts: Part[] = [
     ]
   },
   {
+    "id": "Product_BBLD_KnightLance_Green",
+    "name": "BX-00-4 BBLD Booster KTLC4-80HN (GREEN-BBLD)",
+    "category": "Product",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Product_bbld_green_Image", "products/takara_tomy/bbld/product_knightlance_green.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_KnightLance_Green-BBLD", "variantName": "KnightLance 4-80HN (BBLD-GREEN)" },
+      {"partId":"TT_WinderLauncher", "variantName": "BBLD (Green)"}  
+    ]
+  },
+  {
     "id": "Beyblade_KnightLance_Green-BBLD",
     "name": "KnightLance 4-80HN (BBLD-GREEN)",
+    "displayedName": "KnightLance 4-80HN (GREEN-BBLD)",
     "category": "Beyblades",
     "type": "Defense",
     "series": ["BX"],
@@ -6045,8 +6097,21 @@ export const allParts: Part[] = [
     ]
   },
   {
+    "id": "Product_BBLD_Wyverngalde_Orange",
+    "name": "BX-00-5 BBLD Booster WVGL5-80GB (ORANGE-BBLD)",
+    "category": "Product",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Product_bbld_orange_Image", "products/takara_tomy/bbld/product_wyverngale_orange.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_WyvernGale_Orange-BBLD", "variantName": "WyvernGale 5-80GB (BBLD-ORANGE)" },
+      {"partId":"TT_WinderLauncher", "variantName": "BBLD (Orange)"} 
+    ]
+  },
+  {
     "id": "Beyblade_WyvernGale_Orange-BBLD",
     "name": "WyvernGale 5-80GB (BBLD-ORANGE)",
+    "displayedName": "WyvernGale 5-80GB (ORANGE-BBLD)",
     "category": "Beyblades",
     "type": "Stamina",
     "series": ["BX"],
@@ -6116,20 +6181,18 @@ export const allParts: Part[] = [
       { "partId": "H", "variantName": "UX-19 (TT)" }
     ]
   },
-  /*
+
   {
     "id": "Product_ScorpioSpearMagenta",
     "name": "UX-00 Booster ScorpioSpear 0-70Z (Metal Coat: Magenta)",
     "category": "Product",
     "series": ["Rare Bey Get", "UX"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Product_ScorpioSpearMagenta_Image", "products/takara_tomy/scorpiospearmagenta/product_scorpiospearmagenta.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_ScorpioSpearMagenta", "variantName": "ScorpioSpear 0-70Z" },
     ]
   },
-  */
   {
     "id": "Beyblade_ScorpioSpearMagenta",
     "name": "ScorpioSpear 0-70Z",
@@ -9029,7 +9092,7 @@ export const allParts: Part[] = [
     "id": "Product_Hasbro_BX-00_25thAnniversary",
     "name": "Beyblade 25th Anniversary Set",
     "category": "Product",
-    "series": ["BX"],
+    "series": ["BX", "XOver"],
     "company": "Hasbro",
     "image": getPartImage("Product_BX-00_25thAnniversary_Image", "products/hasbro/anniversary_set/product_bx-00_25th_anniversary.webp", "product box"),
     "contents": [

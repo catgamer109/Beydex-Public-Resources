@@ -24,6 +24,8 @@ If you have any of the images that are currently needed that are listed in "need
 - bobqwt
 - AWildPickle
 - @shutterbeys on Instagram
+- Luv_v
+- BeyGorr (TikTok and Instagram)
 
 
 # About the Beydex project:

@@ -13,15 +13,13 @@ need better pics:
 
 - Close up pic, less zoom this increases the clarity and pixel quality of the part itself 
 
-- DO NOT USE A FULLY WHITE OR FULLY BLACK BACKGROUND this makes it extremely hard to remove the background from parts, especially the middle of ratchets 
+- DO NOT USE A FULLY WHITE BACKGROUND this makes it extremely hard to remove the background from parts, especially the middle of ratchets 
 
 
 
 
-MOST OF CX-17 BOOSTER NEEDS TO BE DONE STILL
 
-
-Need better BBLD Launcher pics and box pics for each one
+Need better BBLD Launcher pics for each one
 
 
 Technically need box pic for Red AeroPegasus
@@ -152,8 +150,6 @@ Technically need box pic for Red AeroPegasus
 **Rush:**
 
 - Red Hulk
-
-- BBLD Black Drandagger
 
 
 **Vortex:**
