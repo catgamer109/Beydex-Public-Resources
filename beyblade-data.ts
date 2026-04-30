@@ -13597,7 +13597,7 @@ export const allParts: Part[] = [
     "series": ["CX", "CXE"],
     "company": "Takara Tomy",
     "spinDirection": "Right",
-    //"height": "70",
+    "height": "70",
     //"weight": 6.06,
     "type": "Balance",
     "image": getPartImage("O-Odd-Assist-cx-17-1", "assist_blades/normal/o/cx-17-1.webp", "assist blade"),
