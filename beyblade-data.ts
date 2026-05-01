@@ -12700,7 +12700,7 @@ export const allParts: Part[] = [
     "weight": 1.76,
     "image": getPartImage("Kraken-Hasbro-Wriggle-Kraken-S-3-85O", "lock_chips/normal/kraken/wrigglekraken.webp", "lock chip"),
     "variants": [
-      { "name": "Wriggle Kraken S 3-85O (Starter) (HB) (Default)", "image": getPartImage("Kraken-Hasbro-Wriggle-Kraken-S-3-85O", "lock_chips/normal/kraken/wrigglekraken.webp", "lock chip"), "stackedImage": getPartImage("Kraken-Hasbro-Wriggle-Kraken-S-3-85O", "lock_chips/stacked/kraken/wrigglekraken.webp", "lock chip"),"displayedName":"Wriggle Kraken S 3-85O (HB)" }
+      { "name": "Wriggle Kraken S 3-85O (Starter) (HB) (Default)", "image": getPartImage("Kraken-Hasbro-Wriggle-Kraken-S-3-85O", "lock_chips/normal/kraken/wrigglekraken.webp", "lock chip"), "stackedImage": getPartImage("Kraken-Hasbro-Wriggle-Kraken-S-3-85O", "lock_chips/stacked/kraken/wrigglekraken.webp", "lock chip"),"displayedName":"Wriggle Kraken S 3-85O (Starter) (HB)" }
     ]
   },
   {
@@ -12714,7 +12714,7 @@ export const allParts: Part[] = [
     "image": getPartImage("Stag-Hasbro-Antler-Stag-B-2-60HN", "lock_chips/normal/stag/antlerstag.webp", "lock chip"),
     "partStack60": true,
     "variants": [
-      { "name": "Antler Stag B 2-60HN (Starter) (HB) (Default)", "image": getPartImage("Stag-Hasbro-Antler-Stag-B-2-60HN", "lock_chips/normal/stag/antlerstag.webp", "lock chip"), "stackedImage": getPartImage("Stag-Hasbro-Antler-Stag-B-2-60HN", "lock_chips/stacked/stag/antlerstag.webp", "lock chip"),"displayedName":"Antler Stag B 2-60HN (HB)" }
+      { "name": "Antler Stag B 2-60HN (Starter) (HB) (Default)", "image": getPartImage("Stag-Hasbro-Antler-Stag-B-2-60HN", "lock_chips/normal/stag/antlerstag.webp", "lock chip"), "stackedImage": getPartImage("Stag-Hasbro-Antler-Stag-B-2-60HN", "lock_chips/stacked/stag/antlerstag.webp", "lock chip"),"displayedName":"Antler Stag B 2-60HN (Starter) (HB)" }
     ]
   },
   {
@@ -12777,7 +12777,7 @@ export const allParts: Part[] = [
     "image": getPartImage("Knight-cx-14", "lock_chips/normal/knight/cx-14.webp", "lock chip"),
     "variants": [
       { "name": "CX-14 (TT) (Default)", "image": getPartImage("Knight-cx-14", "lock_chips/normal/knight/cx-14.webp", "lock chip"), "stackedImage": getPartImage("Knight-cx-14", "lock_chips/stacked/knight/cx-14.webp", "lock chip"),"displayedName":"CX-14 (TT)" },
-      { "name": "Armor Knight GV 8-70UN (Starter) (HB)", "image": getPartImage("Knight-cx-14", "lock_chips/normal/knight/cx-14.webp", "lock chip"), "stackedImage": getPartImage("Knight-cx-14", "lock_chips/stacked/knight/cx-14.webp", "lock chip") }
+      { "name": "Armor Knight GV 8-70UN (Starter) (HB)", "image": getPartImage("Knight-cx-14", "lock_chips/normal/knight/cx-14.webp", "lock chip"), "stackedImage": getPartImage("Knight-cx-14", "lock_chips/stacked/knight/cx-14.webp", "lock chip"), "comingSoon":true }
     ]
   },
   {
@@ -12793,7 +12793,7 @@ export const allParts: Part[] = [
     "image": getPartImage("Ragna-cx-15", "lock_chips/normal/ragna/cx-15.webp", "lock chip"),
     "variants": [
       { "name": "CX-15 (TT) (Default)", "image": getPartImage("Ragna-cx-15", "lock_chips/normal/ragna/cx-15.webp", "lock chip"), "stackedImage": getPartImage("Ragna-cx-15", "lock_chips/stacked/ragna/cx-15.webp", "lock chip"),"displayedName":"CX-15 (TT)" },
-      { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("Ragna-cx-15", "lock_chips/normal/ragna/cx-15.webp", "lock chip"), "stackedImage": getPartImage("Ragna-cx-15", "lock_chips/stacked/ragna/cx-15.webp", "lock chip") }
+      { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("Ragna-cx-15", "lock_chips/normal/ragna/cx-15.webp", "lock chip"), "stackedImage": getPartImage("Ragna-cx-15", "lock_chips/stacked/ragna/cx-15.webp", "lock chip"), "comingSoon":true }
     ]
   },
   {
@@ -12860,7 +12860,7 @@ export const allParts: Part[] = [
     "image": getPartImage("G-Guard-cx-14", "over_blades/normal/g/cx-14.webp", "Over Blade"),
     "variants": [
       { "name": "CX-14 (TT) (Default)", "image": getPartImage("G-Guard-cx-14", "over_blades/normal/g/cx-14.webp", "Over Blade"), "stackedImage": getPartImage("G-Guard-cx-14", "over_blades/stacked/g/cx-14.webp", "Over Blade"),"displayedName":"CX-14 (TT)" },
-      { "name": "Armor Knight GV 8-70UN (Starter) (HB)", "image": getPartImage("G-Guard-cx-14", "over_blades/normal/g/cx-14.webp", "Over Blade"), "stackedImage": getPartImage("G-Guard-cx-14", "over_blades/stacked/g/cx-14.webp", "Over Blade") },
+      { "name": "Armor Knight GV 8-70UN (Starter) (HB)", "image": getPartImage("G-Guard-cx-14", "over_blades/normal/g/cx-14.webp", "Over Blade"), "stackedImage": getPartImage("G-Guard-cx-14", "over_blades/stacked/g/cx-14.webp", "Over Blade"), "comingSoon":true },
     ]
   },
   {
@@ -12876,7 +12876,7 @@ export const allParts: Part[] = [
     "image": getPartImage("F-Flow-cx-15", "over_blades/normal/f/cx-15.webp", "Over Blade"),
     "variants": [
       { "name": "CX-15 (TT) (Default)", "image": getPartImage("F-Flow-cx-15", "over_blades/normal/f/cx-15.webp", "Over Blade"), "stackedImage": getPartImage("F-Flow-cx-15", "over_blades/stacked/f/cx-15.webp", "Over Blade"),"displayedName":"CX-15 (TT)" },
-      { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("F-Flow-cx-15", "over_blades/normal/f/cx-15.webp", "Over Blade"), "stackedImage": getPartImage("F-Flow-cx-15", "over_blades/stacked/f/cx-15.webp", "Over Blade") },
+      { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("F-Flow-cx-15", "over_blades/normal/f/cx-15.webp", "Over Blade"), "stackedImage": getPartImage("F-Flow-cx-15", "over_blades/stacked/f/cx-15.webp", "Over Blade"), "comingSoon":true },
     ]
   },
   {
@@ -12928,7 +12928,7 @@ export const allParts: Part[] = [
     "image": getPartImage("Fortress-cx-14", "metal_blades/normal/fortress/cx-14.webp", "Metal Blade"),
     "variants": [
       { "name": "CX-14 (TT) (Default)", "image": getPartImage("Fortress-cx-14", "metal_blades/normal/fortress/cx-14.webp", "Metal Blade"), "stackedImage": getPartImage("Fortress-cx-14", "metal_blades/stacked/fortress/cx-14.webp", "Metal Blade"),"displayedName":"CX-14 (TT)" },
-      { "name": "Armor Knight GV 8-70UN (Starter) (HB)", "image": getPartImage("Fortress-cx-14", "metal_blades/normal/fortress/cx-14.webp", "Metal Blade"), "stackedImage": getPartImage("Fortress-cx-14", "metal_blades/stacked/fortress/cx-14.webp", "Metal Blade") },
+      { "name": "Armor Knight GV 8-70UN (Starter) (HB)", "image": getPartImage("Fortress-cx-14", "metal_blades/normal/fortress/cx-14.webp", "Metal Blade"), "stackedImage": getPartImage("Fortress-cx-14", "metal_blades/stacked/fortress/cx-14.webp", "Metal Blade"), "comingSoon":true },
     ]
   },
   {
@@ -12944,7 +12944,7 @@ export const allParts: Part[] = [
     "image": getPartImage("Rage-cx-15", "metal_blades/normal/rage/cx-15.webp", "Metal Blade"),
     "variants": [
       { "name": "CX-15 (TT) (Default)", "image": getPartImage("Rage-cx-15", "metal_blades/normal/rage/cx-15.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-cx-15", "metal_blades/stacked/rage/cx-15.webp", "Metal Blade"),"displayedName":"CX-15 (TT)" },
-      { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("Rage-cx-15", "metal_blades/normal/rage/cx-15.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-cx-15", "metal_blades/stacked/rage/cx-15.webp", "Metal Blade") },
+      { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("Rage-cx-15", "metal_blades/normal/rage/cx-15.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-cx-15", "metal_blades/stacked/rage/cx-15.webp", "Metal Blade"), "comingSoon":true },
     ]
   },
   {
@@ -13180,7 +13180,7 @@ export const allParts: Part[] = [
     "weight": 29.47,
     "image": getPartImage("Wriggle-HB-Wriggle-Kraken-S-3-85O", "main_blades/normal/wriggle/wrigglekrakens3-85o.webp", "blade"),
     "variants": [
-      { "name": "Wriggle Kraken S 3-85O (Starter) (HB) (Default)", "image": getPartImage("Wriggle-HB-Wriggle-Kraken-S-3-85O", "main_blades/normal/wriggle/wrigglekrakens3-85o.webp", "blade"), "stackedImage": getPartImage("Wriggle-HB-Wriggle-Kraken-S-3-85O", "main_blades/stacked/wriggle/wrigglekrakens3-85o.webp", "blade"),"displayedName":"Wriggle Kraken S 3-85O (HB)" }
+      { "name": "Wriggle Kraken S 3-85O (Starter) (HB) (Default)", "image": getPartImage("Wriggle-HB-Wriggle-Kraken-S-3-85O", "main_blades/normal/wriggle/wrigglekrakens3-85o.webp", "blade"), "stackedImage": getPartImage("Wriggle-HB-Wriggle-Kraken-S-3-85O", "main_blades/stacked/wriggle/wrigglekrakens3-85o.webp", "blade"),"displayedName":"Wriggle Kraken S 3-85O (Starter) (HB)" }
     ]
   },
   {
@@ -13195,7 +13195,7 @@ export const allParts: Part[] = [
     "echoOf": ["Flame-TT"],
     "image": getPartImage("Antler-HB-Antler-Stag-B-2-60HN", "main_blades/normal/antler/antlerstag.webp", "blade"),
     "variants": [
-      { "name": "Antler Stag B 2-60HN (Starter) (HB) (Default)", "image": getPartImage("Antler-HB-Antler-Stag-B-2-60HN", "main_blades/normal/antler/antlerstag.webp", "blade"), "stackedImage": getPartImage("Antler-HB-Antler-Stag-B-2-60HN", "main_blades/stacked/antler/antlerstag.webp", "blade"),"displayedName":"Antler Stag B 2-60HN (HB)" }
+      { "name": "Antler Stag B 2-60HN (Starter) (HB) (Default)", "image": getPartImage("Antler-HB-Antler-Stag-B-2-60HN", "main_blades/normal/antler/antlerstag.webp", "blade"), "stackedImage": getPartImage("Antler-HB-Antler-Stag-B-2-60HN", "main_blades/stacked/antler/antlerstag.webp", "blade"),"displayedName":"Antler Stag B 2-60HN (Starter) (HB)" }
     ]
   },
   {
@@ -13210,7 +13210,7 @@ export const allParts: Part[] = [
     "echoOf": ["Reaper-TT"],
     "image": getPartImage("Fort-HB-Fort-Hornet-R-7-60T", "main_blades/normal/fort/forthornet.webp", "blade"),
     "variants": [
-      { "name": "Fort Hornet R 7-60T (Starter) (HB) (Default)", "image": getPartImage("Fort-HB-Fort-Hornet-R-7-60T", "main_blades/normal/fort/forthornet.webp", "blade"), "stackedImage": getPartImage("Fort-HB-Fort-Hornet-R-7-60T", "main_blades/stacked/fort/forthornet.webp", "blade"),"displayedName":"Fort Hornet R 7-60T (HB)" }
+      { "name": "Fort Hornet R 7-60T (Starter) (HB) (Default)", "image": getPartImage("Fort-HB-Fort-Hornet-R-7-60T", "main_blades/normal/fort/forthornet.webp", "blade"), "stackedImage": getPartImage("Fort-HB-Fort-Hornet-R-7-60T", "main_blades/stacked/fort/forthornet.webp", "blade"),"displayedName":"Fort Hornet R 7-60T (Starter) (HB)" }
     ]
   },
   {
@@ -13570,7 +13570,7 @@ export const allParts: Part[] = [
     "image": getPartImage("V-Vertical-Assist-cx-14", "assist_blades/normal/v/cx-14.webp", "assist blade"),
     "variants": [
       { "name": "CX-14 (TT) (Default)", "image": getPartImage("V-Vertical-Assist-cx-14", "assist_blades/normal/v/cx-14.webp", "assist blade"), "stackedImage": getPartImage("V-Vertical-Assist-cx-14", "assist_blades/stacked/v/cx-14.webp", "assist blade"),"displayedName":"CX-14 (TT)" },
-      { "name": "Armor Knight GV 8-70UN (Starter) (HB)", "image": getPartImage("V-Vertical-Assist-cx-14", "assist_blades/normal/v/cx-14.webp", "assist blade"), "stackedImage": getPartImage("V-Vertical-Assist-cx-14", "assist_blades/stacked/v/cx-14.webp", "assist blade") },
+      { "name": "Armor Knight GV 8-70UN (Starter) (HB)", "image": getPartImage("V-Vertical-Assist-cx-14", "assist_blades/normal/v/cx-14.webp", "assist blade"), "stackedImage": getPartImage("V-Vertical-Assist-cx-14", "assist_blades/stacked/v/cx-14.webp", "assist blade"), "comingSoon":true },
     ]
   },
   {
@@ -13587,7 +13587,7 @@ export const allParts: Part[] = [
     "image": getPartImage("E-Erase-Assist-cx-15", "assist_blades/normal/e/cx-15.webp", "assist blade"),
     "variants": [
       { "name": "CX-15 (TT) (Default)", "image": getPartImage("E-Erase-Assist-cx-15", "assist_blades/normal/e/cx-15.webp", "assist blade"), "stackedImage": getPartImage("E-Erase-Assist-cx-15", "assist_blades/stacked/e/cx-15.webp", "assist blade"),"displayedName":"CX-15 (TT)" },
-      { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("E-Erase-Assist-cx-15", "assist_blades/normal/e/cx-15.webp", "assist blade"), "stackedImage": getPartImage("E-Erase-Assist-cx-15", "assist_blades/stacked/e/cx-15.webp", "assist blade") },
+      { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("E-Erase-Assist-cx-15", "assist_blades/normal/e/cx-15.webp", "assist blade"), "stackedImage": getPartImage("E-Erase-Assist-cx-15", "assist_blades/stacked/e/cx-15.webp", "assist blade"), "comingSoon":true },
     ]
   },
   {
