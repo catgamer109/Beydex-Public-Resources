@@ -29,7 +29,11 @@ Technically need box pic for Red AeroPegasus
 
 - PhoenixFeather Original Corocoro version
 
+- PhoenixWing Corocoro Navy Blue
+
 - Gold/Silver/Bronze DranSword
+
+- Gold/Silver/Bronze DranStrike
 
 
 
