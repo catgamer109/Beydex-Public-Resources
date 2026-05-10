@@ -29,7 +29,11 @@ Technically need box pic for Red AeroPegasus
 
 - PhoenixFeather Original Corocoro version
 
+- PhoenixWing Corocoro Navy Blue
+
 - Gold/Silver/Bronze DranSword
+
+- Gold/Silver/Bronze DranStrike
 
 
 
@@ -102,6 +106,11 @@ Technically need box pic for Red AeroPegasus
 - Shushiro Dransword
 
 - Dransword Gold/Silver/Bronze
+
+
+**Free Flat:**
+
+- Gold/Silver/Bronze DranStrike
 
 
 **Gear Ball:**
@@ -204,6 +213,11 @@ Technically need box pic for Red AeroPegasus
 - Persona Hellsscythe
 
 - General Grievous
+
+
+**4-50:**
+
+- Gold/Silver/Bronze DranStrike
 
 
 

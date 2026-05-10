@@ -6403,7 +6403,6 @@ export const allParts: Part[] = [
     "category": "Product",
     "series": ["BX", "BXE"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Product_BX-49_Image", "products/takara_tomy/bx-49/product_bx-49.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_BX-49", "variantName": "DranStrike 4-50FF" },
@@ -6417,7 +6416,6 @@ export const allParts: Part[] = [
     "type": "Attack",
     "series": ["BX", "BXE"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Beyblade_BX-49_Image", "products/takara_tomy/bx-49/beyblade_bx-49.webp", "beyblade"),
     "contents": [
       { "partId": "DranStrike", "variantName": "BX-49 (TT) (Default)" },
@@ -6426,12 +6424,86 @@ export const allParts: Part[] = [
     ]
   },
   {
+    "id": "Product_G1_DranStrike_Gold",
+    "name": "BX-00 DranStrike 4-50FF (Metal Coat: Gold)",
+    "category": "Product",
+    "series": ["BX", "BXE"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Product_DranStrike_Gold_Image", "products/takara_tomy/g1_dranstrikes/g1_gold.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_G1_DranStrike_Gold", "variantName": "DranStrike 4-50FF" },
+    ]
+  },
+  {
+    "id": "Beyblade_G1_DranStrike_Gold",
+    "name": "DranStrike 4-50FF",
+    "category": "Beyblades",
+    "type": "Attack",
+    "series": ["BX", "BXE"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Beyblade_DranStrike_Gold_Image", "products/takara_tomy/g1_dranstrikes/g1_gold.webp", "beyblade"),
+    "contents": [
+      { "partId": "DranStrike", "variantName": "G1 1st Prize (TT)" },
+      { "partId": "4-50", "variantName": "G1 1st Prize (TT)" },
+      { "partId": "FF", "variantName": "G1 1st Prize (TT)" }
+    ]
+  },
+  {
+    "id": "Product_G1_DranStrike_Silver",
+    "name": "BX-00 DranStrike 4-50FF (Metal Coat: Silver)",
+    "category": "Product",
+    "series": ["BX", "BXE"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Product_DranStrike_Silver_Image", "products/takara_tomy/g1_dranstrikes/g1_silver.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_G1_DranStrike_Silver", "variantName": "DranStrike 4-50FF" },
+    ]
+  },
+  {
+    "id": "Beyblade_G1_DranStrike_Silver",
+    "name": "DranStrike 4-50FF",
+    "category": "Beyblades",
+    "type": "Attack",
+    "series": ["BX", "BXE"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Beyblade_DranStrike_Silver_Image", "products/takara_tomy/g1_dranstrikes/g1_silver.webp", "beyblade"),
+    "contents": [
+      { "partId": "DranStrike", "variantName": "G1 2nd Prize (TT)" },
+      { "partId": "4-50", "variantName": "G1 2nd Prize (TT)" },
+      { "partId": "FF", "variantName": "G1 2nd Prize (TT)" }
+    ]
+  },
+  {
+    "id": "Product_G1_DranStrike_Bronze",
+    "name": "BX-00 DranStrike 4-50FF (Metal Coat: Bronze)",
+    "category": "Product",
+    "series": ["BX", "BXE"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Product_DranStrike_Bronze_Image", "products/takara_tomy/g1_dranstrikes/g1_bronze.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_G1_DranStrike_Bronze", "variantName": "DranStrike 4-50FF" },
+    ]
+  },
+  {
+    "id": "Beyblade_G1_DranStrike_Bronze",
+    "name": "DranStrike 4-50FF",
+    "category": "Beyblades",
+    "type": "Attack",
+    "series": ["BX", "BXE"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Beyblade_DranStrike_Bronze_Image", "products/takara_tomy/g1_dranstrikes/g1_bronze.webp", "beyblade"),
+    "contents": [
+      { "partId": "DranStrike", "variantName": "G1 3rd Prize (TT)" },
+      { "partId": "4-50", "variantName": "G1 3rd Prize (TT)" },
+      { "partId": "FF", "variantName": "G1 3rd Prize (TT)" }
+    ]
+  },
+  {
     "id": "Product_SamuraiSaber_JFA", 
     "name": "UX-00 Starter SamuraiSaber 5-60K (Metal Coat: Samurai Blue JFA Ver.)",
     "category": "Product",
     "series": ["UX"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Product_SamuraiSaber_JFA_Image", "products/takara_tomy/samuraisaber_jfa/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_SamuraiSaber_JFA", "variantName": "SamuraiSaber 5-60K" },
@@ -6445,7 +6517,6 @@ export const allParts: Part[] = [
     "type": "Balance",
     "series": ["UX"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Beyblade_SamuraiSaber_JFA_Image", "products/takara_tomy/samuraisaber_jfa/beyblade.webp", "beyblade"),
     "contents": [
       { "partId": "SamuraiSaber", "variantName": "UX-00 Metal Coat: Samurai Blue JFA Ver. (TT)" },
@@ -11892,7 +11963,7 @@ export const allParts: Part[] = [
       { "name": "UX-09 (TT) (Default)", "image": getPartImage("SamuraiSaber-UX-09", "blades/samuraisaber/ux-09.webp", "blade"),"displayedName":"UX-09 (TT)" },
       { "name": "Corocoro (TT)", "image": getPartImage("SamuraiSaber-corocoro", "blades/samuraisaber/corocoro.webp", "blade") },
       { "name": "CX-17-3 (TT)", "image": getPartImage("SamuraiSaber-CX-17-3", "blades/samuraisaber/cx-17-3.webp", "blade")},
-      { "name": "UX-00 Metal Coat: Samurai Blue JFA Ver. (TT)", "image": getPartImage("SamuraiSaber-UX-00", "blades/samuraisaber/jfa.webp", "blade"),"comingSoon":true}
+      { "name": "UX-00 Metal Coat: Samurai Blue JFA Ver. (TT)", "image": getPartImage("SamuraiSaber-UX-00", "blades/samuraisaber/jfa.webp", "blade")}
     ]
   },
   {
@@ -12363,7 +12434,7 @@ export const allParts: Part[] = [
     "restrictions": {
       "ratchetType": ["Normal", "Simple", "Fusion"],
     },
-    //"weight": ,
+    "weight": 60.93,
     "image": getPartImage("UX-19 (Default)", "blades/bulletgriffon/ux-19.webp", "blade"),
     "variants": [
       { "name": "UX-19 (TT) (Default)", "image": getPartImage("UX-19 (Default)", "blades/bulletgriffon/ux-19.webp", "blade"),"displayedName":"UX-19 (TT)" }
@@ -12397,11 +12468,14 @@ export const allParts: Part[] = [
     "company": "Takara Tomy",
     "spinDirection": "Right",
     "identicalId": ["StrikeDran"],
-    "comingSoon": true,
     //"weight": ,
     "image": getPartImage("BX-49 (Default)", "blades/dranstrike/bx-49.webp", "blade"),
     "variants": [
-      { "name": "BX-49 (TT) (Default)", "image": getPartImage("BX-49 (Default)", "blades/dranstrike/bx-49.webp", "blade"),"displayedName":"BX-49 (TT)" }
+      { "name": "BX-49 (TT) (Default)", "image": getPartImage("BX-49 (Default)", "blades/dranstrike/bx-49.webp", "blade"),"displayedName":"BX-49 (TT)" },
+      { "name": "G1 1st Prize (TT)", "image": getPartImage("G1 1st Prize (TT)", "blades/dranstrike/g1_gold.webp", "blade")},
+      { "name": "G1 2nd Prize (TT)", "image": getPartImage("G1 2nd Prize (TT)", "blades/dranstrike/g1_silver.webp", "blade")},
+      { "name": "G1 3rd Prize (TT)", "image": getPartImage("G1 3rd Prize (TT)", "blades/dranstrike/g1_bronze.webp", "blade")},
+
     ]
   },
   {
@@ -12820,7 +12894,7 @@ export const allParts: Part[] = [
     "company": "Takara Tomy",
     "spinDirection": "Right",
     "partStack60":true,
-    "weight": 1.71,
+    "weight": 1.72,
     "image": getPartImage("Unicorn", "lock_chips/normal/unicorn/cx-17-1.webp", "lock chip"),
     "variants": [
       { "name": "CX-17-1 (TT) (Default)", "image": getPartImage("Unicorn", "lock_chips/normal/unicorn/cx-17-1.webp", "lock chip"), "stackedImage": getPartImage("unicorn", "lock_chips/stacked/unicorn/cx-17-1.webp", "lock chip"),"displayedName":"CX-17-1 (TT)" },
@@ -12887,7 +12961,7 @@ export const allParts: Part[] = [
     "series": ["CXE", "CX"],
     "company": "Takara Tomy",
     "spinDirection": "Right",
-    //"weight": ,
+    "weight": 3.47,
     "image": getPartImage("P-Peak-cx-17-1", "over_blades/normal/p/cx-17-1.webp", "Over Blade"),
     "variants": [
       { "name": "CX-17-1 (TT) (Default)", "image": getPartImage("P-Peak-cx-17-1", "over_blades/normal/p/cx-17-1.webp", "Over Blade"), "stackedImage": getPartImage("P-Peak-cx-17-1", "over_blades/stacked/p/cx-17-1.webp", "Over Blade"),"displayedName":"CX-17-1 (TT)" },
@@ -12955,7 +13029,7 @@ export const allParts: Part[] = [
     "series": ["CXE", "CX"],
     "company": "Takara Tomy",
     "spinDirection": "Right",
-    //"weight": ,
+    "weight": 27.88,
     "image": getPartImage("Delta-cx-17-1", "metal_blades/normal/delta/cx-17-1.webp", "Metal Blade"),
     "variants": [
       { "name": "CX-17-1 (TT) (Default)", "image": getPartImage("Delta-cx-17-1", "metal_blades/normal/delta/cx-17-1.webp", "Metal Blade"), "stackedImage": getPartImage("Delta-cx-17-1", "metal_blades/stacked/delta/cx-17-1.webp", "Metal Blade"),"displayedName":"CX-17-1 (TT)" },
@@ -13598,7 +13672,7 @@ export const allParts: Part[] = [
     "company": "Takara Tomy",
     "spinDirection": "Right",
     "height": "70",
-    //"weight": 6.06,
+    "weight": 4.44,
     "type": "Balance",
     "image": getPartImage("O-Odd-Assist-cx-17-1", "assist_blades/normal/o/cx-17-1.webp", "assist blade"),
     "variants": [
@@ -13648,8 +13722,8 @@ export const allParts: Part[] = [
       { "name": "BBLD (Pink)", "image": getPartImage("Winder-Launcher-BBLD-Pink", "launchers/tt_winder_launcher/bbld_pink.webp", "winder launcher")},
       { "name": "BBLD (Green)", "image": getPartImage("Winder-Launcher-BBLD-Green", "launchers/tt_winder_launcher/bbld_green.webp", "winder launcher")},
       { "name": "BBLD (Orange)", "image": getPartImage("Winder-Launcher-BBLD-Orange", "launchers/tt_winder_launcher/bbld_orange.webp", "winder launcher")},
-      { "name": "BX-49", "image": getPartImage("Winder-Launcher-BX-49", "launchers/tt_winder_launcher/bx-49.webp", "winder launcher"), "comingSoon": true },
-      {"name": "UX-00 (SamuraiSaber Metal Coat: Samurai Blue JFA Ver.)", "image": getPartImage("Winder-Launcher-UX-00-(SamuraiSaber-Metal-Coat:-Samurai-Blue-JFA-Ver.)", "launchers/tt_winder_launcher/samuraisaber_jfa.webp", "winder launcher"), "comingSoon":true}
+      { "name": "BX-49", "image": getPartImage("Winder-Launcher-BX-49", "launchers/tt_winder_launcher/bx-49.webp", "winder launcher")},
+      {"name": "UX-00 (SamuraiSaber Metal Coat: Samurai Blue JFA Ver.)", "image": getPartImage("Winder-Launcher-UX-00-(SamuraiSaber-Metal-Coat:-Samurai-Blue-JFA-Ver.)", "launchers/tt_winder_launcher/samuraisaber_jfa.webp", "winder launcher")}
     ]
   },
   {
@@ -14333,11 +14407,13 @@ export const allParts: Part[] = [
       //"weight": ,
       "company": "Takara Tomy",
       "alsoShowUnder": ["Hasbro"],
-      "comingSoon": true,
       "image": getPartImage("FF-BX-49", "bits/ff/bx-49.webp", "bit"),
       "variants": [
         { "name": "BX-49 (TT)", "image": getPartImage("FF-BX-49", "bits/ff/bx-49.webp", "bit") },
-        { "name": "Strike Dran 4-50FF (Starter) (HB)", "image": getPartImage("FF-strikedran", "bits/ff/bx-49.webp", "bit") }
+        { "name": "Strike Dran 4-50FF (Starter) (HB)", "image": getPartImage("FF-strikedran", "bits/ff/bx-49.webp", "bit"), "comingSoon":true },
+        { "name": "G1 1st Prize (TT)", "image": getPartImage("FF-G1-Gold", "bits/ff/g1_gold.webp", "bit") },
+        { "name": "G1 2nd Prize (TT)", "image": getPartImage("FF-G1-Silver", "bits/ff/g1_silver.webp", "bit") },
+        { "name": "G1 3rd Prize (TT)", "image": getPartImage("FF-G1-Bronze", "bits/ff/g1_bronze.webp", "bit") }
       ]
 
     },
@@ -14491,7 +14567,7 @@ export const allParts: Part[] = [
       "attributes": ["Balance", "High", "12-tooth (Normal)"],
       "resistance": "High",
       "xDashGear": "12-tooth (Normal)",
-      //"weight": ,
+      "weight": 2.27,
       "company": "Takara Tomy",
       "image": getPartImage("GU-CX-17-1", "bits/gu/cx-17-1.webp", "bit"),
       "variants": [
@@ -14627,7 +14703,7 @@ export const allParts: Part[] = [
         { "name": "CX-05-6 (TT)", "image": getPartImage("K-CX-05-6", "bits/k/cx-05-6.webp", "bit") },
         { "name": "Reaper Incendio T 4-70K (Starter) (HB)", "image": getPartImage("K-CX-05-1", "bits/k/reaperincendio.webp", "bit"), "identicalVariants": ["CX-05-1 (TT)"] },
         { "name": "Corocoro (DranArc) (TT)", "image": getPartImage("K-DranArc", "bits/k/dranarc.webp", "bit") },
-        { "name": "UX-00 (SamuraiSaber Metal Coat: Samurai Blue JFA Ver.) (TT)", "image": getPartImage("K-UX-00-SamuraiSaber-Metal-Coat-Samurai-Blue-JFA-Ver.", "bits/k/samuraisaber_jfa.webp", "bit"), "comingSoon": true}
+        { "name": "UX-00 (SamuraiSaber Metal Coat: Samurai Blue JFA Ver.) (TT)", "image": getPartImage("K-UX-00-SamuraiSaber-Metal-Coat-Samurai-Blue-JFA-Ver.", "bits/k/samuraisaber_jfa.webp", "bit")}
       ]
     },
     {
@@ -15591,8 +15667,11 @@ export const allParts: Part[] = [
       "variants": [
         { "name": "UX-15 (TT) (Default)", "image": getPartImage("4-50-UX-15", "ratchets/4-50/ux-15.webp", "ratchet"),"displayedName": "UX-15 (TT)" },
         { "name": "Scale Shark 4-50UF (Booster) (HB)", "image": getPartImage("4-50-UX-15", "ratchets/4-50/scaleshark4-50uf.webp", "ratchet") },
-        { "name": "BX-49 (TT)", "image": getPartImage("4-50-BX-49", "ratchets/4-50/bx-49.webp", "ratchet"), "comingSoon": true },
-        { "name": "Strike Dran 4-50FF (Starter) (HB)", "image": getPartImage("4-50-strikedran", "ratchets/4-50/bx-49.webp", "ratchet"), "comingSoon": true }
+        { "name": "BX-49 (TT)", "image": getPartImage("4-50-BX-49", "ratchets/4-50/bx-49.webp", "ratchet")},
+        { "name": "Strike Dran 4-50FF (Starter) (HB)", "image": getPartImage("4-50-strikedran", "ratchets/4-50/bx-49.webp", "ratchet"), "comingSoon": true },
+        { "name": "G1 1st Prize (TT)", "image": getPartImage("4-50-G1-Gold", "ratchets/4-50/g1_gold.webp", "ratchet")},
+        { "name": "G1 2nd Prize (TT)", "image": getPartImage("4-50-G1-Silver", "ratchets/4-50/g1_silver.webp", "ratchet")},
+        { "name": "G1 3rd Prize (TT)", "image": getPartImage("4-50-G1-Bronze", "ratchets/4-50/g1_bronze.webp", "ratchet")}
       ]
     },
     {
@@ -15759,7 +15838,7 @@ export const allParts: Part[] = [
         { "name": "Sting Unicorn 5-60GP (Booster) (HB)", "image": getPartImage("5-60-BX-26", "ratchets/5-60/stingunicorn4-60gp.webp", "ratchet"), "identicalVariants": ["BX-26 (TT)"] },
         { "name": "X-Treme Battlers Pack (HB)", "image": getPartImage("5-60-XBP", "ratchets/5-60/xbp.webp", "ratchet") },
         { "name": "BBLD (UnicornSting Metal Coat: Pink) (TT)", "image": getPartImage("5-60-BBLD-Pink", "ratchets/5-60/bbld_pink.webp", "ratchet") },
-        { "name": "UX-00 (SamuraiSaber Metal Coat: Samurai Blue JFA Ver.) (TT)", "image": getPartImage("5-60-UX-00-SamuraiSaber-Metal-Coat-Samurai-Blue-JFA-Ver.", "ratchets/5-60/samuraisaber_jfa.webp", "ratchet"), "comingSoon": true}
+        { "name": "UX-00 (SamuraiSaber Metal Coat: Samurai Blue JFA Ver.) (TT)", "image": getPartImage("5-60-UX-00-SamuraiSaber-Metal-Coat-Samurai-Blue-JFA-Ver.", "ratchets/5-60/samuraisaber_jfa.webp", "ratchet")}
       ]
     },
     {
