@@ -6563,7 +6563,7 @@ export const allParts: Part[] = [
 
   // Coming Soon June 1st 2026
   
-  /*
+ 
   {
     "id": "FullBlade_RagnaRage_g3",
     "name": "RagnaRage FE (G3 1st Prize)",
@@ -6571,7 +6571,7 @@ export const allParts: Part[] = [
     "series": ["CX", "CXE"],
     "company": "Takara Tomy",
     "comingSoon":true,
-    "image": getPartImage("FullBlade_RagnaG3_Image", "products/takara_tomy/ragnag3/fullblade.webp", "blade"),
+    "image": getPartImage("FullBlade_RagnaG3_Image", "products/takara_tomy/ragnarageg3/fullblade.webp", "blade"),
     "contents": [
       { "partId": "Ragna", "variantName": "G3 1st Prize (TT)" },
       { "partId": "Rage", "variantName": "G3 1st Prize (TT)" },
@@ -6579,7 +6579,154 @@ export const allParts: Part[] = [
       { "partId": "E-Erase-Assist", "variantName": "G3 1st Prize (TT)" }
     ]
   },
-*/
+
+  // Coming Soon June 13th 2026
+
+  {
+    "id": "BX-51_String_Launcher_Black_Green",
+    "name": "BX-51 String Launcher (Black x Green)",
+    "category": "Product",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Product_BX-51_String_Launcher_Black_Green_Image", "products/takara_tomy/bx-51/product.webp", "product box"),
+    "contents":[
+      {"partId": "TT_StringLauncher", "variantName": "BX-51"},
+    ]
+
+  },
+
+
+  {
+    "id": "Product_CX-18-1",
+    "name": "CX-18-1 Random Booster BrachioWhip Select",
+    "category": "Product",
+    "series": ["CX", "CXE"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Product_CX-18-1_Image", "products/takara_tomy/cx-18-1/product.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_CX-18-1", "variantName": "BrachioWhip OW5-70Nr" }
+    ]
+  },
+  {
+    "id": "Beyblade_CX-18-1",
+    "name": "BrachioWhip OW5-70Nr",
+    "category": "Beyblades",
+    "type": "Stamina",
+    "series": ["CX", "CXE"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Beyblade_CX-18-1_Image", "products/takara_tomy/cx-18-1/beyblade.webp", "beyblade"),
+    "contents": [
+      { "partId": "FullBlade_CX-18-1", "variantName": "BrachioWhip OW" },
+      { "partId": "5-70", "variantName": "CX-18-1 (TT)" },
+      { "partId": "Nr", "variantName": "CX-18-1 (TT)" }
+    ]
+  },
+  {
+    "id": "FullBlade_CX-18-1",
+    "name": "BrachioWhip OW",
+    "category": "Full Blade",
+    "series": ["CX", "CXE"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("FullBlade_CX-18-1_Image", "products/takara_tomy/cx-18-1/fullblade.webp", "blade"),
+    "contents": [
+      { "partId": "Brachio", "variantName": "CX-18-1 (TT) (Default)" },
+      { "partId": "Whip", "variantName": "CX-18-1 (TT) (Default)" },
+      { "partId": "O-Outer", "variantName": "CX-18-1 (TT) (Default)" },
+      { "partId": "W-Wheel-TT", "variantName": "CX-18-1 (TT)" }
+    ]
+  },
+
+  {
+    "id": "Product_CX-18-2",
+    "name": "CX-18-2 Random Booster BrachioWhip Select",
+    "category": "Product",
+    "series": ["CX", "CXE"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Product_CX-18-2_Image", "products/takara_tomy/cx-18-2/product.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_CX-18-2", "variantName": "BrachioWhip OW5-70Nr" }
+    ]
+  },
+  {
+    "id": "Beyblade_CX-18-2",
+    "name": "BrachioWhip OW5-70Nr",
+    "category": "Beyblades",
+    "type": "Stamina",
+    "series": ["CX", "CXE"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Beyblade_CX-18-2_Image", "products/takara_tomy/cx-18-2/beyblade.webp", "beyblade"),
+    "contents": [
+      { "partId": "FullBlade_CX-18-2", "variantName": "BrachioWhip OW" },
+      { "partId": "5-70", "variantName": "CX-18-2 (TT)" },
+      { "partId": "Nr", "variantName": "CX-18-2 (TT)" }
+    ]
+  },
+  {
+    "id": "FullBlade_CX-18-2",
+    "name": "BrachioWhip OW",
+    "category": "Full Blade",
+    "series": ["CX", "CXE"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("FullBlade_CX-18-2_Image", "products/takara_tomy/cx-18-2/fullblade.webp", "blade"),
+    "contents": [
+      { "partId": "Brachio", "variantName": "CX-18-2 (TT)" },
+      { "partId": "Whip", "variantName": "CX-18-2 (TT)" },
+      { "partId": "O-Outer", "variantName": "CX-18-2 (TT)" },
+      { "partId": "W-Wheel-TT", "variantName": "CX-18-2 (TT)" }
+    ]
+  },
+
+  {
+    "id": "Product_CX-18-3",
+    "name": "CX-18-3 Random Booster BrachioWhip Select",
+    "category": "Product",
+    "series": ["CX", "CXE"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Product_CX-18-3_Image", "products/takara_tomy/cx-18-3/product.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_CX-18-3", "variantName": "BrachioWhip OW5-70Nr" }
+    ]
+  },
+  {
+    "id": "Beyblade_CX-18-3",
+    "name": "BrachioWhip OW5-70Nr",
+    "category": "Beyblades",
+    "type": "Stamina",
+    "series": ["CX", "CXE"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Beyblade_CX-18-3_Image", "products/takara_tomy/cx-18-3/beyblade.webp", "beyblade"),
+    "contents": [
+      { "partId": "FullBlade_CX-18-3", "variantName": "BrachioWhip OW" },
+      { "partId": "5-70", "variantName": "CX-18-3 (TT)" },
+      { "partId": "Nr", "variantName": "CX-18-3 (TT)" }
+    ]
+  },
+  {
+    "id": "FullBlade_CX-18-3",
+    "name": "BrachioWhip OW",
+    "category": "Full Blade",
+    "series": ["CX", "CXE"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("FullBlade_CX-18-3_Image", "products/takara_tomy/cx-18-3/fullblade.webp", "blade"),
+    "contents": [
+      { "partId": "Brachio", "variantName": "CX-18-3 (TT)" },
+      { "partId": "Whip", "variantName": "CX-18-3 (TT)" },
+      { "partId": "O-Outer", "variantName": "CX-18-3 (TT)" },
+      { "partId": "W-Wheel-TT", "variantName": "CX-18-3 (TT)" }
+    ]
+  },
+
+
 
   // Coming Soon August 29th
 
@@ -13300,6 +13447,23 @@ export const allParts: Part[] = [
       { "name": "CX-17-2 (TT)", "image": getPartImage("Unicorn", "lock_chips/normal/unicorn/cx-17-2.webp", "lock chip"), "stackedImage": getPartImage("unicorn", "lock_chips/stacked/unicorn/cx-17-2.webp", "lock chip") },
     ]
   },
+  {
+    "id": "Brachio",
+    "name": "Brachio",
+    "category": "Lock Chip",
+    "series": ["CX"],
+    "company": "Takara Tomy",
+    "spinDirection": "Right",
+    "partStack60":true,
+    "comingSoon":true,
+    //"weight": 1.72,
+    "image": getPartImage("Brachio", "lock_chips/normal/brachio/cx-18-1.webp", "lock chip"),
+    "variants": [
+      { "name": "CX-18-1 (TT) (Default)", "image": getPartImage("Brachio", "lock_chips/normal/brachio/cx-18-1.webp", "lock chip"), "stackedImage": getPartImage("Brachio", "lock_chips/stacked/brachio/cx-18-1.webp", "lock chip"),"displayedName":"CX-18-1 (TT)" },
+      //{ "name": "CX-18-2 (TT)", "image": getPartImage("Brachio", "lock_chips/normal/brachio/cx-18-2.webp", "lock chip"), "stackedImage": getPartImage("Brachio", "lock_chips/stacked/brachio/cx-18-2.webp", "lock chip") },
+      //{ "name": "CX-18-3 (TT)", "image": getPartImage("Brachio", "lock_chips/normal/brachio/cx-18-3.webp", "lock chip"), "stackedImage": getPartImage("Brachio", "lock_chips/stacked/brachio/cx-18-3.webp", "lock chip") },
+    ]
+  },
 
   // Over Blades
   {
@@ -13365,7 +13529,24 @@ export const allParts: Part[] = [
     "image": getPartImage("P-Peak-cx-17-1", "over_blades/normal/p/cx-17-1.webp", "Over Blade"),
     "variants": [
       { "name": "CX-17-1 (TT) (Default)", "image": getPartImage("P-Peak-cx-17-1", "over_blades/normal/p/cx-17-1.webp", "Over Blade"), "stackedImage": getPartImage("P-Peak-cx-17-1", "over_blades/stacked/p/cx-17-1.webp", "Over Blade"),"displayedName":"CX-17-1 (TT)" },
-      { "name": "CX-17-2 (TT)", "image": getPartImage("P-Peak-cx-17-2", "over_blades/normal/p/cx-17-2.webp", "Over Blade"), "stackedImage": getPartImage("P-Peak-cx-17-2", "over_blades/stacked/p/cx-17-2.webp", "Over Blade"),"displayedName":"CX-17-2 (TT)" },
+      { "name": "CX-17-2 (TT)", "image": getPartImage("P-Peak-cx-17-2", "over_blades/normal/p/cx-17-2.webp", "Over Blade"), "stackedImage": getPartImage("P-Peak-cx-17-2", "over_blades/stacked/p/cx-17-2.webp", "Over Blade") },
+    ]
+  },
+  {
+    "id": "O-Outer",
+    "name": "O (Outer)",
+    "category": "Over Blade",
+    "type": "Stamina",
+    "series": ["CXE", "CX"],
+    "company": "Takara Tomy",
+    "spinDirection": "Right",
+    "comingSoon":true,
+    //"weight": 3.47,
+    "image": getPartImage("O-Outer-cx-18-1", "over_blades/normal/o/cx-18-1.webp", "Over Blade"),
+    "variants": [
+      { "name": "CX-18-1 (TT) (Default)", "image": getPartImage("O-Outer-cx-18-1", "over_blades/normal/o/cx-18-1.webp", "Over Blade"), "stackedImage": getPartImage("O-Outer-cx-18-1", "over_blades/stacked/o/cx-18-1.webp", "Over Blade"),"displayedName":"CX-18-1 (TT)" },
+      //{ "name": "CX-18-2 (TT)", "image": getPartImage("O-Outer-cx-18-2", "over_blades/normal/o/cx-18-2.webp", "Over Blade"), "stackedImage": getPartImage("O-Outer-cx-18-2", "over_blades/stacked/o/cx-18-2.webp", "Over Blade") },
+      //{ "name": "CX-18-3 (TT)", "image": getPartImage("O-Outer-cx-18-3", "over_blades/normal/o/cx-18-3.webp", "Over Blade"), "stackedImage": getPartImage("O-Outer-cx-18-3", "over_blades/stacked/o/cx-18-3.webp", "Over Blade") },
     ]
   },
 
@@ -13435,6 +13616,23 @@ export const allParts: Part[] = [
     "variants": [
       { "name": "CX-17-1 (TT) (Default)", "image": getPartImage("Delta-cx-17-1", "metal_blades/normal/delta/cx-17-1.webp", "Metal Blade"), "stackedImage": getPartImage("Delta-cx-17-1", "metal_blades/stacked/delta/cx-17-1.webp", "Metal Blade"),"displayedName":"CX-17-1 (TT)" },
       { "name": "CX-17-2 (TT)", "image": getPartImage("Delta-cx-17-2", "metal_blades/normal/delta/cx-17-2.webp", "Metal Blade"), "stackedImage": getPartImage("Delta-cx-17-2", "metal_blades/stacked/delta/cx-17-2.webp", "Metal Blade")},
+    ]
+  },
+  {
+    "id": "Whip",
+    "name": "Whip",
+    "category": "Metal Blade",
+    "type": "Stamina",
+    "series": ["CXE", "CX"],
+    "company": "Takara Tomy",
+    "spinDirection": "Right",
+    "comingSoon":true,
+    //"weight": 27.88,
+    "image": getPartImage("Whip-cx-18-1", "metal_blades/normal/whip/cx-18-1.webp", "Metal Blade"),
+    "variants": [
+      { "name": "CX-18-1 (TT) (Default)", "image": getPartImage("Whip-cx-18-1", "metal_blades/normal/whip/cx-18-1.webp", "Metal Blade"), "stackedImage": getPartImage("Whip-cx-18-1", "metal_blades/stacked/whip/cx-18-1.webp", "Metal Blade"),"displayedName":"CX-18-1 (TT)" },
+      //{ "name": "CX-18-2 (TT)", "image": getPartImage("Whip-cx-18-2", "metal_blades/normal/whip/cx-18-2.webp", "Metal Blade"), "stackedImage": getPartImage("Whip-cx-18-2", "metal_blades/stacked/whip/cx-18-2.webp", "Metal Blade")},
+      //{ "name": "CX-18-3 (TT)", "image": getPartImage("Whip-cx-18-3", "metal_blades/normal/whip/cx-18-3.webp", "Metal Blade"), "stackedImage": getPartImage("Whip-cx-18-3", "metal_blades/stacked/whip/cx-18-3.webp", "Metal Blade")},
     ]
   },
 
@@ -13925,6 +14123,10 @@ export const allParts: Part[] = [
       { "name": "CX-08-1 (TT) (Default)", "image": getPartImage("W-Wheel-TT-CX-08-1", "assist_blades/normal/w/cx-08-1.webp", "assist blade"), "stackedImage": getPartImage("W-Wheel-TT-CX-08-1", "assist_blades/stacked/w/cx-08-1.webp", "assist blade"),"displayedName":"CX-08-1 (TT)" },
       { "name": "CX-08-3 (TT)", "image": getPartImage("W-Wheel-TT-CX-08-3", "assist_blades/normal/w/cx-08-3.webp", "assist blade"), "stackedImage": getPartImage("W-Wheel-TT-CX-08-3", "assist_blades/stacked/w/cx-08-3.webp", "assist blade") },
       { "name": "Flame Cerberus W 5-80WB (Starter) (HB)", "image": getPartImage("W-Wheel-TT-CX-08-1", "assist_blades/normal/w/cx-08-1.webp", "assist blade"), "stackedImage": getPartImage("W-Wheel-TT-CX-08-1", "assist_blades/stacked/w/cx-08-1.webp", "assist blade") },
+      { "name": "CX-18-1 (TT)", "image": getPartImage("W-Wheel-TT-CX-18-1", "assist_blades/normal/w/cx-18-1.webp", "assist blade"), "stackedImage": getPartImage("W-Wheel-TT-CX-18-1", "assist_blades/stacked/w/cx-18-1.webp", "assist blade"), "comingSoon":true},
+      //{ "name": "CX-18-2 (TT)", "image": getPartImage("W-Wheel-TT-CX-18-2", "assist_blades/normal/w/cx-18-2.webp", "assist blade"), "stackedImage": getPartImage("W-Wheel-TT-CX-18-2", "assist_blades/stacked/w/cx-18-2.webp", "assist blade"), "comingSoon":true},
+      //{ "name": "CX-18-3 (TT)", "image": getPartImage("W-Wheel-TT-CX-18-3", "assist_blades/normal/w/cx-18-3.webp", "assist blade"), "stackedImage": getPartImage("W-Wheel-TT-CX-18-3", "assist_blades/stacked/w/cx-18-3.webp", "assist blade"), "comingSoon":true},
+    
     ]
   },
   {
@@ -14206,7 +14408,8 @@ export const allParts: Part[] = [
       { "name": "DMM Lottory Exclusive", "image": getPartImage("String-DMM-TT", "launchers/tt_string_launcher/dmm_lotto.webp", "String launcher") },
       { "name": "B4 Exclusive Color Ver. (Green)", "image": getPartImage("String-B4-Green", "launchers/tt_string_launcher/green.webp", "String launcher") },
       { "name": "B4 Exclusive Color Ver. (Pink)", "image": getPartImage("String-B4-Green", "launchers/tt_string_launcher/pink.webp", "String launcher") },
-      { "name": "B4 Exclusive Color Ver. (Orange)", "image": getPartImage("String-B4-Green", "launchers/tt_string_launcher/orange.webp", "String launcher") }
+      { "name": "B4 Exclusive Color Ver. (Orange)", "image": getPartImage("String-B4-Green", "launchers/tt_string_launcher/orange.webp", "String launcher") },
+      { "name": "BX-51", "image": getPartImage("String-BX-51", "launchers/tt_string_launcher/bx-51.webp", "String launcher"), "comingSoon": true }
     ]
 
   },
@@ -14722,7 +14925,7 @@ export const allParts: Part[] = [
       "category": "Bit",
       "type": "Defense",
       "attributes": ["Defense", "Ultra Low", "12-tooth (Normal)"],
-      "resistance": "UltraLow",
+      "resistance": "Ultra Low",
       "xDashGear": "12-tooth (Normal)",
       //"weight": 1.99,
       "company": "Hasbro",
@@ -15295,6 +15498,24 @@ export const allParts: Part[] = [
         { "name": "Venom 3-80N (Dual Pack) (HB)", "image": getPartImage("N-UX-12-4", "bits/n/venom.webp", "bit"), "identicalVariants": ["UX-12-4 (TT)", "BXG-30 (Venom) (TT)"] },
         { "name": "Feather Phoenix 2-60N (Starter) (HB)", "image": getPartImage("N-UX-12-5", "bits/n/featherphoenix.webp", "bit") },
         { "name": "CX-17-5 (TT)", "image": getPartImage("N-CX-17-5", "bits/n/cx-17-5.webp", "bit",)}
+      ]
+    },
+    {
+      "id": "Nr",
+      "name": "Nr (Narrow)",
+      "category": "Bit",
+      "type": "Stamina",
+      "attributes": ["Stamina", "Low", "10-tooth (Rush)"],
+      "resistance": "Low",
+      "xDashGear": "10-tooth (Rush)",
+      //"weight": 2.0,
+      "company": "Takara Tomy",
+      "comingSoon" :true,
+      "image": getPartImage("Nr-CX-18-1", "bits/nr/cx-18-1.webp", "bit"),
+      "variants": [
+        { "name": "CX-18-1 (TT)", "image": getPartImage("Nr-CX-18-1", "bits/nr/cx-18-1.webp", "bit")},
+        //{ "name": "CX-18-2 (TT)", "image": getPartImage("Nr-CX-18-2", "bits/nr/cx-18-2.webp", "bit")},
+        //{ "name": "CX-18-3 (TT)", "image": getPartImage("Nr-CX-18-3", "bits/nr/cx-18-3.webp", "bit")},
       ]
     },
     {
@@ -16302,6 +16523,9 @@ export const allParts: Part[] = [
         { "name": "Buster Dran 5-70DB (Starter) (HB)", "image": getPartImage("5-70-Buster-Dran", "ratchets/5-70/busterdran5-70db.webp", "ratchet") },
         { "name": "Stormtrooper 5-70B (Dual Pack) (HB)", "image": getPartImage("5-70-Stormtrooper", "ratchets/5-70/stormtrooper.webp", "ratchet") },
         { "name": "Shelter Drake 5-70O (Booster) (HB)", "image": getPartImage("5-70-BX-39-2", "ratchets/5-70/shelterdrake5-70o.webp", "ratchet") },
+        { "name": "CX-18-1 (TT)", "image": getPartImage("5-70-CX-18-1", "ratchets/5-70/cx-18-1.webp", "ratchet"), "comingSoon":true },
+        //{ "name": "CX-18-2 (TT)", "image": getPartImage("5-70-CX-18-2", "ratchets/5-70/cx-18-2.webp", "ratchet"), "comingSoon":true },
+        //{ "name": "CX-18-3 (TT)", "image": getPartImage("5-70-CX-18-3", "ratchets/5-70/cx-18-3.webp", "ratchet"), "comingSoon":true },
       ]
     },
     {
