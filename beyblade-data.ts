@@ -9955,20 +9955,12 @@ export const allParts: Part[] = [
     ]
   },
 
-
-
-
-
-
-  //Coming Soon May 25th 2026
-
   {
     "id": "Product_Clip&Rip",
     "name": "Blast Pegasus Clip & Rip Launcher Set",
     "category": "Product",
     "series": ["CX"],
     "company": "Hasbro",
-    "comingSoon":true,
     "image": getPartImage("Product_Clip&RipImage", "products/hasbro/clip&rip/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_Clip&Rip", "variantName": "Blast Pegasus A Tr" },
@@ -9982,7 +9974,6 @@ export const allParts: Part[] = [
     "type": "Attack",
     "series": ["CX"],
     "company": "Hasbro",
-    "comingSoon":true,
     "image": getPartImage("Beyblade_Clip&Rip_Image", "products/takara_tomy/cx-07/beyblade_cx-07.webp", "beyblade"),
     "contents": [
       { "partId": "FullBlade_Clip&Rip", "variantName": "Blast Pegasus A" },
@@ -9995,7 +9986,6 @@ export const allParts: Part[] = [
     "category": "Full Blade",
     "series": ["CX"],
     "company": "Hasbro",
-    "comingSoon":true,
     "image": getPartImage("FullBlade_CX-07_Image", "products/takara_tomy/cx-07/fullblade_cx-07.webp", "blade"),
     "contents": [
       { "partId": "Pegasus-TT", "variantName": "Blast Pegasus A Tr (Clip & Rip Launcher Set) (HB)" },
@@ -13200,7 +13190,7 @@ export const allParts: Part[] = [
       { "name": "CX-07 (TT) (Default)", "image": getPartImage("Pegasus-TT-CX-07", "lock_chips/normal/pegasus/cx-07.webp", "lock chip"), "stackedImage": getPartImage("Pegasus-TT-CX-07", "lock_chips/stacked/pegasus/cx-07.webp", "lock chip"),"displayedName":"CX-07 (TT)" },
       { "name": "Tokyo Toy Show (TT)", "image": getPartImage("Pegasus-TT-Tokyo-Toy-Show", "lock_chips/normal/pegasus/tokyotoy.webp", "lock chip"), "stackedImage": getPartImage("Pegasus-TT-Tokyo-Toy-Show", "lock_chips/stacked/pegasus/tokyotoy.webp", "lock chip") },
       { "name": "UX-18-3 (TT)", "image": getPartImage("Pegasus-TT-UX-18-3", "lock_chips/normal/pegasus/ux-18-3.webp", "lock chip"), "stackedImage": getPartImage("Pegasus-TT-UX-18-3", "lock_chips/stacked/pegasus/ux-18-3.webp", "lock chip") },
-      { "name": "Blast Pegasus A Tr (Clip & Rip Launcher Set) (HB)", "image": getPartImage("Pegasus-TT-clip&rip", "lock_chips/normal/pegasus/cx-07.webp", "lock chip"), "stackedImage": getPartImage("Pegasus-TT-clip&rip", "lock_chips/stacked/pegasus/cx-07.webp", "lock chip"), "comingSoon": true },
+      { "name": "Blast Pegasus A Tr (Clip & Rip Launcher Set) (HB)", "image": getPartImage("Pegasus-TT-clip&rip", "lock_chips/normal/pegasus/cx-07.webp", "lock chip"), "stackedImage": getPartImage("Pegasus-TT-clip&rip", "lock_chips/stacked/pegasus/cx-07.webp", "lock chip")},
     ]
   },
   {
@@ -13697,7 +13687,7 @@ export const allParts: Part[] = [
     "variants": [
       { "name": "CX-07 (TT) (Default)", "image": getPartImage("Blast-TT-CX-07", "main_blades/normal/blast/cx-07.webp", "blade"), "stackedImage": getPartImage("Blast-TT-CX-07", "main_blades/stacked/blast/cx-07.webp", "blade"),"displayedName":"CX-07 (TT)" },
       { "name": "Tokyo Toy Show (TT)", "image": getPartImage("Blast-TT-Tokyo-Toy-Show", "main_blades/normal/blast/tokyotoy.webp", "blade"), "stackedImage": getPartImage("Blast-TT-Tokyo-Toy-Show", "main_blades/stacked/blast/tokyotoy.webp", "blade") },
-      { "name": "Blast Pegasus A Tr (Clip & Rip Launcher Set) (HB)", "image": getPartImage("Blast-TT-clip&rip", "main_blades/normal/blast/cx-07.webp", "blade"), "stackedImage": getPartImage("Blast-TT-clip&rip", "main_blades/stacked/blast/cx-07.webp", "blade"), "comingSoon":true },
+      { "name": "Blast Pegasus A Tr (Clip & Rip Launcher Set) (HB)", "image": getPartImage("Blast-TT-clip&rip", "main_blades/normal/blast/cx-07.webp", "blade"), "stackedImage": getPartImage("Blast-TT-clip&rip", "main_blades/stacked/blast/cx-07.webp", "blade")},
     ]
   },
   {
@@ -14103,7 +14093,7 @@ export const allParts: Part[] = [
     "variants": [
       { "name": "CX-07 (TT) (Default)", "image": getPartImage("A-Assault-TT-CX-07", "assist_blades/normal/a/cx-07.webp", "assist blade"), "stackedImage": getPartImage("A-Assault-TT-CX-07", "assist_blades/stacked/a/cx-07.webp", "assist blade"),"displayedName":"CX-07 (TT)" },
       { "name": "Tokyo Toy Show (TT)", "image": getPartImage("A-Assault-TT-Tokyo-Toy-Show", "assist_blades/normal/a/tokyotoy.webp", "assist blade"), "stackedImage": getPartImage("A-Assault-TT-Tokyo-Toy-Show", "assist_blades/stacked/a/tokyotoy.webp", "assist blade") },
-      { "name": "Blast Pegasus A Tr (Clip & Rip Launcher Set) (HB)", "image": getPartImage("A-Assault-TT-clip&rip", "assist_blades/normal/a/cx-07.webp", "assist blade"), "stackedImage": getPartImage("A-Assault-TT-clip&rip", "assist_blades/stacked/a/cx-07.webp", "assist blade"), "comingSoon":true },
+      { "name": "Blast Pegasus A Tr (Clip & Rip Launcher Set) (HB)", "image": getPartImage("A-Assault-TT-clip&rip", "assist_blades/normal/a/cx-07.webp", "assist blade"), "stackedImage": getPartImage("A-Assault-TT-clip&rip", "assist_blades/stacked/a/cx-07.webp", "assist blade")},
       { "name": "Evangelion Deck Set (TT)", "image": getPartImage("A-Assault-TT-evangelion", "assist_blades/normal/a/evangelion.webp", "assist blade"), "stackedImage": getPartImage("A-Assault-TT-evangelion", "assist_blades/stacked/a/evangelion.webp", "assist blade"), "comingSoon":true },
     ]
   },
@@ -14517,7 +14507,6 @@ export const allParts: Part[] = [
     "category": "Launchers",
     "company": "Hasbro",
     "type": "Clip & Rip",
-    "comingSoon": true,
     "image": getPartImage("Clip&Rip-Launcher-Default-HB", "launchers/hb_clip&rip/clip&rip.webp", "Clip & Rip launcher"),
     "variants": [
       { "name": "Clip & Rip Launcher Set", "image": getPartImage("Clip&Rip-Launcher-Default-HB", "launchers/hb_clip&rip/clip&rip.webp", "Clip & Rip launcher") }
@@ -15929,7 +15918,7 @@ export const allParts: Part[] = [
       "variants": [
         { "name": "CX-07 (TT) (Default)", "image": getPartImage("Tr-CX-07", "fusion-ratchet-bit/tr/cx-07.webp", "fusion"),"displayedName":"CX-07 (TT)" },
         { "name": "Tokyo Toy Show (PegasusBlast Metal Coat Red) (TT)", "image": getPartImage("Tr-Tokyo-Toy-Show", "fusion-ratchet-bit/tr/tokyotoy.webp", "fusion") },
-        { "name": "Blast Pegasus A Tr (Clip & Rip Launcher Set) (HB)", "image": getPartImage("Tr-CX-07", "fusion-ratchet-bit/tr/cx-07.webp", "fusion"), "comingSoon":true },
+        { "name": "Blast Pegasus A Tr (Clip & Rip Launcher Set) (HB)", "image": getPartImage("Tr-CX-07", "fusion-ratchet-bit/tr/cx-07.webp", "fusion")},
       ]
     },
     {

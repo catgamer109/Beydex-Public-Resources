@@ -198,11 +198,6 @@ Technically need box pic for Red AeroPegasus
 - DranSword Gold/Silver/Bronze 
 
 
-**3-70:**
-
-- UX-05-3
-
-
 
 **3-80:**
 
@@ -224,8 +219,6 @@ Technically need box pic for Red AeroPegasus
 **4-60:**
 
 - Obiwan Kenobi
-
-- BBLD Drandagger Black
 
 
 **4-80:**
