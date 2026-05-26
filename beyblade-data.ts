@@ -9495,7 +9495,7 @@ export const allParts: Part[] = [
     "image": getPartImage("Beyblade_RudderPhoenixStarter_Image", "products/hasbro/rudder_starter/beyblade_rudder_phoenix.webp", "beyblade"),
 
     "contents": [
-      { "partId": "RuddderPhoenix", "variantName": "Rudder Phoenix 4-70LF (Starter) (HB)" },
+      { "partId": "RudderPhoenix", "variantName": "Rudder Phoenix 4-70LF (Starter) (HB)" },
       { "partId": "4-70", "variantName": "Rudder Phoenix 4-70LF (Starter) (HB)" },
       { "partId": "LF", "variantName": "Rudder Phoenix 4-70LF (Starter) (HB)" }
     ]
@@ -12964,7 +12964,7 @@ export const allParts: Part[] = [
     "company": "Takara Tomy",
     "spinDirection": "Right",
     "identicalId": ["StrikeDran"],
-    //"weight": ,
+    "weight": 41.24,
     "image": getPartImage("BX-49 (Default)", "blades/dranstrike/bx-49.webp", "blade"),
     "variants": [
       { "name": "BX-49 (TT) (Default)", "image": getPartImage("BX-49 (Default)", "blades/dranstrike/bx-49.webp", "blade"),"displayedName":"BX-49 (TT)" },
@@ -13475,22 +13475,6 @@ export const allParts: Part[] = [
     ]
   },
   {
-    "id": "G-Guard",
-    "name": "G (Guard)",
-    "category": "Over Blade",
-    "type": "Defense",
-    "series": ["CXE", "CX"],
-    "company": "Takara Tomy",
-    "alsoShowUnder": ["Hasbro"],
-    "spinDirection": "Right",
-    "weight": 3.35,
-    "image": getPartImage("G-Guard-cx-14", "over_blades/normal/g/cx-14.webp", "Over Blade"),
-    "variants": [
-      { "name": "CX-14 (TT) (Default)", "image": getPartImage("G-Guard-cx-14", "over_blades/normal/g/cx-14.webp", "Over Blade"), "stackedImage": getPartImage("G-Guard-cx-14", "over_blades/stacked/g/cx-14.webp", "Over Blade"),"displayedName":"CX-14 (TT)" },
-      { "name": "Armor Knight GV 8-70UN (Starter) (HB)", "image": getPartImage("G-Guard-cx-14", "over_blades/normal/g/cx-14.webp", "Over Blade"), "stackedImage": getPartImage("G-Guard-cx-14", "over_blades/stacked/g/cx-14.webp", "Over Blade"), "comingSoon":true },
-    ]
-  },
-  {
     "id": "F-Flow",
     "name": "F (Flow)",
     "category": "Over Blade",
@@ -13505,6 +13489,22 @@ export const allParts: Part[] = [
       { "name": "CX-15 (TT) (Default)", "image": getPartImage("F-Flow-cx-15", "over_blades/normal/f/cx-15.webp", "Over Blade"), "stackedImage": getPartImage("F-Flow-cx-15", "over_blades/stacked/f/cx-15.webp", "Over Blade"),"displayedName":"CX-15 (TT)" },
       //{ "name": "G3 1st Prize (TT)", "image": getPartImage("F-Flow-g3", "over_blades/normal/f/g3.webp", "Over Blade"), "stackedImage": getPartImage("F-Flow-g3", "over_blades/stacked/f/g3.webp", "Over Blade"),"comingSoon":true },
       { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("F-Flow-cx-15", "over_blades/normal/f/cx-15.webp", "Over Blade"), "stackedImage": getPartImage("F-Flow-cx-15", "over_blades/stacked/f/cx-15.webp", "Over Blade"), "comingSoon":true },
+    ]
+  },
+  {
+    "id": "G-Guard",
+    "name": "G (Guard)",
+    "category": "Over Blade",
+    "type": "Defense",
+    "series": ["CXE", "CX"],
+    "company": "Takara Tomy",
+    "alsoShowUnder": ["Hasbro"],
+    "spinDirection": "Right",
+    "weight": 3.35,
+    "image": getPartImage("G-Guard-cx-14", "over_blades/normal/g/cx-14.webp", "Over Blade"),
+    "variants": [
+      { "name": "CX-14 (TT) (Default)", "image": getPartImage("G-Guard-cx-14", "over_blades/normal/g/cx-14.webp", "Over Blade"), "stackedImage": getPartImage("G-Guard-cx-14", "over_blades/stacked/g/cx-14.webp", "Over Blade"),"displayedName":"CX-14 (TT)" },
+      { "name": "Armor Knight GV 8-70UN (Starter) (HB)", "image": getPartImage("G-Guard-cx-14", "over_blades/normal/g/cx-14.webp", "Over Blade"), "stackedImage": getPartImage("G-Guard-cx-14", "over_blades/stacked/g/cx-14.webp", "Over Blade"), "comingSoon":true },
     ]
   },
   {
@@ -13560,6 +13560,21 @@ export const allParts: Part[] = [
     ]
   },
   {
+    "id": "Delta",
+    "name": "Delta",
+    "category": "Metal Blade",
+    "type": "Balance",
+    "series": ["CXE", "CX"],
+    "company": "Takara Tomy",
+    "spinDirection": "Right",
+    "weight": 27.88,
+    "image": getPartImage("Delta-cx-17-1", "metal_blades/normal/delta/cx-17-1.webp", "Metal Blade"),
+    "variants": [
+      { "name": "CX-17-1 (TT) (Default)", "image": getPartImage("Delta-cx-17-1", "metal_blades/normal/delta/cx-17-1.webp", "Metal Blade"), "stackedImage": getPartImage("Delta-cx-17-1", "metal_blades/stacked/delta/cx-17-1.webp", "Metal Blade"),"displayedName":"CX-17-1 (TT)" },
+      { "name": "CX-17-2 (TT)", "image": getPartImage("Delta-cx-17-2", "metal_blades/normal/delta/cx-17-2.webp", "Metal Blade"), "stackedImage": getPartImage("Delta-cx-17-2", "metal_blades/stacked/delta/cx-17-2.webp", "Metal Blade")},
+    ]
+  },
+  {
     "id": "Fortress",
     "name": "Fortress",
     "category": "Metal Blade",
@@ -13591,21 +13606,6 @@ export const allParts: Part[] = [
       { "name": "CX-15 (TT) (Default)", "image": getPartImage("Rage-cx-15", "metal_blades/normal/rage/cx-15.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-cx-15", "metal_blades/stacked/rage/cx-15.webp", "Metal Blade"),"displayedName":"CX-15 (TT)" },
       //{ "name": "G3 1st Prize (TT)", "image": getPartImage("Rage-g3", "metal_blades/normal/rage/g3.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-g3", "metal_blades/stacked/rage/g3.webp", "Metal Blade"),"comingSoon":true },
       { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("Rage-cx-15", "metal_blades/normal/rage/cx-15.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-cx-15", "metal_blades/stacked/rage/cx-15.webp", "Metal Blade"), "comingSoon":true },
-    ]
-  },
-  {
-    "id": "Delta",
-    "name": "Delta",
-    "category": "Metal Blade",
-    "type": "Balance",
-    "series": ["CXE", "CX"],
-    "company": "Takara Tomy",
-    "spinDirection": "Right",
-    "weight": 27.88,
-    "image": getPartImage("Delta-cx-17-1", "metal_blades/normal/delta/cx-17-1.webp", "Metal Blade"),
-    "variants": [
-      { "name": "CX-17-1 (TT) (Default)", "image": getPartImage("Delta-cx-17-1", "metal_blades/normal/delta/cx-17-1.webp", "Metal Blade"), "stackedImage": getPartImage("Delta-cx-17-1", "metal_blades/stacked/delta/cx-17-1.webp", "Metal Blade"),"displayedName":"CX-17-1 (TT)" },
-      { "name": "CX-17-2 (TT)", "image": getPartImage("Delta-cx-17-2", "metal_blades/normal/delta/cx-17-2.webp", "Metal Blade"), "stackedImage": getPartImage("Delta-cx-17-2", "metal_blades/stacked/delta/cx-17-2.webp", "Metal Blade")},
     ]
   },
   {
@@ -14221,7 +14221,7 @@ export const allParts: Part[] = [
       { "name": "CX-13 (TT) (Default)", "image": getPartImage("K-Knuckle-Assist-cx-13", "assist_blades/normal/k/cx-13.webp", "assist blade"), "stackedImage": getPartImage("K-Knuckle-Assist-cx-13", "assist_blades/stacked/k/cx-13.webp", "assist blade"),"displayedName":"CX-13 (TT)" },
       { "name": "CX-16 (TT)", "image": getPartImage("K-Knuckle-Assist-cx-16", "assist_blades/normal/k/cx-16.webp", "assist blade"), "stackedImage": getPartImage("K-Knuckle-Assist-cx-16", "assist_blades/stacked/k/cx-16.webp", "assist blade") },
       { "name": "Blitz Bahamut BK 1-50I (Starter) (HB)", "image": getPartImage("K-Knuckle-Assist-cx-13", "assist_blades/normal/k/cx-13.webp", "assist blade"), "stackedImage": getPartImage("K-Knuckle-Assist-cx-13", "assist_blades/stacked/k/cx-13.webp", "assist blade"), "comingSoon":true },
-      { "name": "Corocoro (BahamutBlitz Metal Coat: Yellow) (TT)", "image": getPartImage("K-Knuckle-Assist-corocoro-yellow", "assist_blades/normal/k/corocoro_yellow.webp", "assist blade",), "stackedImage": getPartImage("K-Knuckle-Assist-corocoro-yellow", "assist_blades/stacked/k/cocoroco-yellow.webp", "assist blade",)},
+      { "name": "Corocoro (BahamutBlitz Metal Coat: Yellow) (TT)", "image": getPartImage("K-Knuckle-Assist-corocoro-yellow", "assist_blades/normal/k/corocoro_yellow.webp", "assist blade",), "stackedImage": getPartImage("K-Knuckle-Assist-corocoro-yellow", "assist_blades/stacked/k/corocoro_yellow.webp", "assist blade",)},
 
     ]
   },
@@ -15020,7 +15020,7 @@ export const allParts: Part[] = [
       "attributes": ["Attack", "High", "12-tooth (Normal)"],
       "resistance": "High",
       "xDashGear": "12-tooth (Normal)",
-      //"weight": ,
+      "weight": 2.20,
       "company": "Takara Tomy",
       "alsoShowUnder": ["Hasbro"],
       "image": getPartImage("FF-BX-49", "bits/ff/bx-49.webp", "bit"),
@@ -15903,16 +15903,18 @@ export const allParts: Part[] = [
       ]
     }
   ] as Part[]),
-  // Ratchets
+  // Ratchets, Attributes are [Size, Height, BitType] the rest can be whatever.  BitType is only for fusion ratchets
   ...([
     {
       "id": "Tr",
       "name": "Tr (Turbo)",
       "category": "Ratchet",
       "type": "Fusion",
-      "attributes": ["4", "16-tooth (Accel)"],
+      "attributes": ["4", "16-tooth (Accel)", "Attack"],
       "weight": 12.64,
       "company": "Takara Tomy",
+      "xDashGear": "16-tooth (Accel)",
+      "sides": 4,
       "alsoShowUnder": ["Hasbro"],
       "image": getPartImage("Tr-CX-07", "fusion-ratchet-bit/tr/cx-07.webp", "fusion"),
       "variants": [
@@ -15927,8 +15929,9 @@ export const allParts: Part[] = [
       "category": "Ratchet",
       "type": "Fusion",
       "weight": 14.10,
+      "xDashGear": "14-tooth",
       "company": "Takara Tomy",
-      "attributes": ["Mode Change", "Balance", "14-tooth"],
+      "attributes": [["2", "4"], ["x-80", "x-85"], "Balance", "Mode Change", "14-tooth"],
       "image": getPartImage("Op-TT-CX-11", "fusion-ratchet-bit/op/cx-11/defense.webp", "fusion"),
       "variants": [
         {
@@ -16307,7 +16310,7 @@ export const allParts: Part[] = [
       "category": "Ratchet",
       "type": "Normal",
       "attributes": ["4", "x-50"],
-      "weight": 5.90,
+      "weight": 5.91,
       "company": "Takara Tomy",
       "alsoShowUnder": ["Hasbro"],
       "image": getPartImage("4-50-UX-15", "ratchets/4-50/ux-15.webp", "ratchet"),
@@ -16800,7 +16803,7 @@ export const filterOptions = {
     type: ['Metal']
   },
   cxBlade: {
-    type: ['Attack', 'Defense', 'Stamina', 'Balance', 'Mode Change']
+    type: ['Attack', 'Defense', 'Stamina', 'Balance']
   },
   cxOverBlade: {
     type: ['Attack', 'Defense', 'Stamina', 'Balance']
@@ -16810,11 +16813,11 @@ export const filterOptions = {
   },
   cxAssistBlade: {
     type: ['Attack', 'Defense', 'Stamina', 'Balance'],
-    height: ['50', '60', '80']
+    height: ['50', '60', '70', '80']
   },
   blade: {
     brand: ['Takara Tomy', 'Hasbro'],
-    series: ['BX', 'UX', 'CX', 'XOver', 'Corocoro', 'Rare Bey Get'] as Series[],
+    series: ['BX', 'UX', 'CX', 'BXE', 'UXE','CXE', 'XOver', 'Corocoro', 'Rare Bey Get'] as Series[],
     type: ['Attack', 'Defense', 'Stamina', 'Balance'],
     spinDirection: ['Right', 'Left'],
     '35g+': ['Yes', 'No']
@@ -16826,7 +16829,7 @@ export const filterOptions = {
   },
   bits: {
     type: ['Attack', 'Defense', 'Stamina', 'Balance'],
-    resistance: ['High', 'Low'],
+    resistance: ['High', 'Low', 'Ultra Low'],
     xDashGear: ['10-tooth (Rush)', '12-tooth (Normal)', '14-tooth', '16-tooth (Accel)', '18-tooth (Merge)'],
     rubber: ['Yes', 'No']
   },
