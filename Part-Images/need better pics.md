@@ -121,7 +121,7 @@ Technically need box pic for Red AeroPegasus
 
 **Gear Ball:**
 
-- Captain America
+- Captain America (have part just need to refine pic)
 
 
 
@@ -164,7 +164,7 @@ Technically need box pic for Red AeroPegasus
 
 **Rush:**
 
-- Red Hulk
+- Red Hulk (have part, just need to refine pic)
 
 
 **Vortex:**
