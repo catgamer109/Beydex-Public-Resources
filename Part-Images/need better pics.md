@@ -16,7 +16,7 @@ need better pics:
 - DO NOT USE A FULLY WHITE BACKGROUND this makes it extremely hard to remove the background from parts, especially the middle of ratchets 
 
 
-
+Waiting on pics from Sunbro for: DranArc S2-70K and the TT mall Exclusive DranBrave S6-60V
 
 
 Need better BBLD Launcher pics for each one
@@ -42,11 +42,13 @@ Technically need box pic for Red AeroPegasus
 
 - Dran (DranArc)
 
-- Dran (Gold/Silver/Bronze)
+- Dran (G1 Gold/Silver/Bronze)
 
-- Perseus (Gold G3)
+- Perseus (G3 Gold PerseusDark)
 
 - Bahamut (Corocoro Lottery, Metal Coat: Yellow)
+
+- Ragna (G3 Gold RagnaRage)
 
 
 
@@ -54,10 +56,14 @@ Technically need box pic for Red AeroPegasus
 
 - Break (Corocoro Lottery, Metal Coat: Yellow)
 
+- Flow (G3 Gold RagnaRage)
+
 
 # Metal Blades:
 
 - Blitz (Corocoro Lottery, Metal Coat: Yellow)
+
+- Rage (G3 Gold RagnaRage)
 
 
 
@@ -74,9 +80,11 @@ Technically need box pic for Red AeroPegasus
 
 - Slash (DranArc)
 
-- Slash (Gold/Silver/Bronze)
+- Slash (G1 Gold/Silver/Bronze)
 
 - Knuckle (Corocoro Lottery, Metal Coat: Yellow)
+
+- Erase (G3 Gold RagnaRage)
 
 
 
@@ -86,19 +94,17 @@ Technically need box pic for Red AeroPegasus
 
 **Accel:**
 
-- UX-04
+- UX-04 (Dranbuster from the UX battle set)
 
 
 **Ball:**
-
-- BX-17
 
 - Storm Trooper
 
 
 **Disc Ball:**
 
-- Gold G3
+- Gold G3 (Gold WizardRod)
 
 
 **Flat:**
@@ -148,7 +154,7 @@ Technically need box pic for Red AeroPegasus
 
 **Needle:**
 
-- G3
+- G3 (Gold KnightShield)
 
 
 **Point:**
@@ -164,6 +170,16 @@ Technically need box pic for Red AeroPegasus
 **Vortex:**
 
 - Dranbrave gold/silver/bronze 
+
+
+**Wedge**
+
+- G3 (Gold PerseusDark)
+
+
+**Yielding**
+
+- G3 (Gold RagnaRage)
 
 
 
@@ -189,11 +205,11 @@ Technically need box pic for Red AeroPegasus
 
 **3-60:**
 
-- BX-31-2 
+- BX-31-2 (Green TyrannoBeat from the TyrannoBeat Random booster)
 
-- BX-39-3 
+- BX-39-3 (Green ShelterDrake from the ShelterDrake Select Random Booster)
 
-- Shushiro Sword 
+- Shushiro DranSword 
 
 - DranSword Gold/Silver/Bronze 
 
@@ -201,11 +217,11 @@ Technically need box pic for Red AeroPegasus
 
 **3-80:**
 
-- BX-24-5
+- BX-24-5 (Red LeonClaw from the WyvernGale Random Booster)
 
-- G3 Gold
+- G3 Gold (Gold KnightShield)
 
-- Persona Hellsscythe
+- Persona HellsScythe
 
 - General Grievous
 
@@ -215,6 +231,10 @@ Technically need box pic for Red AeroPegasus
 - Gold/Silver/Bronze DranStrike
 
 
+**4-55**
+
+- G3 (Gold RagnaRage)
+
 
 **4-60:**
 
@@ -223,21 +243,19 @@ Technically need box pic for Red AeroPegasus
 
 **4-80:**
 
-- BX-17 
-
-- BX-24-6, Arrow Wizard 4-80GB 
+- BX-24-6, Arrow Wizard 4-80GB (Purple WizardArrow from the WyvernGale Random Booster, Also is a Hasbro Booster Pack)
 
 - Chewbacca
 
 
 **5-60:**
 
-- BX-24-4 (possibly because of middle)
+- BX-24-4 (possibly because of middle) (Blue ViperTail from the WyvernGale Random Booster)
 
 
 **5-70:**
 
-- G3 prize
+- G3 prize (Gold WizardRod)
 
 - Stormtrooper (Because of middle)
 
@@ -257,11 +275,11 @@ Technically need box pic for Red AeroPegasus
 
 **6-80:**
 
-- G3 gold
+- G3 (Gold PerseusDark)
 
 
 **9-80:**
 
-- BX-31-3
+- BX-31-3 (Blue HellsChain from the TyrannoBeat Random Booster)
 
 - Green Goblin
