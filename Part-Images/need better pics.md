@@ -118,7 +118,6 @@ Technically need box pic for Red AeroPegasus
 
 - Gold/Silver/Bronze DranStrike
 
-
 **Gear Needle:**
 
 - Miles Morales 
