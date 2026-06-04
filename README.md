@@ -28,6 +28,7 @@ If you have any of the images that are currently needed that are listed in "need
 - SapphireBlaze (Most of the BBLD Parts)
 - Luv_v
 - BeyGorr (TikTok and Instagram)
+- stealthiccus
 
 
 # About the Beydex project:
