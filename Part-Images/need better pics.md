@@ -118,6 +118,13 @@ Technically need box pic for Red AeroPegasus
 
 - Gold/Silver/Bronze DranStrike
 
+
+**Gear Ball:**
+
+- Captain America
+
+
+
 **Gear Needle:**
 
 - Miles Morales 
@@ -153,6 +160,11 @@ Technically need box pic for Red AeroPegasus
 **Point:**
 
 - Obi Wan Kenobi 
+
+
+**Rush:**
+
+- Red Hulk
 
 
 **Vortex:**
