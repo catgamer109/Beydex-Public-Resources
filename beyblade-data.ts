@@ -17083,7 +17083,7 @@ export const allParts: Part[] = [
         { "name": "UX-11 (TT)", "image": getPartImage("9-60-UX-11", "ratchets/9-60/ux-11.webp", "ratchet"), "identical": ["Impact Drake 9-60LR (Drop Attack Battle Set)"] },
         { "name": "UX-00 (Dran Deck Set) (TT)", "image": getPartImage("9-60-UX-00-Dran-Deck-Set", "ratchets/9-60/drandeck.webp", "ratchet") },
         { "name": "BXG-40 (Mosasaurus) (TT)", "image": getPartImage("9-60-BXG-40-Mosasaurus", "ratchets/9-60/mosasaurus.webp", "ratchet"), "identicalVariants": ["Mosasaurus 9-60U (Dual Pack)"] },
-        { "name": "B4 Exclusive (PhoenixWing Metal Coat Black) (TT)", "image": getPartImage("9-60-B4-Exclusive-PhoenixWing-Metal-Coat-Black", "/ratchets/9-60/b4blackphoenixwing.webp", "ratchet"), "displayedName": "BX-00 (PhoenixWing Metal Coat: Black (Tatsuya Kitani Ver.)) (TT)" },
+        { "name": "B4 Exclusive (PhoenixWing Metal Coat Black) (TT)", "image": getPartImage("9-60-B4-Exclusive-PhoenixWing-Metal-Coat-Black", "ratchets/9-60/b4blackphoenixwing.webp", "ratchet"), "displayedName": "BX-00 (PhoenixWing Metal Coat: Black (Tatsuya Kitani Ver.)) (TT)" },
         { "name": "Soar Phoenix 9-60GF (Deluxe Launcher Set) (HB)", "image": getPartImage("9-60-BX-23", "ratchets/9-60/soarphoenix9-60gf.webp", "ratchet"), "identicalVariants": ["BX-23 (TT)"] },
         { "name": "Impact Drake 9-60LR (Drop Attack Battle Set) (HB)", "image": getPartImage("9-60-UX-11", "ratchets/9-60/impactdrake9-60lr.webp", "ratchet"), "identicalVariants": ["UX-11 (TT)"] },
         { "name": "Mosasaurus 9-60U (Dual Pack) (HB)", "image": getPartImage("9-60-BXG-40-Mosasaurus", "ratchets/9-60/mosasaurus.webp", "ratchet"), "identicalVariants": ["BXG-40 (Mosasaurus)"] },
