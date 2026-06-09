@@ -29,6 +29,7 @@ If you have any of the images that are currently needed that are listed in "need
 - Luv_v
 - BeyGorr (TikTok and Instagram)
 - stealthiccus
+- speedmeans
 
 
 # About the Beydex project:
