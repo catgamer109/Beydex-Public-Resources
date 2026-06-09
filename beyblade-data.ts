@@ -4733,6 +4733,174 @@ export const allParts: Part[] = [
     ]
   },
   {
+    "id": "Product_Miles_Morales_Green_Goblin_Double_Starter",
+    "name": "BX-00 Miles Morales and Green Goblin Double Starter",
+    "category": "Product",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Product_HB_Miles_Morales_Green_Goblin_DoubleStarter_Image", "products/hasbro/miles_morales_green_goblin/product_miles_morales_green_goblin.webp", "product box"),
+    "contents": [
+      { "partId": "TT_EntryLauncher", "variantName": "Marvel" },
+      { "partId": "TT_EntryLauncher", "variantName": "Marvel" },
+      { "partId": "Beyblade_DoubleStarter_Miles_Morales", "variantName": "Miles Morales 1-60GN" },
+      { "partId": "Beyblade_DoubleStarter_Green_Goblin", "variantName": "Green Goblin 9-80HT" }
+    ]
+  },
+  {
+    "id": "Beyblade_DoubleStarter_Miles_Morales",
+    "name": "Miles Morales 1-60GN",
+    "category": "Beyblades",
+    "type": "Defense",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Beyblade_DoubleStarter_Miles_Morales_Image", "products/hasbro/miles_morales_green_goblin/beyblade_miles_morales.webp", "beyblade"),
+    "contents": [
+      { "partId": "MilesMorales", "variantName": "BX-00 Double Starter (Miles Morales 1-60GN) (TT)" },
+      { "partId": "1-60", "variantName": "BX-00 Double Starter (Miles Morales 1-60GN) (TT)" },
+      { "partId": "GN", "variantName": "BX-00 Double Starter (Miles Morales 1-60GN) (TT)" }
+    ]
+  },
+  {
+    "id": "Beyblade_DoubleStarter_Green_Goblin",
+    "name": "Green Goblin 9-80HT",
+    "category": "Beyblades",
+    "type": "Balance",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Beyblade_DoubleStarter_Green_Goblin_Image", "products/hasbro/miles_morales_green_goblin/beyblade_green_goblin.webp", "beyblade"),
+    "contents": [
+      { "partId": "GreenGoblin", "variantName": "BX-00 Double Starter (Green Goblin 9-80HT) (TT)" },
+      { "partId": "9-80", "variantName": "BX-00 Double Starter (Green Goblin 9-80HT) (TT)" },
+      { "partId": "HT", "variantName": "BX-00 Double Starter (Green Goblin 9-80HT) (TT)" }
+    ]
+  },
+  {
+    "id": "Product_Captain_America_Red_Hulk_Double_Starter",
+    "name": "BX-00 Captain America and Red Hulk Double Starter",
+    "category": "Product",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Product_HB_Captain_America_Red_Hulk_DoubleStarter_Image", "products/hasbro/captain_america_red_hulk/product_captain_america_red_hulk.webp", "product box"),
+    "contents": [
+      { "partId": "TT_EntryLauncher", "variantName": "Marvel" },
+      { "partId": "TT_EntryLauncher", "variantName": "Marvel" },
+      { "partId": "Beyblade_DoubleStarter_Captain_America", "variantName": "Captain America 4-70GB" },
+      { "partId": "Beyblade_DoubleStarter_Red_Hulk", "variantName": "Red Hulk 1-80R" }
+    ]
+  },
+  {
+    "id": "Beyblade_DoubleStarter_Captain_America",
+    "name": "Captain America 4-70GB",
+    "category": "Beyblades",
+    "type": "Stamina",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Beyblade_DoubleStarter_Captain_America_Image", "products/hasbro/captain_america_red_hulk/beyblade_captain_america.webp", "beyblade"),
+    "contents": [
+      { "partId": "CaptainAmerica", "variantName": "BX-00 Double Starter (Captain America 4-70GB) (TT)" },
+      { "partId": "4-70", "variantName": "BX-00 Double Starter (Captain America 4-70GB) (TT)" },
+      { "partId": "GB", "variantName": "BX-00 Double Starter (Captain America 4-70GB) (TT)" }
+    ]
+  },
+  {
+    "id": "Beyblade_DoubleStarter_Red_Hulk",
+    "name": "Red Hulk 1-80R",
+    "category": "Beyblades",
+    "type": "Attack",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Beyblade_DoubleStarter_Red_Hulk_Image", "products/hasbro/captain_america_red_hulk/beyblade_red_hulk.webp", "beyblade"),
+    "contents": [
+      { "partId": "RedHulk", "variantName": "BX-00 Double Starter (Red Hulk 1-80R) (TT)" },
+      { "partId": "1-80", "variantName": "BX-00 Double Starter (Red Hulk 1-80R) (TT)" },
+      { "partId": "R", "variantName": "BX-00 Double Starter (Red Hulk 1-80R) (TT)" }
+    ]
+  },
+{
+    "id": "Product_Chewbacca_StormTrooper_DoubleStarter",
+    "name": "BX-00 Chewbacca and Stormtrooper Double Starter",
+    "category": "Product",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Product_HB_Chewbacca_StormTrooper_DoubleStarter_Image", "products/hasbro/chewbacca_stormtrooper/product_chewbacca_stormtrooper.webp", "product box"),
+    "contents": [
+      { "partId": "TT_EntryLauncher", "variantName": "Star Wars" },
+      { "partId": "TT_EntryLauncher", "variantName": "Star Wars" },
+      { "partId": "Beyblade_DoubleStarter_Chewbacca", "variantName": "Chewbacca 4-80LF" },
+      { "partId": "Beyblade_DoubleStarter_Stormtrooper", "variantName": "Stormtrooper 5-70B" }
+    ]
+  },
+  {
+    "id": "Beyblade_DoubleStarter_Chewbacca",
+    "name": "Chewbacca 4-80LF",
+    "category": "Beyblades",
+    "type": "Attack",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Beyblade_DoubleStarter_Chewbacca_Image", "products/hasbro/chewbacca_stormtrooper/beyblade_chewbacca.webp", "beyblade"),
+    "contents": [
+      { "partId": "Chewbacca", "variantName": "BX-00 Double Starter (Chewbacca 4-80LF) (TT)" },
+      { "partId": "4-80", "variantName": "BX-00 Double Starter (Chewbacca 4-80LF) (TT)" },
+      { "partId": "LF", "variantName": "BX-00 Double Starter (Chewbacca 4-80LF) (TT)" }
+    ]
+  },
+  {
+    "id": "Beyblade_DoubleStarter_Stormtrooper",
+    "name": "Stormtrooper 5-70B",
+    "category": "Beyblades",
+    "type": "Stamina",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Beyblade_DoubleStarter_Stormtrooper_Image", "products/hasbro/chewbacca_stormtrooper/beyblade_stormtrooper.webp", "beyblade"),
+    "contents": [
+      { "partId": "Stormtrooper", "variantName": "BX-00 Double Starter (Stormtrooper 5-70B) (TT)" },
+      { "partId": "5-70", "variantName": "BX-00 Double Starter (Stormtrooper 5-70B) (TT)" },
+      { "partId": "B", "variantName": "BX-00 Double Starter (Stormtrooper 5-70B) (TT)" }
+    ]
+  },
+  {
+    "id": "Product_HB_ObiWanKenobi_GeneralGrievous_Double_Starter",
+    "name": "BX-00 Obi-Wan Kenobi and General Grievous Double Starter",
+    "category": "Product",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Product_HB_ObiWanKenobi_GeneralGrievous_DoubleStarter_Image", "products/hasbro/obiwan_grievous/product_obiwan_grievous.webp", "product box"),
+    "contents": [
+      { "partId": "TT_EntryLauncher", "variantName": "Star Wars" },
+      { "partId": "TT_EntryLauncher", "variantName": "Star Wars" },
+      { "partId": "Beyblade_DoubleStarter_ObiWanKenobi", "variantName": "Obi-Wan Kenobi 4-60P" },
+      { "partId": "Beyblade_DoubleStarter_GeneralGrievous", "variantName": "General Grievous 3-80HN" }
+    ]
+  },
+  {
+    "id": "Beyblade_DoubleStarter_ObiWanKenobi",
+    "name": "Obi-Wan Kenobi 4-60P",
+    "category": "Beyblades",
+    "type": "Stamina",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Beyblade_DoubleStarter_ObiWanKenobi_Image", "products/hasbro/obiwan_grievous/beyblade_obiwan.webp", "beyblade"),
+    "contents": [
+      { "partId": "ObiWanKenobi", "variantName": "BX-00 Double Starter (Obi-Wan Kenobi 4-60P) (TT)" },
+      { "partId": "4-60", "variantName": "BX-00 Double Starter (Obi-Wan Kenobi 4-60P) (TT)" },
+      { "partId": "P", "variantName": "BX-00 Double Starter (Obi-Wan Kenobi 4-60P) (TT)" }
+    ]
+  },
+  {
+    "id": "Beyblade_DoubleStarter_GeneralGrievous",
+    "name": "General Grievous 3-80HN",
+    "category": "Beyblades",
+    "type": "Balance",
+    "series": ["BX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Beyblade_DoubleStarter_GeneralGrievous_Image", "products/hasbro/obiwan_grievous/beyblade_grievous.webp", "beyblade"),
+    "contents": [
+      { "partId": "GeneralGrievous", "variantName": "BX-00 Double Starter (General Grievous 3-80HN) (TT)" },
+      { "partId": "3-80", "variantName": "BX-00 Double Starter (General Grievous 3-80HN) (TT)" },
+      { "partId": "HN", "variantName": "BX-00 Double Starter (General Grievous 3-80HN) (TT)" }
+    ]
+  },
+  {
     "id": "Product_BXG-33",
     "name": "BXG-33 Luke Skywalker and Darth Vader Double Starter",
     "category": "Product",
@@ -6542,7 +6710,7 @@ export const allParts: Part[] = [
 
 
 
-  // Coming Soon May 30 2026
+  // Coming Soon May 30 2026 (need images)
   {
     "id": "Beyblade_BlackDranbrave",
     "name": "DranBrave S6-60V (Metal Coat: Black TT Mall Exclusive)",
@@ -6575,8 +6743,6 @@ export const allParts: Part[] = [
     ]
 
   },
-
-  // Coming Soon June 1st 2026
   
  
   {
@@ -6585,14 +6751,12 @@ export const allParts: Part[] = [
     "category": "Full Blade",
     "series": ["CX", "CXE"],
     "company": "Takara Tomy",
-    "comingSoon":true,
-    "inProgress":true,
     "image": getPartImage("FullBlade_RagnaG3_Image", "products/takara_tomy/ragnarageg3/fullblade.webp", "blade"),
     "contents": [
-      { "partId": "Ragna", "variantName": "G3 1st Prize (TT)" },
-      { "partId": "Rage", "variantName": "G3 1st Prize (TT)" },
-      { "partId": "F-Flow", "variantName": "G3 1st Prize (TT)" },
-      { "partId": "E-Erase-Assist", "variantName": "G3 1st Prize (TT)" }
+      { "partId": "Ragna", "variantName": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)" },
+      { "partId": "Rage", "variantName": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)" },
+      { "partId": "F-Flow", "variantName": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)" },
+      { "partId": "E-Erase-Assist", "variantName": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)" }
     ]
   },
 
@@ -11965,7 +12129,8 @@ export const allParts: Part[] = [
     "image": getPartImage("Miles-Morales-Miles Morales 1-60GN (Dual Pack)", "blades/milesmorales/default.webp", "blade"),
     "echoOf": ["WizardArrow", "ArrowWizard"],
     "variants": [
-      { "name": "Miles Morales 1-60GN (Dual Pack) (HB) (Default)", "image": getPartImage("Miles-Morales-Miles Morales 1-60GN (Dual Pack)", "blades/milesmorales/default.webp", "blade"),"displayedName":"Miles Morales 1-60GN (Dual Pack) (HB)" }
+      { "name": "Miles Morales 1-60GN (Dual Pack) (HB) (Default)", "image": getPartImage("Miles-Morales-Miles Morales 1-60GN (Dual Pack)", "blades/milesmorales/default.webp", "blade"),"displayedName":"Miles Morales 1-60GN (Dual Pack) (HB)" },
+      { "name": "BX-00 Double Starter (Miles Morales 1-60GN) (TT)", "image": getPartImage("Miles-Morales-Miles Morales 1-60GN (Double Starter)", "blades/milesmorales/default.webp", "blade")}
     ]
   },
   {
@@ -11980,7 +12145,8 @@ export const allParts: Part[] = [
     "image": getPartImage("Green-Goblin-Green Goblin 9-80HT (Dual Pack)", "blades/greengoblin/greengoblin.webp", "blade"),
     "echoOf": ["WizardArrow", "ArrowWizard"],
     "variants": [
-      { "name": "Green Goblin 9-80HT (Dual Pack) (HB) (Default)", "image": getPartImage("Green-Goblin-Green Goblin 9-80HT (Dual Pack)", "blades/greengoblin/greengoblin.webp", "blade"),"displayedName":"Green Goblin 9-80HT (Dual Pack) (HB)" }
+      { "name": "Green Goblin 9-80HT (Dual Pack) (HB) (Default)", "image": getPartImage("Green-Goblin-Green Goblin 9-80HT (Dual Pack)", "blades/greengoblin/greengoblin.webp", "blade"),"displayedName":"Green Goblin 9-80HT (Dual Pack) (HB)" },
+      { "name": "BX-00 Double Starter (Green Goblin 9-80HT) (TT)", "image": getPartImage("Green-Goblin-Green Goblin 9-80HT (Double Starter)", "blades/greengoblin/greengoblin.webp", "blade")}
     ]
   },
   {
@@ -11995,7 +12161,8 @@ export const allParts: Part[] = [
     "image": getPartImage("Captain-America-Captain America 4-70GB (Dual Pack)", "blades/captainamerica/captainamerica.webp", "blade"),
     "echoOf": ["DranSword", "SwordDran"],
     "variants": [
-      { "name": "Captain America 4-70GB (Dual Pack) (HB) (Default)", "image": getPartImage("Captain-America-Captain America 4-70GB (Dual Pack)", "blades/captainamerica/captainamerica.webp", "blade"),"displayedName":"Captain America 4-70GB (Dual Pack) (HB)" }
+      { "name": "Captain America 4-70GB (Dual Pack) (HB) (Default)", "image": getPartImage("Captain-America-Captain America 4-70GB (Dual Pack)", "blades/captainamerica/captainamerica.webp", "blade"),"displayedName":"Captain America 4-70GB (Dual Pack) (HB)" },
+      { "name": "BX-00 Double Starter (Captain America 4-70GB) (TT)", "image": getPartImage("Captain-America-Captain America 4-70GB (Double Starter)", "blades/captainamerica/captainamerica.webp", "blade")}
     ]
   },
   {
@@ -12010,7 +12177,8 @@ export const allParts: Part[] = [
     "echoOf": ["BeatTyranno", "TyrannoBeat"],
     "weight": 36.10,
     "variants": [
-      { "name": "Red Hulk 1-80R (Dual Pack) (HB) (Default)", "image": getPartImage("Red-Hulk-Red Hulk 1-80R (Dual Pack)", "blades/redhulk/redhulk.webp", "blade"),"displayedName":"Red Hulk 1-80R (Dual Pack) (HB)" }
+      { "name": "Red Hulk 1-80R (Dual Pack) (HB) (Default)", "image": getPartImage("Red-Hulk-Red Hulk 1-80R (Dual Pack)", "blades/redhulk/redhulk.webp", "blade"),"displayedName":"Red Hulk 1-80R (Dual Pack) (HB)" },
+      { "name": "BX-00 Double Starter (Red Hulk 1-80R) (TT)", "image": getPartImage("Red-Hulk-Red Hulk 1-80R (Double Starter)", "blades/redhulk/redhulk.webp", "blade")}
     ]
   },
   {
@@ -12110,7 +12278,8 @@ export const allParts: Part[] = [
     "image": getPartImage("Chewbacca_Chewbacca 4-80LF (Dual Pack) (HB) (Default)", "blades/chewbacca/default.webp", "blade"),
     "echoOf": ["ShelterDrake", "ShelterDrake-Hasbro"],
     "variants": [
-      { "name": "Chewbacca 4-80LF (Dual Pack) (HB) (Default)", "image": getPartImage("Chewbacca_Chewbacca 4-80LF (Dual Pack) (HB) (Default)", "blades/chewbacca/default.webp", "blade"),"displayedName":"Chewbacca 4-80LF (Dual Pack) (HB)" }
+      { "name": "Chewbacca 4-80LF (Dual Pack) (HB) (Default)", "image": getPartImage("Chewbacca_Chewbacca 4-80LF (Dual Pack) (HB) (Default)", "blades/chewbacca/default.webp", "blade"),"displayedName":"Chewbacca 4-80LF (Dual Pack) (HB)" },
+      { "name": "BX-00 Double Starter (Chewbacca 4-80LF) (TT)", "image": getPartImage("Chewbacca_Chewbacca 4-80LF (Double Starter)", "blades/chewbacca/default.webp", "blade")}
     ]
 
   },
@@ -12126,7 +12295,8 @@ export const allParts: Part[] = [
     "image": getPartImage("Stormtrooper_Stormtrooper 5-70B (Dual Pack) (HB) (Default)", "blades/stormtrooper/default.webp", "blade"),
     "echoOf": ["RhinoHorn", "HornRhino"],
     "variants": [
-      { "name": "Stormtrooper 5-70B (Dual Pack) (HB) (Default)", "image": getPartImage("Stormtrooper_Stormtrooper 5-70B (Dual Pack) (HB) (Default)", "blades/stormtrooper/default.webp", "blade"),"displayedName":"Stormtrooper 5-70B (Dual Pack) (HB)" }
+      { "name": "Stormtrooper 5-70B (Dual Pack) (HB) (Default)", "image": getPartImage("Stormtrooper_Stormtrooper 5-70B (Dual Pack) (HB) (Default)", "blades/stormtrooper/default.webp", "blade"),"displayedName":"Stormtrooper 5-70B (Dual Pack) (HB)" },
+      { "name": "BX-00 Double Starter (Stormtrooper 5-70B) (TT)", "image": getPartImage("Stormtrooper_Stormtrooper 5-70B (Double Starter)", "blades/stormtrooper/default.webp", "blade")}
     ]
 
   },
@@ -12142,7 +12312,8 @@ export const allParts: Part[] = [
     "image": getPartImage("ObiWanKenobi_Obi-Wan Kenobi 4-60P (Dual Pack) (HB) (Default)", "blades/obiwankenobi/default.webp", "blade"),
     "echoOf": ["KnightLance", "LanceKnight"],
     "variants": [
-      { "name": "Obi-Wan Kenobi 4-60P (Dual Pack) (HB) (Default)", "image": getPartImage("ObiWanKenobi_Obi-Wan Kenobi 4-60P (Dual Pack) (HB) (Default)", "blades/obiwankenobi/default.webp", "blade"),"displayedName":"Obi-Wan Kenobi 4-60P (Dual Pack) (HB)" }
+      { "name": "Obi-Wan Kenobi 4-60P (Dual Pack) (HB) (Default)", "image": getPartImage("ObiWanKenobi_Obi-Wan Kenobi 4-60P (Dual Pack) (HB) (Default)", "blades/obiwankenobi/default.webp", "blade"),"displayedName":"Obi-Wan Kenobi 4-60P (Dual Pack) (HB)" },
+      { "name": "BX-00 Double Starter (Obi-Wan Kenobi 4-60P) (TT)", "image": getPartImage("ObiWanKenobi_Obi-Wan Kenobi 4-60P (Double Starter)", "blades/obiwankenobi/default.webp", "blade")}
     ]
 
   },
@@ -12158,7 +12329,8 @@ export const allParts: Part[] = [
     "image": getPartImage("GeneralGrievous_General Grievous 3-80HN (Dual Pack) (HB) (Default)", "blades/generalgrievous/default.webp", "blade"),
     "echoOf": ["RhinoHorn", "HornRhino"],
     "variants": [
-      { "name": "General Grievous 3-80HN (Dual Pack) (HB) (Default)", "image": getPartImage("GeneralGrievous_General Grievous 3-80HN (Dual Pack) (HB) (Default)", "blades/generalgrievous/default.webp", "blade"),"displayedName":"General Grievous 3-80HN (Dual Pack) (HB)" }
+      { "name": "General Grievous 3-80HN (Dual Pack) (HB) (Default)", "image": getPartImage("GeneralGrievous_General Grievous 3-80HN (Dual Pack) (HB) (Default)", "blades/generalgrievous/default.webp", "blade"),"displayedName":"General Grievous 3-80HN (Dual Pack) (HB)" },
+      { "name": "BX-00 Double Starter (General Grievous 3-80HN) (TT)", "image": getPartImage("GeneralGrievous_General Grievous 3-80HN (Double Starter)", "blades/generalgrievous/default.webp", "blade")}
     ]
 
   },
@@ -13691,7 +13863,7 @@ export const allParts: Part[] = [
     "image": getPartImage("Ragna-cx-15", "lock_chips/normal/ragna/cx-15.webp", "lock chip"),
     "variants": [
       { "name": "CX-15 (TT) (Default)", "image": getPartImage("Ragna-cx-15", "lock_chips/normal/ragna/cx-15.webp", "lock chip"), "stackedImage": getPartImage("Ragna-cx-15", "lock_chips/stacked/ragna/cx-15.webp", "lock chip"),"displayedName":"CX-15 (TT)" },
-      { "name": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("Ragna-g3", "lock_chips/normal/ragna/g3.webp", "lock chip",false), "stackedImage": getPartImage("Ragna-g3", "lock_chips/stacked/ragna/g3.webp", "lock chip",false),"comingSoon":true,"inProgress": true }, //need image
+      { "name": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("Ragna-g3", "lock_chips/normal/ragna/g3.webp", "lock chip"), "stackedImage": getPartImage("Ragna-g3", "lock_chips/stacked/ragna/g3.webp", "lock chip")},
       { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("Ragna-cx-15", "lock_chips/normal/ragna/cx-15.webp", "lock chip"), "stackedImage": getPartImage("Ragna-cx-15", "lock_chips/stacked/ragna/cx-15.webp", "lock chip"), "comingSoon":true }
     ]
   },
@@ -13791,7 +13963,7 @@ export const allParts: Part[] = [
     "image": getPartImage("F-Flow-cx-15", "over_blades/normal/f/cx-15.webp", "Over Blade"),
     "variants": [
       { "name": "CX-15 (TT) (Default)", "image": getPartImage("F-Flow-cx-15", "over_blades/normal/f/cx-15.webp", "Over Blade"), "stackedImage": getPartImage("F-Flow-cx-15", "over_blades/stacked/f/cx-15.webp", "Over Blade"),"displayedName":"CX-15 (TT)" },
-      { "name": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("F-Flow-g3", "over_blades/normal/f/g3.webp", "Over Blade",false), "stackedImage": getPartImage("F-Flow-g3", "over_blades/stacked/f/g3.webp", "Over Blade",false),"comingSoon":true,"inProgress": true }, //need image
+      { "name": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("F-Flow-g3", "over_blades/normal/f/g3.webp", "Over Blade"), "stackedImage": getPartImage("F-Flow-g3", "over_blades/stacked/f/g3.webp", "Over Blade")},
       { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("F-Flow-cx-15", "over_blades/normal/f/cx-15.webp", "Over Blade"), "stackedImage": getPartImage("F-Flow-cx-15", "over_blades/stacked/f/cx-15.webp", "Over Blade"), "comingSoon":true },
     ]
   },
@@ -13924,7 +14096,7 @@ export const allParts: Part[] = [
     "image": getPartImage("Rage-cx-15", "metal_blades/normal/rage/cx-15.webp", "Metal Blade"),
     "variants": [
       { "name": "CX-15 (TT) (Default)", "image": getPartImage("Rage-cx-15", "metal_blades/normal/rage/cx-15.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-cx-15", "metal_blades/stacked/rage/cx-15.webp", "Metal Blade"),"displayedName":"CX-15 (TT)" },
-      { "name": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("Rage-g3", "metal_blades/normal/rage/g3.webp", "Metal Blade",false), "stackedImage": getPartImage("Rage-g3", "metal_blades/stacked/rage/g3.webp", "Metal Blade",false),"comingSoon":true,"inProgress": true }, //need image
+      { "name": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("Rage-g3", "metal_blades/normal/rage/g3.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-g3", "metal_blades/stacked/rage/g3.webp", "Metal Blade")},
       { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("Rage-cx-15", "metal_blades/normal/rage/cx-15.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-cx-15", "metal_blades/stacked/rage/cx-15.webp", "Metal Blade"), "comingSoon":true },
     ]
   },
@@ -14593,7 +14765,7 @@ export const allParts: Part[] = [
     "image": getPartImage("E-Erase-Assist-cx-15", "assist_blades/normal/e/cx-15.webp", "assist blade"),
     "variants": [
       { "name": "CX-15 (TT) (Default)", "image": getPartImage("E-Erase-Assist-cx-15", "assist_blades/normal/e/cx-15.webp", "assist blade"), "stackedImage": getPartImage("E-Erase-Assist-cx-15", "assist_blades/stacked/e/cx-15.webp", "assist blade"),"displayedName":"CX-15 (TT)" },
-      { "name": "G3 1st Prize (RagnaRage Metal Coat Gold) (TT)", "image": getPartImage("E-Erase-Assist-g3", "assist_blades/normal/e/g3.webp", "assist blade",false), "stackedImage": getPartImage("E-Erase-Assist-g3", "assist_blades/stacked/e/g3.webp", "assist blade",false),"comingSoon":true,"inProgress": true }, //need image
+      { "name": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("E-Erase-Assist-g3", "assist_blades/normal/e/g3.webp", "assist blade"), "stackedImage": getPartImage("E-Erase-Assist-g3", "assist_blades/stacked/e/g3.webp", "assist blade")},
       { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("E-Erase-Assist-cx-15", "assist_blades/normal/e/cx-15.webp", "assist blade"), "stackedImage": getPartImage("E-Erase-Assist-cx-15", "assist_blades/stacked/e/cx-15.webp", "assist blade"), "comingSoon":true },
     ]
   },
@@ -15165,6 +15337,7 @@ export const allParts: Part[] = [
         { "name": "Talon Ptera 3-80B (Booster) (HB)", "image": getPartImage("B-Talon-Ptera", "bits/b/talonptera.webp", "bit") },
         { "name": "Stormtrooper 5-70B (Dual Pack) (HB)", "image": getPartImage("B-Stormtrooper", "bits/b/stormtrooper.webp", "bit") },
         { "name": "X-treme Expansion Pack (HB)", "image": getPartImage("B-UX-10", "bits/b/xep.webp", "bit") },
+        { "name": "BX-00 Double Starter (Stormtrooper 5-70B) (TT)", "image": getPartImage("B-Stormtrooper", "bits/b/stormtrooper.webp", "bit") },
       ]
     },
     {
@@ -15430,6 +15603,7 @@ export const allParts: Part[] = [
         { "name": "Stun Medusa 9-60GB (Starter) (HB)", "image": getPartImage("GB-Stun-Medusa", "bits/gb/stunmedusa.webp", "bit") },
         { "name": "BX-48-4 (TT)", "image": getPartImage("GB-BX-48-4", "bits/gb/bx-48-4.webp", "bit") },
         { "name": "BBLD (WyvernGale Metal Coat: Orange) (TT)", "image": getPartImage("GB-BBLD-Orange", "bits/gb/bbld_orange.webp", "bit") },
+        { "name": "BX-00 Double Starter (Captain America 4-70GB) (TT)", "image": getPartImage("GB-Captain-America", "bits/gb/captainamerica.webp", "bit") },
         { "name": "Rampart Aegis GB (Sneak Attack Battle Set) (HB)", "image": getPartImage("GB-Rampart-Aegis", "bits/gb/rampartaegisgb.webp", "bit"), "comingSoon": true },
         { "name": "Shatter Horus 9-65GB (Starter) (HB)", "image": getPartImage("GB-Shatter-Horus", "bits/gb/shatterhorus9-65gb.webp", "bit"), "comingSoon": true },
       ]
@@ -15482,6 +15656,7 @@ export const allParts: Part[] = [
         { "name": "UX-00 WyvernHover (DMM Lottery exclusive) (TT)", "image": getPartImage("GN UX-00 WyvernHover (DMM Lottery exclusive)", "bits/gn/wyvernhover.webp", "bit"), "displayedName": "UX-00 DMM Lottery Exclusive (WyvernHover) (TT)" },
         { "name": "UX-00 WyvernHover (Metal Coat: Violet) (DMM Lottery exclusive) (TT)", "image": getPartImage("GN UX-00 WyvernHover (Metal Coat: Violet) (DMM Lottery exclusive)", "bits/gn/wyvernhoverpurple.webp", "bit"), "displayedName": "UX-00 DMM Lottery Exclusive (WyvernHover Metal Coat: Violet) (TT)" },
         { "name": "Ridge Triceratops 9-80GN (Booster) (HB)", "image": getPartImage("GN-RidgeTriceratops", "bits/gn/ridgetriceratops.webp", "bit") },
+        { "name": "BX-00 Double Starter (Miles Morales 1-60GN) (TT)", "image": getPartImage("GN-Miles-Morales", "bits/gn/milesmorales.webp", "bit") },
       ]
     },
     {
@@ -15593,6 +15768,7 @@ export const allParts: Part[] = [
         { "name": "Antler Stag B 2-60HN (Starter) (HB)", "image": getPartImage("HN-Antler-Stag", "bits/hn/antlerstag.webp", "bit") },
         { "name": "X-Treme Battlers Pack (HB)", "image": getPartImage("HN-XBP", "bits/hn/xbp.webp", "bit") },
         { "name": "BBLD (KnightLance Metal Coat: Green) (TT)", "image": getPartImage("HN-BBLD-Green", "bits/hn/bbld_green.webp", "bit") },
+        { "name": "BX-00 Double Starter (General Grievous 3-80HN) (TT)", "image": getPartImage("HN-General-Grievous", "bits/hn/generalgreivous.webp", "bit") },
       ]
     },
     {
@@ -15613,7 +15789,8 @@ export const allParts: Part[] = [
         { "name": "CX-08-2 (TT)", "image": getPartImage("HT-CX-08-2", "bits/ht/cx-08-2.webp", "bit") },
         { "name": "Rare Bey Get (HellsChain Metal Coat Black) (TT)", "image": getPartImage("HT-Rare-Bey-Get", "bits/ht/rbghellschain.webp", "bit"), "displayedName": "BX-00 Rare Bey Get (HellsChain Metal Coat: Black) (TT)" },
         { "name": "Chain Incendio 5-60HT (Dual Pack) (HB)", "image": getPartImage("HT-BX-21", "bits/ht/chainincendio.webp", "bit"), "identicalVariants": ["BX-21 (TT)"] },
-        { "name": "Green Goblin 9-80HT (Dual Pack) (HB)", "image": getPartImage("HT-Green-Goblin", "bits/ht/greengoblin.webp", "bit") }
+        { "name": "Green Goblin 9-80HT (Dual Pack) (HB)", "image": getPartImage("HT-Green-Goblin", "bits/ht/greengoblin.webp", "bit") },
+        { "name": "BX-00 Double Starter (Green Goblin 9-80HT) (TT)", "image": getPartImage("HT-Green-Goblin", "bits/ht/greengoblin.webp", "bit") }
       ]
     },
     {
@@ -15721,6 +15898,7 @@ export const allParts: Part[] = [
         { "name": "Chewbacca 4-80LF (Dual Pack) (HB)", "image": getPartImage("LF-Chewbacca", "bits/lf/chewbacca.webp", "bit") },
         { "name": "Corocoro Mail Order (OrochiCluster) (TT)", "image": getPartImage("LF-OrochiCluster", "bits/lf/orochicluster.webp", "bit"), "displayedName": "UX-00 Corocoro Mail Order (OrochiCluster) (TT)" },
         { "name": "Rudder Phoenix 4-70LF (Starter) (HB)", "image": getPartImage("LF-CX-05-5", "bits/lf/rudderphoenix.webp", "bit") },
+        { "name": "BX-00 Double Starter (Chewbacca 4-80LF) (TT)", "image": getPartImage("LF-Chewbacca", "bits/lf/chewbacca.webp", "bit") },
         { "name": "Cutter Shinobi LF (Sneak Attack Battle Set) (HB)", "image": getPartImage("LF-Cuttershinobi", "bits/lf/cuttershinobilf.webp", "bit"), "comingSoon": true },
         { "name": "Glory Valkerion LF (Starter) (HB)", "image": getPartImage("LF-gloryvalkerion", "bits/lf/gloryvalkerionlf.webp", "bit"), "comingSoon": true },
       ]
@@ -15918,7 +16096,8 @@ export const allParts: Part[] = [
         { "name": "Darth Vader 4-60P (Dual Pack) (HB)", "image": getPartImage("P-BXG-33-Darth-Vader", "bits/p/darthvader.webp", "bit"), "identicalVariants": ["BXG-33 (Darth Vader) (TT)"] },
         { "name": "Optimus Prime 4-60P (Dual Pack) (HB)", "image": getPartImage("P-BXG-36-Optimus-Prime", "bits/p/optimusprime.webp", "bit"), "identicalVariants": ["BXG-36 (Optimus Prime) (TT)"] },
         { "name": "Obi-Wan Kenobi 4-60P (Dual Pack) (HB)", "image": getPartImage("P-Obi-Wan-Kenobi", "bits/p/obiwan.webp", "bit") },
-        { "name": "X-treme Expansion Pack (HB)", "image": getPartImage("P-XEP-Hasbro", "bits/p/xep.webp", "bit") }
+        { "name": "X-treme Expansion Pack (HB)", "image": getPartImage("P-XEP-Hasbro", "bits/p/xep.webp", "bit") },
+        { "name": "BX-00 Double Starter (Obi-Wan Kenobi 4-60P) (TT)", "image": getPartImage("P-Obi-Wan-Kenobi", "bits/p/obiwan.webp", "bit") },
       ]
     },
     {
@@ -15967,6 +16146,7 @@ export const allParts: Part[] = [
         { "name": "Red Hulk 1-80R (Dual Pack) (HB)", "image": getPartImage("R-Red-Hulk", "bits/r/redhulk.webp", "bit") },
         { "name": "BBLD (Drandagger Metal Coat: Black) (TT)", "image": getPartImage("R-BBLD-Black", "bits/r/bbld_black.webp", "bit") },
         { "name": "BBLD (Drandagger Metal Coat: Blue) (TT)", "image": getPartImage("R-BBLD-Blue", "bits/r/bbld_blue.webp", "bit") },
+        { "name": "BX-00 Double Starter (Red Hulk 1-80R) (TT)", "image": getPartImage("R-Red-Hulk", "bits/r/redhulk.webp", "bit") },
         { "name": "Spider-Man 6-60R (Dual Pack) (HB)", "image": getPartImage("R-spider-man-hulk-pack", "bits/r/spiderman6-60r.webp", "bit",false),"comingSoon": true, "inProgress": true} //need image
       ]
     },
@@ -16237,7 +16417,7 @@ export const allParts: Part[] = [
       "image": getPartImage("Y-CX-15", "bits/y/cx-15.webp", "bit"),
       "variants": [
         { "name": "CX-15 (TT)", "image": getPartImage("Y-CX-15", "bits/y/cx-15.webp", "bit") },
-        { "name": "G3 2nd Prize (Ragnarage Metal Coat: Gold) (TT)", "image": getPartImage("Y-g3", "bits/y/ragnarage_g3.webp", "bit", false),"comingSoon":true, "inProgress":true },//need image
+        { "name": "G3 2nd Prize (Ragnarage Metal Coat: Gold) (TT)", "image": getPartImage("Y-g3", "bits/y/ragnarage_g3.webp", "bit") },
         { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("Y-CX-15", "bits/y/cx-15.webp", "bit"), "comingSoon":true },
       ]
     },
@@ -16408,7 +16588,8 @@ export const allParts: Part[] = [
         { "name": "Keel Shark 1-60Q (Booster) (HB)", "image": getPartImage("1-60-BX-31-5", "ratchets/1-60/keelshark1-60q.webp", "ratchet"), "identicalVariants": ["BX-31-5 (TT)"] },
         { "name": "Wand Wizard 1-60R (Starter) (HB)", "image": getPartImage("1-60-BX-35-4", "ratchets/1-60/wandwizard1-60r.webp", "ratchet"), "identicalVariants": ["BX-35-4 (TT)"] },
         { "name": "Miles Morales 1-60GN (Dual Pack) (HB)", "image": getPartImage("1-60-Miles-Morales", "ratchets/1-60/milesmorales.webp", "ratchet") },
-        { "name": "BX-00 (DranSword Metal Coat: Black J.League Ver.) (TT)", "image": getPartImage("BX-00 (DranSword Metal Coat: Black J.League Ver.) (TT)", "ratchets/1-60/jleague.webp", "ratchet"), "displayedName": "BX-00 (DranSword Metal Coat: Black (J.League Ver.)) (TT)" }
+        { "name": "BX-00 (DranSword Metal Coat: Black J.League Ver.) (TT)", "image": getPartImage("BX-00 (DranSword Metal Coat: Black J.League Ver.) (TT)", "ratchets/1-60/jleague.webp", "ratchet"), "displayedName": "BX-00 (DranSword Metal Coat: Black (J.League Ver.)) (TT)" },
+        { "name": "BX-00 Double Starter (Miles Morales 1-60GN) (TT)", "image": getPartImage("1-60-Miles-Morales", "ratchets/1-60/milesmorales.webp", "ratchet") }
       ]
     },
     {
@@ -16446,6 +16627,7 @@ export const allParts: Part[] = [
         { "name": "Red Hulk 1-80R (Dual Pack) (HB)", "image": getPartImage("1-80-Red-Hulk", "ratchets/1-80/redhulk.webp", "ratchet") },
         { "name": "WhaleWave Tsuri Spirits Wonder Ver. (TT)", "image": getPartImage("1-80-WhaleWave-TsuriSpirits", "ratchets/1-80/tsurispirits(whalewave).webp", "ratchet"), "displayedName": "BX-00 (WhaleWave Metal Coat: Blue Tsuri Spirits Wonder Ver.) (TT)" },
         { "name": "CX-17-2 (TT)", "image": getPartImage("1-80-CX-17-2", "ratchets/1-80/cx-17-2.webp", "ratchet",)},
+        { "name": "BX-00 Double Starter (Red Hulk 1-80R) (TT)", "image": getPartImage("1-80-Red-Hulk", "ratchets/1-80/redhulk.webp", "ratchet") },
       ]
     },
     {
@@ -16629,7 +16811,8 @@ export const allParts: Part[] = [
         { "name": "Dranzer Spiral 3-80T (Green Starter) (HB)", "image": getPartImage("3-80-Dranzer-Spiral-Green", "ratchets/3-80/dranzergreen.webp", "ratchet") },
         { "name": "Dranzer Spiral 3-80T (Red Starter) (HB)", "image": getPartImage("3-80-Dranzer-Spiral-Red", "ratchets/3-80/dranzerred.webp", "ratchet") },
         { "name": "Talon Ptera 3-80B (Booster) (HB)", "image": getPartImage("3-80-Talon-Ptera", "ratchets/3-80/talonptera3-80b.webp", "ratchet") },
-        { "name": "General Grievous 3-80HN (Dual Pack) (HB)", "image": getPartImage("3-80-General-Grievous", "ratchets/3-80/generalgrievous3-80hn.webp", "ratchet") }
+        { "name": "General Grievous 3-80HN (Dual Pack) (HB)", "image": getPartImage("3-80-General-Grievous", "ratchets/3-80/generalgrievous3-80hn.webp", "ratchet") },
+        { "name": "BX-00 Double Starter (General Grievous 3-80HN) (TT)", "image": getPartImage("3-80-General-Grievous", "ratchets/3-80/generalgrievous3-80hn.webp", "ratchet") }
       ]
     },
     {
@@ -16704,7 +16887,7 @@ export const allParts: Part[] = [
         { "name": "Hack Viking 4-55O (Dual Pack) (HB)", "image": getPartImage("4-55-HackVikingDualPack-Hasbro", "ratchets/4-55/hackviking.webp", "ratchet") },
         { "name": "Reaper Rhino C 4-55D (Starter) (HB)", "image": getPartImage("4-55-CX-05-2", "ratchets/4-55/reaperrhinoc4-55d.webp", "ratchet") },
         { "name": "CX-15 (TT)", "image": getPartImage("4-55-CX-15", "ratchets/4-55/cx-15.webp", "ratchet")},
-        { "name": "G3 3rd Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("4-55-g3", "ratchets/4-55/ragnarage_g3.webp", "ratchet",false), "comingSoon":true, "inProgress": true}, //need image
+        { "name": "G3 3rd Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("4-55-g3", "ratchets/4-55/ragnarage_g3.webp", "ratchet")},
         { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("4-55-CX-15", "ratchets/4-55/cx-15.webp", "ratchet"), "comingSoon": true },
         { "name": "Crest Leon 4-55A (Dual Pack) (HB)", "image": getPartImage("4-55-crestleon/clampcrab", "ratchets/4-55/crestleon4-55a.webp", "ratchet", false), "comingSoon": true, "inProgress": true } //need image
       ]
@@ -16751,6 +16934,7 @@ export const allParts: Part[] = [
         { "name": "Fang Leon T 4-60U (Starter) (HB)", "image": getPartImage("4-60-leonfang", "ratchets/4-60/fangleont4-60u.webp", "ratchet") },
         { "name": "BBLD (Drandagger Metal Coat: Black) (TT)", "image": getPartImage("4-60-BBLD-Black", "ratchets/4-60/bbld_black.webp", "ratchet") },
         { "name": "BBLD (Drandagger Metal Coat: Blue) (TT)", "image": getPartImage("4-60-BBLD-Blue", "ratchets/4-60/bbld_blue.webp", "ratchet") },
+        { "name": "BX-00 Double Starter (Obi-Wan Kenobi 4-60P) (TT)", "image": getPartImage("4-60-Obi-Wan-Kenobi", "ratchets/4-60/obiwan.webp", "ratchet") },
       ]
     },
     {
@@ -16779,6 +16963,7 @@ export const allParts: Part[] = [
         { "name": "Captain America 4-70GB (Dual Pack) (HB)", "image": getPartImage("4-70-Captain-America", "ratchets/4-70/captainamerica.webp", "ratchet") },
         { "name": "Rudder Phoenix 4-70LF (Starter) (HB)", "image": getPartImage("4-70-CX-05-5", "ratchets/4-70/rudderphoenix4-70lf.webp", "ratchet") },
         { "name": "BX-48-2 (TT)", "image": getPartImage("4-70-BX-48-2", "ratchets/4-70/bx-48-2.webp", "ratchet") },
+        { "name": "BX-00 Double Starter (Captain America 4-70GB) (TT)", "image": getPartImage("4-70-Captain-America", "ratchets/4-70/captainamerica.webp", "ratchet") },
       ]
     },
     {
@@ -16819,7 +17004,8 @@ export const allParts: Part[] = [
         { "name": "Knife Shinobi 4-80HN (Dual Pack) (HB)", "image": getPartImage("4-80-Knife-Shinobi", "ratchets/4-80/knifeshinobi4-80hn.webp", "ratchet") },
         { "name": "Chewbacca 4-80LF (Dual Pack) (HB)", "image": getPartImage("4-80-Chewbacca", "ratchets/4-80/chewbacca.webp", "ratchet") },
         { "name": "UX-18-6 (TT)", "image": getPartImage("4-80-UX-18-6", "ratchets/4-80/ux-18-6.webp", "ratchet") },
-        { "name": "BBLD (KnightLance Metal Coat: Green) (TT)", "image": getPartImage("4-80-BBLD_Green", "ratchets/4-80/bbld_green.webp", "ratchet") }
+        { "name": "BBLD (KnightLance Metal Coat: Green) (TT)", "image": getPartImage("4-80-BBLD_Green", "ratchets/4-80/bbld_green.webp", "ratchet") },
+        { "name": "BX-00 Double Starter (Chewbacca 4-80LF) (TT)", "image": getPartImage("4-80-Chewbacca", "ratchets/4-80/chewbacca.webp", "ratchet") },
       ]
     },
     {
@@ -16874,6 +17060,7 @@ export const allParts: Part[] = [
         { "name": "Buster Dran 5-70DB (Starter) (HB)", "image": getPartImage("5-70-Buster-Dran", "ratchets/5-70/busterdran5-70db.webp", "ratchet") },
         { "name": "Stormtrooper 5-70B (Dual Pack) (HB)", "image": getPartImage("5-70-Stormtrooper", "ratchets/5-70/stormtrooper.webp", "ratchet") },
         { "name": "Shelter Drake 5-70O (Booster) (HB)", "image": getPartImage("5-70-BX-39-2", "ratchets/5-70/shelterdrake5-70o.webp", "ratchet") },
+        { "name": "BX-00 Double Starter (Stormtrooper 5-70B) (TT)", "image": getPartImage("5-70-Stormtrooper", "ratchets/5-70/stormtrooper.webp", "ratchet") },
         { "name": "CX-18-1 (TT)", "image": getPartImage("5-70-CX-18-1", "ratchets/5-70/cx-18-1.webp", "ratchet"), "comingSoon":true },
         { "name": "CX-18-2 (TT)", "image": getPartImage("5-70-CX-18-2", "ratchets/5-70/cx-18-2.webp", "ratchet", false), "comingSoon":true, "inProgress":true }, //need image
         { "name": "CX-18-3 (TT)", "image": getPartImage("5-70-CX-18-3", "ratchets/5-70/cx-18-3.webp", "ratchet", false), "comingSoon":true, "inProgress":true }, //need image
@@ -17151,6 +17338,7 @@ export const allParts: Part[] = [
         { "name": "CX-12 (TT)", "image": getPartImage("9-80-CX-12", "ratchets/9-80/cx-12.webp", "ratchet") },
         { "name": "Ridge Triceratops 9-80GN (Booster) (HB)", "image": getPartImage("9-80-RidgeTriceratops", "ratchets/9-80/ridgetriceratops.webp", "ratchet") },
         { "name": "BX-48-1 (TT)", "image": getPartImage("9-80-BX-48-1", "ratchets/9-80/bx-48-1.webp", "ratchet") },
+        { "name": "BX-00 Double Starter (Green Goblin 9-80HT) (TT)", "image": getPartImage("9-80-Green-Goblin", "ratchets/9-80/greengoblin.webp", "ratchet") }
       ]
     }
   ] as Part[])
