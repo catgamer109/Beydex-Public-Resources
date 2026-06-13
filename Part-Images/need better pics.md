@@ -16,7 +16,7 @@ need better pics:
 - DO NOT USE A FULLY WHITE BACKGROUND this makes it extremely hard to remove the background from parts, especially the middle of ratchets 
 
 
-Waiting on pics from Sunbro for: DranArc S2-70K and the TT mall Exclusive DranBrave S6-60V
+Waiting on pics from Sunbro for: DranArc S2-70K, TT mall Exclusive DranBrave S6-60V, Black BrachioWhip, and Gold BrachioWhip
 
 
 Need better BBLD Launcher pics for each one
