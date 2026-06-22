@@ -22,9 +22,6 @@ Waiting on pics from Sunbro for: DranArc S2-70K, TT mall Exclusive DranBrave S6-
 Need better BBLD Launcher pics for each one
 
 
-Technically need box pic for Red AeroPegasus
-
-
 # Blades:
 
 - PhoenixFeather Original Corocoro version
@@ -202,6 +199,8 @@ Technically need box pic for Red AeroPegasus
 
 - DranArc 
 
+- BucksAntlers (Rare Bey Get)
+
 
 **3-60:**
 
@@ -212,6 +211,11 @@ Technically need box pic for Red AeroPegasus
 - Shushiro DranSword 
 
 - DranSword Gold/Silver/Bronze 
+
+
+**3-70:**
+
+- KrakenWriggle (Rare Bey Get)
 
 
 
@@ -239,6 +243,11 @@ Technically need box pic for Red AeroPegasus
 **4-60:**
 
 - Obiwan Kenobi
+
+
+**4-70:**
+
+- DrakeBrave (Rare Bey Get)
 
 
 **4-80:**

@@ -6895,6 +6895,377 @@ export const allParts: Part[] = [
     ]
   },
 
+  // Coming Soon July 9th NEED TO DO IMAGES
+
+  {
+    "id": "Beyblade_CX-00_DrakeBrave",
+    "name": "DrakeBrave G4-70I (Metal Coat: Blue Rare Bey Get)",
+    "category": "Beyblades",
+    "type": "Attack",
+    "series": ["CX", "Rare Bey Get"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Beyblade_CX-00_DrakeBrave_Image", "products/takara_tomy/drakebrave/beyblade.webp", "beyblade"),
+    "contents": [
+      { "partId": "FullBlade_DrakeBrave", "variantName": "DrakeBrave G" },
+      { "partId": "4-70", "variantName": "CX-00 Rare Bey Get (DrakeBrave) (TT)" },
+      { "partId": "I", "variantName": "CX-00 Rare Bey Get (DrakeBrave) (TT)" }
+    ]
+  },
+  {
+    "id": "FullBlade_DrakeBrave",
+    "name": "DrakeBrave G",
+    "category": "Full Blade",
+    "series": ["CX", "Rare Bey Get"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("FullBlade_DrakeBrave_Image", "products/takara_tomy/drakebrave/fullblade.webp", "blade"),
+    "contents": [
+      { "partId": "Drake", "variantName": "CX-00 Rare Bey Get (DrakeBrave) (Default) (TT)" },
+      { "partId": "Brave-TT", "variantName": "CX-00 Rare Bey Get (DrakeBrave) (TT)" },
+      { "partId": "G-Gravity-Assist", "variantName": "CX-00 Rare Bey Get (DrakeBrave) (Default) (TT)" }
+    ]
+  },
+
+  {
+    "id": "Beyblade_CX-00_HornetFort",
+    "name": "HornetFort R7-60T (Metal Coat: Yellow Rare Bey Get)",
+    "category": "Beyblades",
+    "type": "Balance",
+    "series": ["CX", "Rare Bey Get"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Beyblade_CX-00_HornetFort_Image", "products/takara_tomy/hornetfort/beyblade.webp", "beyblade"),
+    "contents": [
+      { "partId": "FullBlade_HornetFort", "variantName": "HornetFort R" },
+      { "partId": "7-60", "variantName": "CX-00 Rare Bey Get (HornetFort) (TT)" },
+      { "partId": "T", "variantName": "CX-00 Rare Bey Get (HornetFort) (TT)" }
+    ]
+  },
+  {
+    "id": "FullBlade_HornetFort",
+    "name": "HornetFort R",
+    "category": "Full Blade",
+    "series": ["CX", "Rare Bey Get"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("FullBlade_HornetFort_Image", "products/takara_tomy/hornetfort/fullblade.webp", "blade"),
+    "contents": [
+      { "partId": "Hornet-Hasbro", "variantName": "CX-00 Rare Bey Get (HornetFort) (TT)" },
+      { "partId": "Fort-HB", "variantName": "CX-00 Rare Bey Get (HornetFort) (TT)" },
+      { "partId": "R-Round", "variantName": "CX-00 Rare Bey Get (HornetFort) (TT)" }
+    ]
+  },
+
+  {
+    "id": "Beyblade_CX-00_KrakenWriggle",
+    "name": "KrakenWriggle S3-70O (Metal Coat: Blue Rare Bey Get)",
+    "category": "Beyblades",
+    "type": "Stamina",
+    "series": ["CX", "Rare Bey Get"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Beyblade_CX-00_KrakenWriggle_Image", "products/takara_tomy/krakenwriggle/beyblade.webp", "beyblade"),
+    "contents": [
+      { "partId": "FullBlade_KrakenWriggle", "variantName": "KrakenWriggle S" },
+      { "partId": "3-70", "variantName": "CX-00 Rare Bey Get (KrakenWriggle) (TT)" },
+      { "partId": "O", "variantName": "CX-00 Rare Bey Get (KrakenWriggle) (TT)" }
+    ]
+  },
+  {
+    "id": "FullBlade_KrakenWriggle",
+    "name": "KrakenWriggle S",
+    "category": "Full Blade",
+    "series": ["CX", "Rare Bey Get"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("FullBlade_KrakenWriggle_Image", "products/takara_tomy/krakenwriggle/fullblade.webp", "blade"),
+    "contents": [
+      { "partId": "Kraken-Hasbro", "variantName": "CX-00 Rare Bey Get (KrakenWriggle) (TT)" },
+      { "partId": "Wriggle-HB", "variantName": "CX-00 Rare Bey Get (KrakenWriggle) (TT)" },
+      { "partId": "S-Slash", "variantName": "CX-00 Rare Bey Get (KrakenWriggle) (TT)" }
+    ]
+  },
+
+  {
+    "id": "Beyblade_CX-00_BucksAntlers",
+    "name": "BucksAntlers B2-70D (Metal Coat: Orange Rare Bey Get)",
+    "category": "Beyblades",
+    "type": "Defense",
+    "series": ["CX", "Rare Bey Get"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Beyblade_CX-00_BucksAntlers_Image", "products/takara_tomy/bucksantlers/beyblade.webp", "beyblade"),
+    "contents": [
+      { "partId": "FullBlade_BucksAntlers", "variantName": "BucksAntlers B" },
+      { "partId": "2-70", "variantName": "CX-00 Rare Bey Get (BucksAntlers) (TT)" },
+      { "partId": "D", "variantName": "CX-00 Rare Bey Get (BucksAntlers) (TT)" }
+    ]
+  },
+  {
+    "id": "FullBlade_BucksAntlers",
+    "name": "BucksAntlers B",
+    "category": "Full Blade",
+    "series": ["CX", "Rare Bey Get"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("FullBlade_BucksAntlers_Image", "products/takara_tomy/bucksantlers/fullblade.webp", "blade"),
+    "contents": [
+      { "partId": "Stag-Hasbro", "variantName": "CX-00 Rare Bey Get (BucksAntlers) (TT)" },
+      { "partId": "Antler-HB", "variantName": "CX-00 Rare Bey Get (BucksAntlers) (TT)" },
+      { "partId": "B-Bumper", "variantName": "CX-00 Rare Bey Get (BucksAntlers) (TT)" }
+    ]
+  },
+
+
+
+  // Coming Soon July 11th NEED TO DO IMAGES AND PLACEHOLDERS
+
+  {
+    "id": "Product_BX-00_Starter_StormPegasis",
+    "name": "BX-00 Starter StormPegasis 3-70RA",
+    "category": "Product",
+    "series": ["BX", "XOver"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Product_BX-00_Starter_StormPegasis_Image", "products/takara_tomy/stormpegasis/product.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_BX-00_25_Anniversary_StormPegasis", "variantName": "StormPegasis 3-70RA" },
+      { "partId": "TT_StringLauncher", "variantName": "25th Anniversary Set (StormPegasis)" },
+    ]
+  },
+
+  {
+    "id": "Product_UX-20",
+    "name": "UX-20 Starter GloryValkyrie LF",
+    "category": "Product",
+    "series": ["UX", "UXE"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Product_UX-20_Image", "products/takara_tomy/ux-20/product.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_UX-20", "variantName": "GloryValkyrie LF" },
+      { "partId": "TT_StringLauncher", "variantName": "UX-20" },
+    ]
+  },
+  {
+    "id": "Beyblade_UX-20",
+    "name": "GloryValkyrie LF",
+    "category": "Beyblades",
+    "type": "Attack",
+    "series": ["UX", "UXE"],
+    "company": "Takara Tomy",
+    "comingSoon": true,
+    "image": getPartImage("Beyblade_UX-20_Image", "products/takara_tomy/ux-20/beyblade.webp", "beyblade"),
+    "contents": [
+      { "partId": "GloryValkyrie", "variantName": "UX-20 (TT) (Default)" },
+      { "partId": "LF", "variantName": "UX-20 (TT)" }
+    ]
+  },
+
+  {
+    "id": "Product_BX-50-1",
+    "name": "BX-50-1 Random Booster Vol.11",
+    "category": "Product",
+    "series": ["BX", "BXE"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Product_BX-50-1_Image", "products/takara_tomy/bx-50-1/product.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_BX-50-1", "variantName": "HeavensRing 0-80DS" },
+    ]
+  },
+  {
+    "id": "Beyblade_BX-50-1",
+    "name": "HeavensRing 0-80DS",
+    "category": "Beyblades",
+    "type": "Defense",
+    "series": ["BX", "BXE"],
+    "company": "Takara Tomy",
+    "comingSoon": true,
+    "image": getPartImage("Beyblade_BX-50-1_Image", "products/takara_tomy/bx-50-1/beyblade.webp", "beyblade"),
+    "contents": [
+      { "partId": "HeavensRing", "variantName": "BX-50-1 (TT) (Default)" },
+      { "partId": "0-80", "variantName": "BX-50-1 (TT)" },
+      { "partId": "DS", "variantName": "BX-50-1 (TT) (Default)" }
+    ]
+  },
+
+  {
+    "id": "Product_BX-50-2",
+    "name": "BX-50-2 Random Booster Vol.11",
+    "category": "Product",
+    "series": ["BX", "BXE"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Product_BX-50-2_Image", "products/takara_tomy/bx-50-2/product.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_BX-50-2", "variantName": "HeavensRing 6-60TP" },
+    ]
+  },
+  {
+    "id": "Beyblade_BX-50-2",
+    "name": "HeavensRing 6-60TP",
+    "category": "Beyblades",
+    "type": "Balance",
+    "series": ["BX", "BXE"],
+    "company": "Takara Tomy",
+    "comingSoon": true,
+    "inProgress": true,
+    "image": getPartImage("Beyblade_BX-50-2_Image", "products/takara_tomy/bx-50-2/beyblade.webp", "beyblade"),
+    "contents": [
+      { "partId": "HeavensRing", "variantName": "BX-50-2 (TT)" },
+      { "partId": "6-60", "variantName": "BX-50-2 (TT)" },
+      { "partId": "TP", "variantName": "BX-50-2 (TT)" }
+    ]
+  },
+
+  {
+    "id": "Product_BX-50-3",
+    "name": "BX-50-3 Random Booster Vol.11",
+    "category": "Product",
+    "series": ["BX", "BXE"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Product_BX-50-3_Image", "products/takara_tomy/bx-50-3/product.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_BX-50-3", "variantName": "ImpactDrake 7-55FB" },
+    ]
+  },
+  {
+    "id": "Beyblade_BX-50-3",
+    "name": "ImpactDrake 7-55FB",
+    "category": "Beyblades",
+    "type": "Stamina",
+    "series": ["UX"],
+    "company": "Takara Tomy",
+    "comingSoon": true,
+    "inProgress": true,
+    "image": getPartImage("Beyblade_BX-50-3_Image", "products/takara_tomy/bx-50-3/beyblade.webp", "beyblade"),
+    "contents": [
+      { "partId": "ImpactDrake", "variantName": "BX-50-3 (TT)" },
+      { "partId": "7-55", "variantName": "BX-50-3 (TT)" },
+      { "partId": "FB", "variantName": "BX-50-3 (TT)" }
+    ]
+  },
+
+  {
+    "id": "Product_BX-50-4",
+    "name": "BX-50-4 Random Booster Vol.11",
+    "category": "Product",
+    "series": ["BX", "BXE"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Product_BX-50-4_Image", "products/takara_tomy/bx-50-4/product.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_BX-50-4", "variantName": "GhostCircle M-85DS" },
+    ]
+  },
+  {
+    "id": "Beyblade_BX-50-4",
+    "name": "GhostCircle M-85DS",
+    "category": "Beyblades",
+    "type": "Defense",
+    "series": ["UX"],
+    "company": "Takara Tomy",
+    "comingSoon": true,
+    "inProgress": true,
+    "image": getPartImage("Beyblade_BX-50-4_Image", "products/takara_tomy/bx-50-4/beyblade.webp", "beyblade"),
+    "contents": [
+      { "partId": "GhostCircle", "variantName": "BX-50-4 (TT)" },
+      { "partId": "M-85", "variantName": "BX-50-4 (TT)" },
+      { "partId": "DS", "variantName": "BX-50-4 (TT)" }
+    ]
+  },
+
+  {
+    "id": "Product_BX-50-5",
+    "name": "BX-50-5 Random Booster Vol.11",
+    "category": "Product",
+    "series": ["BX", "BXE"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Product_BX-50-5_Image", "products/takara_tomy/bx-50-5/product.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_BX-50-5", "variantName": "WolfFlame D9-65L" },
+    ]
+  },
+  {
+    "id":"FullBlade_BX-50-5",
+    "name":"WolfFlame D",
+    "category":"Full Blade",
+    "series":["CX"],
+    "company":"Takara Tomy",
+    "comingSoon":true,
+    "inProgress":true,
+    "image": getPartImage("FullBlade_BX-50-5_Image", "products/takara_tomy/bx-50-5/fullblade.webp", "blade"),
+    "contents": [
+      { "partId": "Wolf-LockChip-TT", "variantName": "BX-50-5 (TT)" },
+      { "partId": "Flame-TT", "variantName": "BX-50-5 (TT)" },
+      { "partId": "D-Dual-TT", "variantName": "BX-50-5 (TT)" }
+    ]
+  },
+  {
+    "id": "Beyblade_BX-50-5",
+    "name": "WolfFlame D9-65L",
+    "category": "Beyblades",
+    "type": "Attack",
+    "series": ["CX"],
+    "company": "Takara Tomy",
+    "comingSoon": true,
+    "inProgress": true,
+    "image": getPartImage("Beyblade_BX-50-5_Image", "products/takara_tomy/bx-50-5/beyblade.webp", "beyblade"),
+    "contents": [
+      { "partId": "FullBlade_BX-50-5", "variantName": "WolfFlame D" },
+      { "partId": "9-65", "variantName": "BX-50-5 (TT)" },
+      { "partId": "L", "variantName": "BX-50-5 (TT)" }
+    ]
+  },
+
+  {
+    "id": "Product_BX-50-6",
+    "name": "BX-50-6 Random Booster Vol.11",
+    "category": "Product",
+    "series": ["BX", "BXE"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "image": getPartImage("Product_BX-50-6_Image", "products/takara_tomy/bx-50-6/product.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_BX-50-6", "variantName": "CerberusReaper B0-80WB" },
+    ]
+  },
+  {
+    "id":"FullBlade_BX-50-6",
+    "name":"CerberusReaper B0-80WB",
+    "category":"Full Blade",
+    "series":["CX"],
+    "company":"Takara Tomy",
+    "comingSoon":true,
+    "inProgress":true,
+    "image": getPartImage("FullBlade_BX-50-6_Image", "products/takara_tomy/bx-50-6/fullblade.webp", "blade"),
+    "contents": [
+      { "partId": "Cerberus-TT", "variantName": "BX-50-6 (TT)" },
+      { "partId": "Reaper-TT", "variantName": "BX-50-6 (TT)" },
+      { "partId": "B-Bumper", "variantName": "BX-50-6 (TT)" }
+    ]
+  },
+  {
+    "id": "Beyblade_BX-50-6",
+    "name": "CerberusReaper B0-80WB",
+    "category": "Beyblades",
+    "type": "Stamina",
+    "series": ["CX"],
+    "company": "Takara Tomy",
+    "comingSoon": true,
+    "inProgress": true,
+    "image": getPartImage("Beyblade_BX-50-6_Image", "products/takara_tomy/bx-50-6/beyblade.webp", "beyblade"),
+    "contents": [
+      { "partId": "FullBlade_BX-50-6", "variantName": "CerberusReaper B0-80WB" },
+      { "partId": "0-80", "variantName": "BX-50-6 (TT)" },
+      { "partId": "WB", "variantName": "BX-50-6 (TT)" }
+    ]
+  },
+
 
 
   // Coming Soon August 29th
@@ -10175,7 +10546,6 @@ export const allParts: Part[] = [
     "category": "Product",
     "series": ["UX"],
     "company": "Hasbro",
-    "comingSoon":true,
     "image": getPartImage("Product_MeteoroidDragoonStarter_Image", "products/hasbro/meteoroiddragoonstarter/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_MeteoroidDragoonStarter", "variantName": "Meteoroid Dragoon 3-70J" },
@@ -10191,7 +10561,6 @@ export const allParts: Part[] = [
     "type": "Attack",
     "series": ["UX"],
     "company": "Hasbro",
-    "comingSoon":true,
     "image": getPartImage("Beyblade_MeteoroidDragoonStarter_Image", "products/hasbro/meteoroiddragoonstarter/beyblade.webp", "beyblade"),
     "contents": [
       { "partId": "MeteoroidDragoon", "variantName": "Meteoroid Dragoon 3-70J (Deluxe Launcher Set) (HB) (Default)" },
@@ -10553,8 +10922,8 @@ export const allParts: Part[] = [
     "category": "Product",
     "series": ["BX"],
     "company": "Hasbro",
-    "comingSoon": true, "inProgress": true,
-    "image": getPartImage("Product_SavageBear_5-60F_Image", "products/hasbro/savagebear5-60f/product.webp", "product box", false), //need image
+    "comingSoon": true,
+    "image": getPartImage("Product_SavageBear_5-60F_Image", "products/hasbro/savagebear5-60f/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_SavageBear_5-60F", "variantName": "Savage Bear 5-60F" },
     ]
@@ -10583,8 +10952,8 @@ export const allParts: Part[] = [
     "category": "Product",
     "series": ["BX"],
     "company": "Hasbro",
-    "comingSoon": true, "inProgress": true,
-    "image": getPartImage("Product_CurseMummy_7-55W_Image", "products/hasbro/cursemummy7-55w/product.webp", "product box", false), //need image
+    "comingSoon": true,
+    "image": getPartImage("Product_CurseMummy_7-55W_Image", "products/hasbro/cursemummy7-55w/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_CurseMummy_7-55W", "variantName": "Curse Mummy 7-55W" },
     ]
@@ -10611,8 +10980,8 @@ export const allParts: Part[] = [
     "category": "Product",
     "series": ["BX"],
     "company": "Hasbro",
-    "comingSoon": true, "inProgress": true,
-    "image": getPartImage("Product_GustBat_Image", "products/hasbro/gustbat3-85gp/product.webp", "product box", false), //need image
+    "comingSoon": true,
+    "image": getPartImage("Product_GustBat_Image", "products/hasbro/gustbat3-85gp/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_GustBat_3-85GP", "variantName": "Gust Bat 3-85GP" },
     ]
@@ -10624,8 +10993,8 @@ export const allParts: Part[] = [
     "type": "Balance",
     "series": ["BX"],
     "company": "Hasbro",
-    "comingSoon": true, "inProgress": true,
-    "image": getPartImage("Beyblade_Gust_Bat_Image", "products/hasbro/gustbat3-85gp/beyblade.webp", "beyblade"), //need image
+    "comingSoon": true,
+    "image": getPartImage("Beyblade_Gust_Bat_Image", "products/hasbro/gustbat3-85gp/beyblade.webp", "beyblade"),
     "contents": [
       { "partId": "GustBat", "variantName": "Gust Bat 3-85GP (Booster) (HB) (Default)" },
       { "partId": "3-85", "variantName": "Gust Bat 3-85GP (Booster) (HB)" },
@@ -10654,8 +11023,8 @@ export const allParts: Part[] = [
     "type": "Defense",
     "series": ["BX", "BXE"],
     "company": "Hasbro",
-    "comingSoon": true, "inProgress": true,
-    "image": getPartImage("Beyblade_RingAether_0-80DS_Image", "products/hasbro/ringaether0-80ds/beyblade.webp", "beyblade", false), //need image
+    "comingSoon": true,
+    "image": getPartImage("Beyblade_RingAether_0-80DS_Image", "products/hasbro/ringaether0-80ds/beyblade.webp", "beyblade"),
     "contents": [
       { "partId": "RingAether", "variantName": "Ring Aether 0-80DS (Starter) (HB) (Default)" },
       { "partId": "0-80", "variantName": "Ring Aether 0-80DS (Starter) (HB)" },
@@ -10703,8 +11072,7 @@ export const allParts: Part[] = [
     "series": ["UX"],
     "company": "Hasbro",
     "comingSoon": true,
-    "inProgress": true,
-    "image": getPartImage("Product_Tail_Viper_Spear_Scorpio_Image", "products/hasbro/tailviper_spearscorpio/product.webp", "product box",false), //need image
+    "image": getPartImage("Product_Tail_Viper_Spear_Scorpio_Image", "products/hasbro/tailviper_spearscorpio/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_TailViper_3-85LO", "variantName": "Tail Viper 3-85LO" },
       { "partId": "Beyblade_SpearScorpio_0-70Z", "variantName": "Spear Scorpio 0-70Z" }
@@ -10718,8 +11086,7 @@ export const allParts: Part[] = [
     "series": ["BX"],
     "company": "Hasbro",
     "comingSoon": true,
-    "inProgress": true,
-    "image": getPartImage("Beyblade_TailViper_3-85LO_Image", "products/hasbro/tailviper_spearscorpio/beyblade_tailviper.webp", "beyblade", false), //need image
+    "image": getPartImage("Beyblade_TailViper_3-85LO_Image", "products/hasbro/tailviper_spearscorpio/beyblade_tailviper.webp", "beyblade"),
     "contents": [
       { "partId": "Tailviper", "variantName": "Tail Viper 3-85LO (Dual Pack) (HB)" },
       { "partId": "3-85", "variantName": "Tail Viper 3-85LO (Dual Pack) (HB)" },
@@ -10749,8 +11116,7 @@ export const allParts: Part[] = [
     "series": ["UX"],
     "company": "Hasbro",
     "comingSoon": true,
-    "inProgress": true,
-    "image": getPartImage("Product_CrestLeon_ClampCrab_Image", "products/hasbro/crestleon_clampcrab/product.webp", "product box",false), //need image
+    "image": getPartImage("Product_CrestLeon_ClampCrab_Image", "products/hasbro/crestleon_clampcrab/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_CrestLeon_4-55A", "variantName": "Crest Leon 4-55A" },
       { "partId": "Beyblade_ClampCrab_9-65S", "variantName": "Clamp Crab 9-65S" }
@@ -10764,8 +11130,7 @@ export const allParts: Part[] = [
     "series": ["UX"],
     "company": "Hasbro",
     "comingSoon": true,
-    "inProgress": true,
-    "image": getPartImage("Beyblade_CrestLeon_4-55A_Image", "products/hasbro/crestleon_clampcrab/beyblade_crestleon.webp", "beyblade", false), //need image
+    "image": getPartImage("Beyblade_CrestLeon_4-55A_Image", "products/hasbro/crestleon_clampcrab/beyblade_crestleon.webp", "beyblade"),
     "contents": [
       { "partId": "CrestLeon", "variantName": "Crest Leon 4-55A (Dual Pack) (HB)" },
       { "partId": "4-55", "variantName": "Crest Leon 4-55A (Dual Pack) (HB)" },
@@ -10777,11 +11142,10 @@ export const allParts: Part[] = [
     "name": "Clamp Crab 9-65S",
     "category": "Beyblades",
     "type": "Defense",
-    //"series": ["UX"],
+    "series": ["BX"],
     "company": "Hasbro",
     "comingSoon": true,
-    "inProgress": true,
-    "image": getPartImage("Beyblade_ClampCrab_9-65S_Image", "products/hasbro/crestleon_clampcrab/beyblade_clampcrab.webp", "beyblade", false), //need image
+    "image": getPartImage("Beyblade_ClampCrab_9-65S_Image", "products/hasbro/crestleon_clampcrab/beyblade_clampcrab.webp", "beyblade"),
     "contents": [
       { "partId": "ClampCrab", "variantName": "Clamp Crab 9-65S (Dual Pack) (HB) (Default)" },
       { "partId": "9-65", "variantName": "Clamp Crab 9-65S (Dual Pack) (HB)" },
@@ -11835,12 +12199,11 @@ export const allParts: Part[] = [
     "company": "Hasbro",
     "spinDirection": "Right",
     "comingSoon": true,
-    "inProgress": true,
     //"weight": 38.17,
-    "image": getPartImage("GustBat-Gust Bat 3-85GP (Booster)", "blades/gustbat/default.webp", "blade", false),
+    "image": getPartImage("GustBat-Gust Bat 3-85GP (Booster)", "blades/gustbat/default.webp", "blade"),
     "echoOf": ["WhaleWave", "TideWhale"],
     "variants": [
-      { "name": "Gust Bat 3-85GP (Booster) (HB) (Default)", "image": getPartImage("GustBat-Gust Bat 3-85GP (Booster)", "blades/gustbat/default.webp", "blade", false),"comingSoon": true, "inProgress": true,"displayedName":"Gust Bat 3-85GP (Booster) (HB)" } //need image
+      { "name": "Gust Bat 3-85GP (Booster) (HB) (Default)", "image": getPartImage("GustBat-Gust Bat 3-85GP (Booster)", "blades/gustbat/default.webp", "blade"),"comingSoon": true,"displayedName":"Gust Bat 3-85GP (Booster) (HB)" }
     ]
   },
 
@@ -12174,13 +12537,13 @@ export const allParts: Part[] = [
     "id": "Hulk",
     "name": "Hulk",
     "category": "Blade",
-    //"type": "Defense",
-    //"series": ["BX"],
+    "type": "Defense",
+    "series": ["BX"],
     "comingSoon": true, "inProgress": true,
     "company": "Hasbro",
     "spinDirection": "Right",
     "image": getPartImage("Hulk-Hulk 3-85N (Dual Pack)", "blades/hulk/default.webp", "blade", false),
-    //"echoOf": ["BeatTyranno", "TyrannoBeat"],
+    "echoOf": ["BlackShell", "ObsidianShell"],
     "variants": [
       { "name": "Hulk 3-85N (Dual Pack) (HB) (Default)", "image": getPartImage("Hulk-Hulk 3-85N (Dual Pack)", "blades/hulk/default.webp", "blade",false),"comingSoon": true, "inProgress": true, "displayedName":"Hulk 3-85N (Dual Pack) (HB)" } //need image
     ]
@@ -12494,7 +12857,7 @@ export const allParts: Part[] = [
     "weight": 25.30,
     "image": getPartImage("DragoonStorm-BX-00 25th Anniversary Set", "blades/dragoonstorm/default.webp", "blade"),
     "variants": [
-      { "name": "BX-00 25th Anniversary Set (TT) (Default)", "image": getPartImage("DragoonStorm-BX-00 25th Anniversary Set", "blades/dragoonstorm/default.webp", "blade"),"displayedName":"BX-00 25th Anniversary Set (TT)" }
+      { "name": "BX-00 25th Anniversary Set (TT) (Default)", "image": getPartImage("DragoonStorm-BX-00 25th Anniversary Set", "blades/dragoonstorm/default.webp", "blade"),"displayedName":"BX-00 25th Anniversary Set, Booster (TT)" }
     ]
   },
   {
@@ -12522,7 +12885,7 @@ export const allParts: Part[] = [
     "weight": 30.89,
     "image": getPartImage("StormPegasis-BX-00 25th Anniversary Set", "blades/stormpegasis/default.webp", "blade"),
     "variants": [
-      { "name": "BX-00 25th Anniversary Set (TT) (Default)", "image": getPartImage("StormPegasis-BX-00 25th Anniversary Set", "blades/stormpegasis/default.webp", "blade"),"displayedName":"BX-00 25th Anniversary Set (TT)" }
+      { "name": "BX-00 25th Anniversary Set (TT) (Default)", "image": getPartImage("StormPegasis-BX-00 25th Anniversary Set", "blades/stormpegasis/default.webp", "blade"),"displayedName":"BX-00 25th Anniversary Set, Starter (TT)" }
     ]
   },
   {
@@ -12721,7 +13084,8 @@ export const allParts: Part[] = [
     "image": getPartImage("ImpactDrake-UX-11", "blades/impactdrake/ux-11.webp", "blade"),
     "identicalId": ["ImpactDrake-Hasbro"],
     "variants": [
-      { "name": "UX-11 (TT) (Default)", "image": getPartImage("ImpactDrake-UX-11", "blades/impactdrake/ux-11.webp", "blade"),"displayedName":"UX-11 (TT)" }
+      { "name": "UX-11 (TT) (Default)", "image": getPartImage("ImpactDrake-UX-11", "blades/impactdrake/ux-11.webp", "blade"),"displayedName":"UX-11 (TT)" },
+      { "name": "BX-50-3 (TT)", "image": getPartImage("ImpactDrake-BX-50-3", "blades/impactdrake/bx-50-3.webp", "blade"),"comingSoon": true }
     ]
   },
   {
@@ -12934,7 +13298,7 @@ export const allParts: Part[] = [
     "identicalId": ["LeonCrest"],
     "variants": [
       { "name": "Crest Leon 7-60GN (Dual Pack) (HB) (Default)", "image": getPartImage("CrestLeon-Crest Leon 7-60GN (Dual Pack)", "blades/crestleon/default.webp", "blade"),"displayedName":"Crest Leon 7-60GN (Dual Pack) (HB)" },
-      { "name": "Crest Leon 4-55A (Dual Pack) (HB)", "image": getPartImage("CrestLeon-Crest Leon 4-55A (Dual Pack)", "blades/crestleon/4-55a.webp", "blade",false), "comingSoon": true, "inProgress": true } //need image
+      { "name": "Crest Leon 4-55A (Dual Pack) (HB)", "image": getPartImage("CrestLeon-Crest Leon 4-55A (Dual Pack)", "blades/crestleon/4-55a.webp", "blade"), "comingSoon": true}
     ]
   },
   {
@@ -13062,7 +13426,8 @@ export const allParts: Part[] = [
     "identicalId": ["CircleGhost"],
     "variants": [
       { "name": "UX-12-1 (TT) (Default)", "image": getPartImage("GhostCircle-UX-12-1", "blades/ghostcircle/ux-12-1.webp", "blade"),"displayedName":"UX-12-1 (TT)" },
-      { "name": "UX-12-2 (TT)", "image": getPartImage("GhostCircle-UX-12-2", "blades/ghostcircle/ux-12-2.webp", "blade") }
+      { "name": "UX-12-2 (TT)", "image": getPartImage("GhostCircle-UX-12-2", "blades/ghostcircle/ux-12-2.webp", "blade") },
+      { "name": "BX-50-4 (TT)", "image": getPartImage("GhostCircle-BX-50-4", "blades/ghostcircle/bx-50-4.webp", "blade"), "comingSoon": true }
     ]
   },
   {
@@ -13254,10 +13619,9 @@ export const allParts: Part[] = [
     "spinDirection": "Left",
     "identicalId": ["MeteorDragoon"],
     "weight": 39.06,
-    "comingSoon":true,
     "image": getPartImage("Meteoroid Dragoon Starter Pack", "blades/meteordragoon/ux-17.webp", "blade"),
     "variants": [
-      { "name": "Meteoroid Dragoon 3-70J (Deluxe Launcher Set) (HB) (Default)", "image": getPartImage("UX-17", "blades/meteordragoon/ux-17.webp", "blade"),"displayedName":"Meteoroid Dragoon 3-70J (Deluxe Launcher Set) (HB)","comingSoon":true, }
+      { "name": "Meteoroid Dragoon 3-70J (Deluxe Launcher Set) (HB) (Default)", "image": getPartImage("UX-17", "blades/meteordragoon/ux-17.webp", "blade"),"displayedName":"Meteoroid Dragoon 3-70J (Deluxe Launcher Set) (HB)"}
     ]
   },
   {
@@ -13329,9 +13693,6 @@ export const allParts: Part[] = [
     "company": "Takara Tomy",
     "spinDirection": "Right",
     "identicalId": ["RocketGriffon"],
-    "restrictions": {
-      "ratchetType": ["Normal", "Simple", "Fusion"],
-    },
     "weight": 60.93,
     "image": getPartImage("UX-19 (Default)", "blades/bulletgriffon/ux-19.webp", "blade"),
     "variants": [
@@ -13347,9 +13708,6 @@ export const allParts: Part[] = [
     "company": "Hasbro",
     "spinDirection": "Right",
     "identicalId": ["BulletGriffon"],
-    "restrictions": {
-      "ratchetType": ["Normal", "Simple", "Fusion"]
-    },
     "comingSoon": true,
     //"weight": ,
     "image": getPartImage("Rocket Griffon H (Starter)", "blades/rocketgriffon/default.webp", "blade"),
@@ -13399,9 +13757,6 @@ export const allParts: Part[] = [
     "series": ["UX", "UXE"],
     "company": "Hasbro",
     "spinDirection": "Right",
-    "restrictions": {
-      "ratchetType": ["Normal", "Simple", "Fusion"]
-    },
     "comingSoon": true,
     //"weight": ,
     "image": getPartImage("Cutter Shinobi LF (Sneak Attack Battle Set)", "blades/cuttershinobi/default.webp", "blade"),
@@ -13417,9 +13772,6 @@ export const allParts: Part[] = [
     "series": ["UX", "UXE"],
     "company": "Hasbro",
     "spinDirection": "Right",
-    "restrictions": {
-      "ratchetType": ["Normal", "Simple", "Fusion"]
-    },
     "comingSoon": true,
     //"weight": ,
     "image": getPartImage("Rampart Aegis GB (Sneak Attack Battle Set)", "blades/rampartaegis/default.webp", "blade"),
@@ -13436,11 +13788,9 @@ export const allParts: Part[] = [
     "series": ["UX", "UXE"],
     "company": "Hasbro",
     "spinDirection": "Right",
-    "restrictions": {
-      "ratchetType": ["Normal", "Simple", "Fusion"]
-    },
     "comingSoon": true,
     //"weight": ,
+    "identicalId": ["GloryValkyrie"],
     "image": getPartImage("Glory Valkerion LF (Starter) (HB)", "blades/gloryvalkerion/default.webp", "blade"),
     "variants": [
       { "name": "Glory Valkerion LF (Starter) (HB) (Default)", "image": getPartImage("Glory Valkerion LF (Starter) (HB)", "blades/gloryvalkerion/default.webp", "blade"),"displayedName":"Glory Valkerion LF (Starter) (HB)","comingSoon":true, }
@@ -13473,11 +13823,11 @@ export const allParts: Part[] = [
     "company": "Hasbro",
     "spinDirection": "Right",
     "comingSoon": true,
-    "inProgress": true,
     //"weight": ,
-    "image": getPartImage("Ring Aether 0-80DS (Starter)", "blades/ringaether/default.webp", "blade", false),
+    "identicalId": ["HeavensRing"],
+    "image": getPartImage("Ring Aether 0-80DS (Starter)", "blades/ringaether/default.webp", "blade"),
     "variants": [
-      { "name": "Ring Aether 0-80DS (Starter) (HB) (Default)", "image": getPartImage("Ring Aether 0-80DS (Starter)", "blades/ringaether/default.webp", "blade",false),"comingSoon":true, "inProgress":true,"displayedName":"Ring Aether 0-80DS (Starter) (HB)" } //need image
+      { "name": "Ring Aether 0-80DS (Starter) (HB) (Default)", "image": getPartImage("Ring Aether 0-80DS (Starter)", "blades/ringaether/default.webp", "blade"),"comingSoon":true,"displayedName":"Ring Aether 0-80DS (Starter) (HB)" }
     ]
   },
   {
@@ -13488,9 +13838,6 @@ export const allParts: Part[] = [
     "series": ["UX", "UXE"],
     "company": "Hasbro",
     "spinDirection": "Right",
-    "restrictions": {
-      "ratchetType": ["Normal", "Simple", "Fusion"]
-    },
     "comingSoon": true, "inProgress": true,
     //"weight": ,
     "image": getPartImage("Valor Bison FB (Starter) (HB)", "blades/valorbison/default.webp", "blade", false),
@@ -13502,15 +13849,49 @@ export const allParts: Part[] = [
     "id": "ClampCrab",
     "name": "Clamp Crab",
     "category": "Blade",
-    "type": "Defense",
-    //"series": ["UX"],
+    "type": "Stamina",
+    "series": ["BX"],
     "company": "Hasbro",
     "spinDirection": "Right",
-    "comingSoon": true, "inProgress": true,
+    "comingSoon": true,
+    "echoOf": ["WyvernGale", "GaleWyvern"],
     //"weight": ,
-    "image": getPartImage("Clamp Crab 9-65S (Dual Pack)", "blades/clampcrab/default.webp", "blade", false),
+    "image": getPartImage("Clamp Crab 9-65S (Dual Pack)", "blades/clampcrab/default.webp", "blade"),
     "variants": [
-      { "name": "Clamp Crab 9-65S (Dual Pack) (HB) (Default)", "image": getPartImage("Clamp Crab 9-65S (Dual Pack)", "blades/clampcrab/default.webp", "blade",false),"comingSoon":true, "inProgress":true,"displayedName":"Clamp Crab 9-65S (Dual Pack) (HB)" } //need image
+      { "name": "Clamp Crab 9-65S (Dual Pack) (HB) (Default)", "image": getPartImage("Clamp Crab 9-65S (Dual Pack)", "blades/clampcrab/default.webp", "blade"),"comingSoon":true,"displayedName":"Clamp Crab 9-65S (Dual Pack) (HB)" }
+    ]
+  },
+  {
+    "id": "GloryValkyrie",
+    "name": "GloryValkyrie",
+    "category": "Blade",
+    "type": "Attack",
+    "series": ["UX", "UXE"],
+    "company": "Takara Tomy",
+    "spinDirection": "Right",
+    "comingSoon": true,
+    //"weight": ,
+    "identicalId": ["GloryValkerion"],
+    "image": getPartImage("UX-20", "blades/gloryvalkyrie/ux-20.webp", "blade"),
+    "variants": [
+      { "name": "UX-20 (TT) (Default)", "image": getPartImage("UX-20", "blades/gloryvalkyrie/ux-20.webp", "blade"),"displayedName":"UX-20 (TT) (Default)","comingSoon":true }
+    ]
+  },
+  {
+    "id": "HeavensRing",
+    "name": "HeavensRing",
+    "category": "Blade",
+    "type": "Defense",
+    "series": ["BX", "BXE"],
+    "company": "Takara Tomy",
+    "spinDirection": "Right",
+    "comingSoon": true,
+    //"weight": ,
+    "identicalId": ["RingAether"],
+    "image": getPartImage("BX-50-1", "blades/heavensring/bx-50-1.webp", "blade"),
+    "variants": [
+      { "name": "BX-50-1 (TT) (Default)", "image": getPartImage("BX-50-1", "blades/heavensring/bx-50-1.webp", "blade"),"comingSoon":true,"displayedName":"BX-50-1 (TT)" },
+      { "name": "BX-50-2 (TT)", "image": getPartImage("BX-50-2", "blades/heavensring/bx-50-2.webp", "blade"),"comingSoon":true}
     ]
   },
     
@@ -13656,7 +14037,8 @@ export const allParts: Part[] = [
     "variants": [
       { "name": "CX-08-1 (TT) (Default)", "image": getPartImage("Cerberus-TT-CX-08-1", "lock_chips/normal/cerberus/cx-08-1.webp", "lock chip"), "stackedImage": getPartImage("Cerberus-TT-CX-08-1", "lock_chips/stacked/cerberus/cx-08-1.webp", "lock chip"),"displayedName":"CX-08-1 (TT)" },
       { "name": "CX-08-3 (TT)", "image": getPartImage("Cerberus-TT-CX-08-3", "lock_chips/normal/cerberus/cx-08-3.webp", "lock chip"), "stackedImage": getPartImage("Cerberus-TT-CX-08-3", "lock_chips/stacked/cerberus/cx-08-3.webp", "lock chip") },
-      { "name": "Flame Cerberus W 5-80WB (Starter) (HB)", "image": getPartImage("Cerberus-TT-CX-08-1", "lock_chips/normal/cerberus/flamecerberus.webp", "lock chip"), "stackedImage": getPartImage("Cerberus-TT-CX-08-1", "lock_chips/stacked/cerberus/flamecerberus.webp", "lock chip") }
+      { "name": "Flame Cerberus W 5-80WB (Starter) (HB)", "image": getPartImage("Cerberus-TT-CX-08-1", "lock_chips/normal/cerberus/flamecerberus.webp", "lock chip"), "stackedImage": getPartImage("Cerberus-TT-CX-08-1", "lock_chips/stacked/cerberus/flamecerberus.webp", "lock chip") },
+      { "name": "BX-50-6 (TT)", "image": getPartImage("Cerberus-TT-BX-50-6", "lock_chips/normal/cerberus/bx-50-6.webp", "lock chip", false), "stackedImage": getPartImage("Cerberus-TT-BX-50-6", "lock_chips/stacked/cerberus/bx-50-6.webp", "lock chip", false), "comingSoon": true, "inProgress": true }, //need image
     ]
   },
   {
@@ -13698,7 +14080,8 @@ export const allParts: Part[] = [
     "image": getPartImage("Wolf-TT-CX-10", "lock_chips/normal/wolf/cx-10.webp", "lock chip"),
     "partStack60": true,
     "variants": [
-      { "name": "CX-10 (TT) (Default)", "image": getPartImage("Wolf-TT-CX-10", "lock_chips/normal/wolf/cx-10.webp", "lock chip"), "stackedImage": getPartImage("Wolf-TT-CX-10", "lock_chips/stacked/wolf/cx-10.webp", "lock chip"),"displayedName":"CX-10 (TT)" }
+      { "name": "CX-10 (TT) (Default)", "image": getPartImage("Wolf-TT-CX-10", "lock_chips/normal/wolf/cx-10.webp", "lock chip"), "stackedImage": getPartImage("Wolf-TT-CX-10", "lock_chips/stacked/wolf/cx-10.webp", "lock chip"),"displayedName":"CX-10 (TT)" },
+      { "name": "BX-50-5 (TT)", "image": getPartImage("Wolf-TT-BX-50-5", "lock_chips/normal/wolf/bx-50-5.webp", "lock chip", false), "stackedImage": getPartImage("Wolf-TT-BX-50-5", "lock_chips/stacked/wolf/bx-50-5.webp", "lock chip",false),"comingSoon": true, "inProgress": true } //need image
     ]
   },
   {
@@ -13741,12 +14124,15 @@ export const allParts: Part[] = [
     "category": "Lock Chip",
     "series": ["CX"],
     "company": "Hasbro",
+    "alsoShowUnder": ["Takara Tomy"],
     "spinDirection": "Right",
     "weight": 1.76,
     "partStack60": true,
     "image": getPartImage("Hornet-Hasbro-Fort-Hornet-R-7-60T", "lock_chips/normal/hornet/forthornet.webp", "lock chip"),
     "variants": [
-      { "name": "Fort Hornet R 7-60T (Starter) (HB) (Default)", "image": getPartImage("Hornet-Hasbro-Fort-Hornet-R-7-60T", "lock_chips/normal/hornet/forthornet.webp", "lock chip"), "stackedImage": getPartImage("Hornet-Hasbro-Fort-Hornet-R-7-60T", "lock_chips/stacked/hornet/forthornet.webp", "lock chip"),"displayedName":"Fort Hornet R 7-60T (HB)" }
+      { "name": "Fort Hornet R 7-60T (Starter) (HB) (Default)", "image": getPartImage("Hornet-Hasbro-Fort-Hornet-R-7-60T", "lock_chips/normal/hornet/forthornet.webp", "lock chip"), "stackedImage": getPartImage("Hornet-Hasbro-Fort-Hornet-R-7-60T", "lock_chips/stacked/hornet/forthornet.webp", "lock chip"),"displayedName":"Fort Hornet R 7-60T (HB)" },
+      { "name": "CX-00 Rare Bey Get (HornetFort) (TT)", "image": getPartImage("Hornet-RBG", "lock_chips/normal/hornet/rbg.webp", "lock chip"), "stackedImage": getPartImage("Hornet-RBG", "lock_chips/stacked/hornet/rbg.webp", "lock chip"), "comingSoon": true  }
+    
     ]
   },
   {
@@ -13755,11 +14141,13 @@ export const allParts: Part[] = [
     "category": "Lock Chip",
     "series": ["CX"],
     "company": "Hasbro",
+    "alsoShowUnder": ["Takara Tomy"],
     "spinDirection": "Right",
     "weight": 1.76,
     "image": getPartImage("Kraken-Hasbro-Wriggle-Kraken-S-3-85O", "lock_chips/normal/kraken/wrigglekraken.webp", "lock chip"),
     "variants": [
-      { "name": "Wriggle Kraken S 3-85O (Starter) (HB) (Default)", "image": getPartImage("Kraken-Hasbro-Wriggle-Kraken-S-3-85O", "lock_chips/normal/kraken/wrigglekraken.webp", "lock chip"), "stackedImage": getPartImage("Kraken-Hasbro-Wriggle-Kraken-S-3-85O", "lock_chips/stacked/kraken/wrigglekraken.webp", "lock chip"),"displayedName":"Wriggle Kraken S 3-85O (Starter) (HB)" }
+      { "name": "Wriggle Kraken S 3-85O (Starter) (HB) (Default)", "image": getPartImage("Kraken-Hasbro-Wriggle-Kraken-S-3-85O", "lock_chips/normal/kraken/wrigglekraken.webp", "lock chip"), "stackedImage": getPartImage("Kraken-Hasbro-Wriggle-Kraken-S-3-85O", "lock_chips/stacked/kraken/wrigglekraken.webp", "lock chip"),"displayedName":"Wriggle Kraken S 3-85O (Starter) (HB)" },
+      { "name": "CX-00 Rare Bey Get (KrakenWriggle) (TT)", "image": getPartImage("Kraken-RBG", "lock_chips/normal/kraken/rbg.webp", "lock chip"), "stackedImage": getPartImage("Kraken-RBG", "lock_chips/stacked/kraken/rbg.webp", "lock chip"), "comingSoon": true  }
     ]
   },
   {
@@ -13768,12 +14156,14 @@ export const allParts: Part[] = [
     "category": "Lock Chip",
     "series": ["CX"],
     "company": "Hasbro",
+    "alsoShowUnder": ["Takara Tomy"],
     "spinDirection": "Right",
     "weight": 1.75,
     "image": getPartImage("Stag-Hasbro-Antler-Stag-B-2-60HN", "lock_chips/normal/stag/antlerstag.webp", "lock chip"),
     "partStack60": true,
     "variants": [
-      { "name": "Antler Stag B 2-60HN (Starter) (HB) (Default)", "image": getPartImage("Stag-Hasbro-Antler-Stag-B-2-60HN", "lock_chips/normal/stag/antlerstag.webp", "lock chip"), "stackedImage": getPartImage("Stag-Hasbro-Antler-Stag-B-2-60HN", "lock_chips/stacked/stag/antlerstag.webp", "lock chip"),"displayedName":"Antler Stag B 2-60HN (Starter) (HB)" }
+      { "name": "Antler Stag B 2-60HN (Starter) (HB) (Default)", "image": getPartImage("Stag-Hasbro-Antler-Stag-B-2-60HN", "lock_chips/normal/stag/antlerstag.webp", "lock chip"), "stackedImage": getPartImage("Stag-Hasbro-Antler-Stag-B-2-60HN", "lock_chips/stacked/stag/antlerstag.webp", "lock chip"),"displayedName":"Antler Stag B 2-60HN (Starter) (HB)" },
+      { "name": "CX-00 Rare Bey Get (BucksAntlers) (TT)", "image": getPartImage("Stag-RBG", "lock_chips/normal/stag/rbg.webp", "lock chip"), "stackedImage": getPartImage("Stag-RBG", "lock_chips/stacked/stag/rbg.webp", "lock chip"), "comingSoon": true }
     ]
   },
   {
@@ -13901,6 +14291,20 @@ export const allParts: Part[] = [
       { "name": "CX-18-1 (TT) (Default)", "image": getPartImage("Brachio", "lock_chips/normal/brachio/cx-18-1.webp", "lock chip"), "stackedImage": getPartImage("Brachio", "lock_chips/stacked/brachio/cx-18-1.webp", "lock chip"),"displayedName":"CX-18-1 (TT)" },
       { "name": "CX-18-2 (TT)", "image": getPartImage("Brachio", "lock_chips/normal/brachio/cx-18-2.webp", "lock chip"), "stackedImage": getPartImage("Brachio", "lock_chips/stacked/brachio/cx-18-2.webp", "lock chip")},
       { "name": "CX-18-3 (TT)", "image": getPartImage("Brachio", "lock_chips/normal/brachio/cx-18-3.webp", "lock chip"), "stackedImage": getPartImage("Brachio", "lock_chips/stacked/brachio/cx-18-3.webp", "lock chip")},
+    ]
+  },
+  {
+    "id": "Drake",
+    "name": "Drake",
+    "category": "Lock Chip",
+    "series": ["CX"],
+    "company": "Takara Tomy",
+    "spinDirection": "Right",
+    "comingSoon":true,
+    //"weight": 1.72,
+    "image": getPartImage("Drake", "lock_chips/normal/drake/drakebrave.webp", "lock chip"),
+    "variants": [
+      { "name": "CX-00 Rare Bey Get (DrakeBrave) (Default) (TT)", "image": getPartImage("Drake", "lock_chips/normal/drake/drakebrave.webp", "lock chip"), "stackedImage": getPartImage("Drake", "lock_chips/stacked/drake/drakebrave.webp", "lock chip"),"comingSoon":true, "displayedName":"CX-00 Rare Bey Get (DrakeBrave)(TT)" },
     ]
   },
   {
@@ -14143,7 +14547,8 @@ export const allParts: Part[] = [
       { "name": "G1 3rd Prize (DranBrave Metal Coat: Bronze) (TT)", "image": getPartImage("Brave-TT-G1-3rd", "main_blades/normal/brave/bronze.webp", "blade"), "stackedImage": getPartImage("Brave-TT-G1-3rd", "main_blades/stacked/brave/bronze.webp", "blade") },
       { "name": "UX-18-4 (TT)", "image": getPartImage("Brave-TT-UX-18-4", "main_blades/normal/brave/ux-18-4.webp", "blade"), "stackedImage": getPartImage("Brave-TT-UX-18-4", "main_blades/stacked/brave/ux-18-4.webp", "blade") },
       { "name": "TT Mall Exclusive (DranBrave Metal Coat: Black) (TT)", "image": getPartImage("Brave-TT-ttmall_black", "main_blades/normal/brave/ttmall_black.webp", "blade", false), "stackedImage": getPartImage("Brave-TT-ttmall_black", "main_blades/stacked/brave/ttmall_black.webp", "blade", false), "comingSoon":true, "inProgress": true }, //need image
-      { "name": "Evangelion Deck Set (TT)", "image": getPartImage("Brave-TT-evangelion", "main_blades/normal/brave/evangelion.webp", "blade"), "stackedImage": getPartImage("Brave-TT-UX-18-4", "main_blades/stacked/brave/evangelion.webp", "blade"), "comingSoon":true }
+      { "name": "Evangelion Deck Set (TT)", "image": getPartImage("Brave-TT-evangelion", "main_blades/normal/brave/evangelion.webp", "blade"), "stackedImage": getPartImage("Brave-TT-evangelion", "main_blades/stacked/brave/evangelion.webp", "blade"), "comingSoon":true },
+      { "name": "CX-00 Rare Bey Get (DrakeBrave) (TT)", "image": getPartImage("Brave-TT-DrakeBrave", "main_blades/normal/brave/drakebrave.webp", "blade"), "stackedImage": getPartImage("Brave-TT-DrakeBrave", "main_blades/stacked/brave/drakebrave.webp", "blade"), "comingSoon":true }
 
     ]
   },
@@ -14252,6 +14657,7 @@ export const allParts: Part[] = [
       { "name": "CX-08-1 (TT) (Default)", "image": getPartImage("Flame-TT-CX-08-1", "main_blades/normal/flame/cx-08-1.webp", "blade"), "stackedImage": getPartImage("Flame-TT-CX-08-1", "main_blades/stacked/flame/cx-08-1.webp", "blade"),"displayedName":"CX-08-1 (TT)" },
       { "name": "CX-08-2 (TT)", "image": getPartImage("Flame-TT-CX-08-2", "main_blades/normal/flame/cx-08-2.webp", "blade"), "stackedImage": getPartImage("Flame-TT-CX-08-2", "main_blades/stacked/flame/cx-08-2.webp", "blade") },
       { "name": "Flame Cerberus W 5-80WB (Starter) (HB)", "image": getPartImage("Flame-TT-CX-08-1", "main_blades/normal/flame/cx-08-1.webp", "blade"), "stackedImage": getPartImage("Flame-TT-CX-08-1", "main_blades/stacked/flame/cx-08-1.webp", "blade") },
+      { "name": "BX-50-5 (TT)", "image": getPartImage("Flame-TT-BX-50-5", "main_blades/normal/flame/bx-50-5.webp", "blade", false), "stackedImage": getPartImage("Flame-TT-BX-50-5", "main_blades/stacked/flame/bx-50-5.webp", "blade", false), "comingSoon": true, "inProgress": true }, //need image
     ]
   },
   {
@@ -14283,7 +14689,8 @@ export const allParts: Part[] = [
       { "name": "CX-05-1 (TT) (Default)", "image": getPartImage("Reaper-TT-CX-05-1", "main_blades/normal/reaper/cx-05-1.webp", "blade"), "stackedImage": getPartImage("Reaper-TT-CX-05-1", "main_blades/stacked/reaper/cx-05-1.webp", "blade"),"displayedName":"CX-05-1 (TT)" },
       { "name": "Reaper Incendio T 4-70K (Starter) (HB)", "image": getPartImage("Reaper-TT-CX-05-1", "main_blades/normal/reaper/cx-05-1.webp", "blade"), "stackedImage": getPartImage("Reaper-TT-CX-05-1", "main_blades/stacked/reaper/cx-05-1.webp", "blade") },
       { "name": "CX-05-2 (TT)", "image": getPartImage("Reaper-TT-CX-05-2", "main_blades/normal/reaper/cx-05-2.webp", "blade"), "stackedImage": getPartImage("Reaper-TT-CX-05-2", "main_blades/stacked/reaper/cx-05-2.webp", "blade") },
-      { "name": "Reaper Rhino C 4-55D (Starter) (HB)", "image": getPartImage("Reaper-TT-CX-05-2", "main_blades/normal/reaper/cx-05-2.webp", "blade"), "stackedImage": getPartImage("Reaper-TT-CX-05-2", "main_blades/stacked/reaper/cx-05-2.webp", "blade") }
+      { "name": "Reaper Rhino C 4-55D (Starter) (HB)", "image": getPartImage("Reaper-TT-CX-05-2", "main_blades/normal/reaper/cx-05-2.webp", "blade"), "stackedImage": getPartImage("Reaper-TT-CX-05-2", "main_blades/stacked/reaper/cx-05-2.webp", "blade") },
+      { "name": "BX-50-6 (TT)", "image": getPartImage("Reaper-TT-BX-50-6", "main_blades/normal/reaper/bx-50-6.webp", "blade", false), "stackedImage": getPartImage("Reaper-TT-BX-50-6", "main_blades/stacked/reaper/bx-50-6.webp", "blade", false), "comingSoon": true, "inProgress": true }, //need image
     ]
   },
   {
@@ -14332,12 +14739,14 @@ export const allParts: Part[] = [
     "type": "Stamina",
     "series": ["CX"],
     "company": "Hasbro",
+    "alsoShowUnder": ["Takara Tomy"],
     "spinDirection": "Right",
     "echoOf": ["Arc-TT"],
     "weight": 29.47,
     "image": getPartImage("Wriggle-HB-Wriggle-Kraken-S-3-85O", "main_blades/normal/wriggle/wrigglekrakens3-85o.webp", "blade"),
     "variants": [
-      { "name": "Wriggle Kraken S 3-85O (Starter) (HB) (Default)", "image": getPartImage("Wriggle-HB-Wriggle-Kraken-S-3-85O", "main_blades/normal/wriggle/wrigglekrakens3-85o.webp", "blade"), "stackedImage": getPartImage("Wriggle-HB-Wriggle-Kraken-S-3-85O", "main_blades/stacked/wriggle/wrigglekrakens3-85o.webp", "blade"),"displayedName":"Wriggle Kraken S 3-85O (Starter) (HB)" }
+      { "name": "Wriggle Kraken S 3-85O (Starter) (HB) (Default)", "image": getPartImage("Wriggle-HB-Wriggle-Kraken-S-3-85O", "main_blades/normal/wriggle/wrigglekrakens3-85o.webp", "blade"), "stackedImage": getPartImage("Wriggle-HB-Wriggle-Kraken-S-3-85O", "main_blades/stacked/wriggle/wrigglekrakens3-85o.webp", "blade"),"displayedName":"Wriggle Kraken S 3-85O (Starter) (HB)" },
+      { "name": "CX-00 Rare Bey Get (KrakenWriggle) (TT)", "image": getPartImage("Wriggle-RBG", "main_blades/normal/wriggle/rbg.webp", "blade"), "stackedImage": getPartImage("Wriggle-RBG", "main_blades/stacked/wriggle/rbg.webp", "blade"),"comingSoon":true }
     ]
   },
   {
@@ -14347,12 +14756,14 @@ export const allParts: Part[] = [
     "type": "Stamina",
     "series": ["CX"],
     "company": "Hasbro",
+    "alsoShowUnder": ["Takara Tomy"],
     "spinDirection": "Right",
     "weight": 29.08,
     "echoOf": ["Flame-TT"],
     "image": getPartImage("Antler-HB-Antler-Stag-B-2-60HN", "main_blades/normal/antler/antlerstag.webp", "blade"),
     "variants": [
-      { "name": "Antler Stag B 2-60HN (Starter) (HB) (Default)", "image": getPartImage("Antler-HB-Antler-Stag-B-2-60HN", "main_blades/normal/antler/antlerstag.webp", "blade"), "stackedImage": getPartImage("Antler-HB-Antler-Stag-B-2-60HN", "main_blades/stacked/antler/antlerstag.webp", "blade"),"displayedName":"Antler Stag B 2-60HN (Starter) (HB)" }
+      { "name": "Antler Stag B 2-60HN (Starter) (HB) (Default)", "image": getPartImage("Antler-HB-Antler-Stag-B-2-60HN", "main_blades/normal/antler/antlerstag.webp", "blade"), "stackedImage": getPartImage("Antler-HB-Antler-Stag-B-2-60HN", "main_blades/stacked/antler/antlerstag.webp", "blade"),"displayedName":"Antler Stag B 2-60HN (Starter) (HB)" },
+      { "name": "CX-00 Rare Bey Get (BucksAntlers) (TT)", "image": getPartImage("Antler-RBG", "main_blades/normal/antler/rbg.webp", "blade"), "stackedImage": getPartImage("Antler-RBG", "main_blades/stacked/antler/rbg.webp", "blade"),"comingSoon":true }
     ]
   },
   {
@@ -14362,12 +14773,14 @@ export const allParts: Part[] = [
     "type": "Balance",
     "series": ["CX"],
     "company": "Hasbro",
+    "alsoShowUnder": ["Takara Tomy"],
     "spinDirection": "Right",
     "weight": 28.95,
     "echoOf": ["Reaper-TT"],
     "image": getPartImage("Fort-HB-Fort-Hornet-R-7-60T", "main_blades/normal/fort/forthornet.webp", "blade"),
     "variants": [
-      { "name": "Fort Hornet R 7-60T (Starter) (HB) (Default)", "image": getPartImage("Fort-HB-Fort-Hornet-R-7-60T", "main_blades/normal/fort/forthornet.webp", "blade"), "stackedImage": getPartImage("Fort-HB-Fort-Hornet-R-7-60T", "main_blades/stacked/fort/forthornet.webp", "blade"),"displayedName":"Fort Hornet R 7-60T (Starter) (HB)" }
+      { "name": "Fort Hornet R 7-60T (Starter) (HB) (Default)", "image": getPartImage("Fort-HB-Fort-Hornet-R-7-60T", "main_blades/normal/fort/forthornet.webp", "blade"), "stackedImage": getPartImage("Fort-HB-Fort-Hornet-R-7-60T", "main_blades/stacked/fort/forthornet.webp", "blade"),"displayedName":"Fort Hornet R 7-60T (Starter) (HB)" },
+      { "name": "CX-00 Rare Bey Get (HornetFort) (TT)", "image": getPartImage("Fort-RBG", "main_blades/normal/fort/rbg.webp", "blade"), "stackedImage": getPartImage("Fort-RBG", "main_blades/stacked/fort/rbg.webp", "blade"),"comingSoon":true }
     ]
   },
   {
@@ -14420,13 +14833,14 @@ export const allParts: Part[] = [
       { "name": "Courage Dran S 6-60V (Starter) (HB)", "image": getPartImage("S-Slash-TT-CX-01", "assist_blades/normal/s/cx-01.webp", "assist blade"), "stackedImage": getPartImage("S-Slash-TT-CX-01", "assist_blades/stacked/s/cx-01.webp", "assist blade") },
       { "name": "CX-04 (TT)", "image": getPartImage("S-Slash-TT-CX-04", "assist_blades/normal/s/cx-04.webp", "blade"), "stackedImage": getPartImage("S-Slash-TT-CX-04", "assist_blades/stacked/s/cx-04.webp", "blade") },
       { "name": "Wriggle Kraken S 3-85O (Starter) (HB)", "image": getPartImage("S-Slash-HB-Wriggle-Kraken-S-3-85O", "assist_blades/normal/s/wrigglekrakens3-85o.webp", "assist blade"), "stackedImage": getPartImage("S-Slash-HB-Wriggle-Kraken-S-3-85O", "assist_blades/stacked/s/wrigglekrakens3-85o.webp", "assist blade") },
-      { "name": "CX-00 Rare Bey Get (TT)", "image": getPartImage("S-Slash-TT-CX-00-Rare-Bey-Get", "assist_blades/normal/s/valkyrievolt.webp", "assist blade"), "stackedImage": getPartImage("S-Slash-TT-CX-00-Rare-Bey-Get", "assist_blades/stacked/s/valkyrievolt.webp", "assist blade") },
+      { "name": "CX-00 Rare Bey Get (TT)", "image": getPartImage("S-Slash-TT-CX-00-Rare-Bey-Get", "assist_blades/normal/s/valkyrievolt.webp", "assist blade"), "stackedImage": getPartImage("S-Slash-TT-CX-00-Rare-Bey-Get", "assist_blades/stacked/s/valkyrievolt.webp", "assist blade"), "displayedName": "CX-00 Rare Bey Get (ValkyrieVolt) (TT)" },
       { "name": "Corocoro (DranArc) (TT)", "image": getPartImage("S-Slash-TT-DranArc", "assist_blades/normal/s/dranarc.webp", "assist blade"), "stackedImage": getPartImage("S-Slash-TT-DranArc", "assist_blades/stacked/s/dranarc.webp", "assist blade"), "displayedName": "Corocoro Lottery/Full Color Manga Vol. 3 (DranArc S2-70K Metal Coat: Blue) (TT)" },
       { "name": "G1 1st Prize (DranBrave Metal Coat: Gold) (TT)", "image": getPartImage("Slash-TT-G1-1st", "assist_blades/normal/s/gold.webp", "assist blade"), "stackedImage": getPartImage("Slash-TT-G1-1st", "assist_blades/stacked/s/gold.webp", "assist blade") },
       { "name": "G1 2nd Prize (DranBrave Metal Coat: Silver) (TT)", "image": getPartImage("Slash-TT-G1-2nd", "assist_blades/normal/s/silver.webp", "assist blade"), "stackedImage": getPartImage("Slash-TT-G1-2nd", "assist_blades/stacked/s/silver.webp", "assist blade") },
       { "name": "G1 3rd Prize (DranBrave Metal Coat: Bronze) (TT)", "image": getPartImage("Slash-TT-G1-3rd", "assist_blades/normal/s/bronze.webp", "assist blade"), "stackedImage": getPartImage("Slash-TT-G1-3rd", "assist_blades/stacked/s/bronze.webp", "assist blade") },
       { "name": "TT Mall Exclusive (DranBrave Metal Coat: Black) (TT)", "image": getPartImage("Slash-TT-ttmall_black", "assist_blades/normal/s/ttmall_black.webp", "assist blade",false), "stackedImage": getPartImage("Slash-TT-ttmall_black", "assist_blades/stacked/s/ttmall_black.webp", "assist blade", false), "comingSoon":true, "inProgress": true }, // need image
-      { "name": "Hurricane Enlil IS (Starter) (HB)", "image": getPartImage("Slash-HurricaneEnlil", "assist_blades/normal/s/hurricaneenlil7-55t.webp", "assist blade",false), "stackedImage": getPartImage("Slash-HurricaneEnlil", "assist_blades/stacked/s/hurricaneenlil7-55t.webp", "assist blade", false), "comingSoon":true, "inProgress": true } //need image
+      { "name": "Hurricane Enlil IS (Starter) (HB)", "image": getPartImage("Slash-HurricaneEnlil", "assist_blades/normal/s/hurricaneenlil7-55t.webp", "assist blade",false), "stackedImage": getPartImage("Slash-HurricaneEnlil", "assist_blades/stacked/s/hurricaneenlil7-55t.webp", "assist blade", false), "comingSoon":true, "inProgress": true }, //need image
+      { "name": "CX-00 Rare Bey Get (KrakenWriggle) (TT)", "image": getPartImage("S-Slash-TT-CX-00-Rare-Bey-Get-KrakenWriggle", "assist_blades/normal/s/krakenwriggle.webp", "assist blade"), "stackedImage": getPartImage("S-Slash-TT-CX-00-Rare-Bey-Get-KrakenWriggle", "assist_blades/stacked/s/krakenwriggle.webp", "assist blade"), "comingSoon":true },
     ]
   },
   {
@@ -14445,7 +14859,8 @@ export const allParts: Part[] = [
       { "name": "CX-02 (TT) (Default)", "image": getPartImage("R-Round-TT-CX-02", "assist_blades/normal/r/cx-02.webp", "assist blade"), "stackedImage": getPartImage("R-Round-TT-CX-02", "assist_blades/stacked/r/cx-02.webp", "assist blade"),"displayedName":"CX-02 (TT)" },
       { "name": "Arc Wizard R 4-55LO (Starter) (HB)", "image": getPartImage("R-Round-TT-CX-02", "assist_blades/normal/r/cx-02.webp", "assist blade"), "stackedImage": getPartImage("R-Round-TT-CX-02", "assist_blades/stacked/r/cx-02.webp", "assist blade") },
       { "name": "Fort Hornet R 7-60T (Starter) (HB)", "image": getPartImage("R-Round-HB-Fort-Hornet-R-7-60T", "assist_blades/normal/r/forthornet.webp", "assist blade"), "stackedImage": getPartImage("R-Round-HB-Fort-Hornet-R-7-60T", "assist_blades/stacked/r/forthornet.webp", "assist blade") },
-      { "name": "CX-00 (WizardArc Metal Coat: Black) (TT)", "image": getPartImage("R-Round-Assist-Blade-CX-00-Metal-Coat-Black", "assist_blades/normal/r/blackarc.webp", "assist blade"), "stackedImage": getPartImage("R-Round-Assist-Blade-CX-00-Metal-Coat-Black", "assist_blades/stacked/r/blackarc.webp", "assist blade"), "displayedName": "CX-00 Rare Bey Get (WizardArc Metal Coat: Black) (TT)" }
+      { "name": "CX-00 (WizardArc Metal Coat: Black) (TT)", "image": getPartImage("R-Round-Assist-Blade-CX-00-Metal-Coat-Black", "assist_blades/normal/r/blackarc.webp", "assist blade"), "stackedImage": getPartImage("R-Round-Assist-Blade-CX-00-Metal-Coat-Black", "assist_blades/stacked/r/blackarc.webp", "assist blade"), "displayedName": "CX-00 Rare Bey Get (WizardArc Metal Coat: Black) (TT)" },
+      { "name": "CX-00 Rare Bey Get (HornetFort) (TT)", "image": getPartImage("R-Round-Assist-Blade-CX-00-HornetFort", "assist_blades/normal/r/hornetfort.webp", "assist blade"), "stackedImage": getPartImage("R-Round-Assist-Blade-CX-00-HornetFort", "assist_blades/stacked/r/hornetfort.webp", "assist blade"),"comingSoon":true }
     ]
   },
   {
@@ -14466,7 +14881,9 @@ export const allParts: Part[] = [
       { "name": "CX-04 (TT)", "image": getPartImage("B-Bumper-TT-CX-04", "assist_blades/normal/b/cx-04.webp", "assist blade"), "stackedImage": getPartImage("B-Bumper-TT-CX-04", "assist_blades/stacked/b/cx-04.webp", "assist blade") },
       { "name": "Antler Stag B 2-60HN (Starter) (HB)", "image": getPartImage("B-Bumper-HB-Antler-Stag-B-2-60HN", "assist_blades/normal/b/antlerstag.webp", "assist blade"), "stackedImage": getPartImage("B-Bumper-HB-Antler-Stag-B-2-60HN", "assist_blades/stacked/b/antlerstag.webp", "assist blade") },
       { "name": "G3 1st Prize (TT)", "image": getPartImage("B-Bumper-TT-G3-1st-Prize", "assist_blades/normal/b/gold.webp", "assist blade"), "stackedImage": getPartImage("B-Bumper-TT-G3-1st-Prize", "assist_blades/stacked/b/gold.webp", "assist blade"), "displayedName": "G3 1st Prize (PerseusDark Metal Coat: Gold) (TT)" },
-      { "name": "Evangelion Deck Set (TT)", "image": getPartImage("B-Bumper-TT-evangelion", "assist_blades/normal/b/evangelion.webp", "assist blade"), "stackedImage": getPartImage("B-Bumper-TT-evangelion", "assist_blades/stacked/b/evangelion.webp", "assist blade"), "comingSoon":true }
+      { "name": "Evangelion Deck Set (TT)", "image": getPartImage("B-Bumper-TT-evangelion", "assist_blades/normal/b/evangelion.webp", "assist blade"), "stackedImage": getPartImage("B-Bumper-TT-evangelion", "assist_blades/stacked/b/evangelion.webp", "assist blade"), "comingSoon":true },
+      { "name": "CX-00 Rare Bey Get (BucksAntlers) (TT)", "image": getPartImage("B-Bumper-TT-BucksAntlers", "assist_blades/normal/b/bucksantlers.webp", "assist blade"), "stackedImage": getPartImage("B-Bumper-TT-BucksAntlers", "assist_blades/stacked/b/bucksantlers.webp", "assist blade"), "comingSoon":true },
+      { "name": "BX-50-6 (TT)", "image": getPartImage("B-Bumper-TT-BX-50-6", "assist_blades/normal/b/bx-50-6.webp", "assist blade", false), "stackedImage": getPartImage("B-Bumper-TT-BX-50-6", "assist_blades/stacked/b/bx-50-6.webp", "assist blade", false), "comingSoon": true, "inProgress":true }, //need image
     ]
   },
   {
@@ -14650,6 +15067,16 @@ export const allParts: Part[] = [
           { "name": "CX-09 (Upper Mode) (TT)", "image": getPartImage("D-Dual-TT-CX-09-Upper-Mode", "assist_blades/normal/d/cx-09/upper.webp", "assist blade"), "stackedImage": getPartImage("D-Dual-TT-CX-09-Upper-Mode", "assist_blades/stacked/d/cx-09/upper.webp", "assist blade") },
           { "name": "CX-09 (Smash Mode) (TT)", "image": getPartImage("D-Dual-TT-CX-09-Smash-Mode", "assist_blades/normal/d/cx-09/smash.webp", "assist blade"), "stackedImage": getPartImage("D-Dual-TT-CX-09-Smash-Mode", "assist_blades/stacked/d/cx-09/smash.webp", "assist blade") }
         ]
+      },
+      {
+        "name": "BX-50-5 (TT)",
+        "image": getPartImage("D-Dual-TT-BX-50-5-Upper-Mode", "assist_blades/normal/d/bx-50-5/upper.webp", "assist blade", false),
+        "comingSoon": true,
+        "inProgress": true,
+        "modes": [
+          { "name": "BX-50-5 (Upper Mode) (TT)", "image": getPartImage("D-Dual-TT-BX-50-5-Upper-Mode", "assist_blades/normal/d/bx-50-5/upper.webp", "assist blade", false), "stackedImage": getPartImage("D-Dual-TT-BX-50-5-Upper-Mode", "assist_blades/stacked/d/bx-50-5/upper.webp", "assist blade", false), "inProgress": true }, //need image
+          { "name": "BX-50-5 (Smash Mode) (TT)", "image": getPartImage("D-Dual-TT-BX-50-5-Smash-Mode", "assist_blades/normal/d/bx-50-5/smash.webp", "assist blade", false), "stackedImage": getPartImage("D-Dual-TT-BX-50-5-Smash-Mode", "assist_blades/stacked/d/bx-50-5/smash.webp", "assist blade", false), "inProgress": true } //need image
+        ]
       }
     ]
   },
@@ -14771,6 +15198,22 @@ export const allParts: Part[] = [
       { "name": "CX-17-2 (TT)", "image": getPartImage("O-Odd-Assist-cx-17-2", "assist_blades/normal/o/cx-17-2.webp", "assist blade"), "stackedImage": getPartImage("O-Odd-Assist-cx-17-2", "assist_blades/stacked/o/cx-17-2.webp", "assist blade")},
     ]
   },
+  {
+    "id": "G-Gravity-Assist",
+    "name": "G (Gravity)",
+    "category": "Assist Blade",
+    "series": ["CX"],
+    "company": "Takara Tomy",
+    "spinDirection": "Right",
+    "comingSoon": true,
+    // "height": "80",
+    // "weight": 6.62,
+    // "type": "Attack",
+    "image": getPartImage("G-Gravity-Assist-TT-DrakeBrave", "assist_blades/normal/g/drakebrave.webp", "assist blade"),
+    "variants": [
+      { "name": "CX-00 Rare Bey Get (DrakeBrave) (Default) (TT)", "image": getPartImage("G-Gravity-Assist-TT-DrakeBrave", "assist_blades/normal/g/drakebrave.webp", "assist blade"), "stackedImage": getPartImage("G-Gravity-Assist-TT-DrakeBrave", "assist_blades/stacked/g/drakebrave.webp", "assist blade"),"displayedName":"CX-00 Rare Bey Get (DrakeBrave) (TT)", "comingSoon": true }
+    ]
+  },
 
 
   // Launchers
@@ -14885,7 +15328,7 @@ export const allParts: Part[] = [
       { "name": "BX-28", "image": getPartImage("String-BX-28-TT", "launchers/tt_string_launcher/bx-28.webp", "String launcher") },
       { "name": "UX-11", "image": getPartImage("String-UX-11-TT", "launchers/tt_string_launcher/ux-11.webp", "String launcher") },
       { "name": "UX-00 Dran Deck Starter", "image": getPartImage("String-UX-00-Dran-Deck-TT", "launchers/tt_string_launcher/drandeck.webp", "String launcher"), "displayedName": "UX-00 (Dran Deck Starter)" },
-      { "name": "25th Anniversary Set (StormPegasis)", "image": getPartImage("String-25-anniversary-Pegasis-TT", "launchers/tt_string_launcher/pegasis.webp", "String launcher") },
+      { "name": "25th Anniversary Set (StormPegasis)", "image": getPartImage("String-25-anniversary-Pegasis-TT", "launchers/tt_string_launcher/pegasis.webp", "String launcher"), "displayedName": "25th Anniversary Set, Starter (StormPegasis) (TT)" },
       { "name": "25th Anniversary Set (VictoryValkyrie)", "image": getPartImage("String-25-anniversary-Valkyrie-TT", "launchers/tt_string_launcher/valkyrie.webp", "String launcher") },
       { "name": "G2 Prize (Bronze Ver.)", "image": getPartImage("String-g2-bronze-TT", "launchers/tt_string_launcher/bronze.webp", "String launcher") },
       { "name": "G2 Prize (Silver Ver.)", "image": getPartImage("String-g2-silver-TT", "launchers/tt_string_launcher/silver.webp", "String launcher") },
@@ -14894,7 +15337,8 @@ export const allParts: Part[] = [
       { "name": "B4 Exclusive Color Ver. (Green)", "image": getPartImage("String-B4-Green", "launchers/tt_string_launcher/green.webp", "String launcher") },
       { "name": "B4 Exclusive Color Ver. (Pink)", "image": getPartImage("String-B4-Green", "launchers/tt_string_launcher/pink.webp", "String launcher") },
       { "name": "B4 Exclusive Color Ver. (Orange)", "image": getPartImage("String-B4-Green", "launchers/tt_string_launcher/orange.webp", "String launcher") },
-      { "name": "BX-51", "image": getPartImage("String-BX-51", "launchers/tt_string_launcher/bx-51.webp", "String launcher")}
+      { "name": "BX-51", "image": getPartImage("String-BX-51", "launchers/tt_string_launcher/bx-51.webp", "String launcher")},
+      { "name": "UX-20", "image": getPartImage("String-UX-20", "launchers/tt_string_launcher/ux-20.webp", "String launcher"), "comingSoon": true }
     ]
 
   },
@@ -14934,7 +15378,7 @@ export const allParts: Part[] = [
     "image": getPartImage("String-Launcher-L-Default-HB", "launchers/hb_string_launcher_l/cobaltdragoon.webp", "String launcher"),
     "variants": [
       { "name": "Cobalt Dragoon Deluxe Left-Spin String Launcher Set", "image": getPartImage("String-Launcher-L-Default-HB", "launchers/hb_string_launcher_l/cobaltdragoon.webp", "String launcher") },
-      { "name": "Meteoroid Dragoon 3-70J (Deluxe Launcher Set)", "image": getPartImage("String-Launcher-L-meteoroiddraggon", "launchers/tt_string_launcher_l/bx-47.webp", "String launcher"), "comingSoon":true },
+      { "name": "Meteoroid Dragoon 3-70J (Deluxe Launcher Set)", "image": getPartImage("String-Launcher-L-meteoroiddraggon", "launchers/tt_string_launcher_l/bx-47.webp", "String launcher")},
 
     ]
 
@@ -15283,7 +15727,7 @@ export const allParts: Part[] = [
         { "name": "Beyblade X Evobattle (LeonFang) (TT)", "image": getPartImage("A-LeonFang", "bits/a/evobattle.webp", "bit"), "displayedName": "Beyblade X Evobattle (LeonFang Red Ver.) (TT)" },
         { "name": "UX-00 Rare Bey Get (AeroPegasus Red Ver.) (TT)", "image": getPartImage("A-Rare-Bey-Get-red", "bits/a/aeropegasus_redver.webp", "bit") },
         { "name": "Evangelion Deck Set (TT)", "image": getPartImage("A-evangelion", "bits/a/evangelion.webp", "bit"), "comingSoon":true },
-        { "name": "Crest Leon 4-55A (Dual Pack) (HB)", "image": getPartImage("A-crestleon/clampcrab", "bits/a/crestleon4-55a.webp", "bit",false), "comingSoon":true, "inProgress": true } //need image
+        { "name": "Crest Leon 4-55A (Dual Pack) (HB)", "image": getPartImage("A-crestleon/clampcrab", "bits/a/crestleon4-55a.webp", "bit"), "comingSoon":true}
       ]
     },
     {
@@ -15390,6 +15834,7 @@ export const allParts: Part[] = [
         { "name": "TT Mall Campaign (Transparent Shaft) (TT)", "image": getPartImage("D-TT-Mall", "bits/d/ttmall.webp", "bit") },
         { "name": "Draciel Shield 7-60D (Starter) (HB)", "image": getPartImage("D-DracielShield", "bits/d/dracielshield.webp", "bit") },
         { "name": "Reaper Rhino C 4-55D (Starter) (HB)", "image": getPartImage("D-CX-05-2", "bits/d/reaperrhino.webp", "bit") },
+        { "name": "CX-00 Rare Bey Get (BucksAntlers) (TT)", "image": getPartImage("D-BucksAntlers", "bits/d/bucksantlers.webp", "bit"), "comingSoon": true },
       ]
     },
     {
@@ -15425,12 +15870,15 @@ export const allParts: Part[] = [
       "attributes": ["Defense", "Ultra Low", "12-tooth (Normal)"],
       "resistance": "Ultra Low",
       "xDashGear": "12-tooth (Normal)",
-      "comingSoon": true, "inProgress": true,
+      "comingSoon": true,
       //"weight": 1.99,
       "company": "Hasbro",
-      "image": getPartImage("DS-RingAether", "bits/ds/ringaether0-80ds.webp", "bit", false),
+      "alsoShowUnder": ["Takara Tomy"],
+      "image": getPartImage("DS-RingAether", "bits/ds/ringaether0-80ds.webp", "bit"),
       "variants": [
-        { "name": "Ring Aether 0-80DS (Starter) (HB)", "image": getPartImage("DS-RingAether", "bits/ds/ringaether0-80ds.webp", "bit", false), "comingSoon": true, "inProgress": true } //need image
+        { "name": "Ring Aether 0-80DS (Starter) (HB)", "image": getPartImage("DS-RingAether", "bits/ds/ringaether0-80ds.webp", "bit"), "comingSoon": true},
+        { "name": "BX-50-1 (TT)", "image": getPartImage("DS-BX-50-1", "bits/ds/bx-50-1.webp", "bit"), "comingSoon": true},
+        { "name": "BX-50-4 (TT)", "image": getPartImage("DS-BX-50-4", "bits/ds/bx-50-4.webp", "bit", false), "comingSoon": true, "inProgress": true } //need image
       ]
     },
   
@@ -15520,6 +15968,7 @@ export const allParts: Part[] = [
         { "name": "Sterling Wolf 3-80FB (Starter) (HB)", "image": getPartImage("FB-UX-08", "bits/fb/sterlingwolf.webp", "bit"), "identicalVariants": ["UX-08 (TT)"] },
         { "name": "X-Treme Battlers Pack (HB)", "image": getPartImage("FB-XBP", "bits/fb/xbp.webp", "bit") },
         { "name": "Valor Bison FB (Starter) (HB)", "image": getPartImage("FB-valorbison", "bits/fb/valorbisonfb.webp", "bit",false), "comingSoon": true, "inProgress": true }, //need image
+        { "name": "BX-50-3 (TT)", "image": getPartImage("FB-BX-50-3", "bits/fb/bx-50-3.webp", "bit",false), "comingSoon":true, "inProgress": false }, //need image
       ]
     },
     {
@@ -15592,6 +16041,7 @@ export const allParts: Part[] = [
         { "name": "BX-00 Double Starter (Captain America 4-70GB) (TT)", "image": getPartImage("GB-Captain-America", "bits/gb/captainamerica.webp", "bit") },
         { "name": "Rampart Aegis GB (Sneak Attack Battle Set) (HB)", "image": getPartImage("GB-Rampart-Aegis", "bits/gb/rampartaegisgb.webp", "bit"), "comingSoon": true },
         { "name": "Shatter Horus 9-65GB (Starter) (HB)", "image": getPartImage("GB-Shatter-Horus", "bits/gb/shatterhorus9-65gb.webp", "bit"), "comingSoon": true },
+        { "name": "TT Mall Campaign (Transparent Shaft) (TT)", "image": getPartImage("GB-TT-Mall", "bits/gb/ttmall.webp", "bit"), "comingSoon": true },
       ]
     },
     {
@@ -15667,7 +16117,7 @@ export const allParts: Part[] = [
         { "name": "Bumblebee 3-60GP (Dual Pack) (HB)", "image": getPartImage("GP-Bumblebee", "bits/gp/bumblebee.webp", "bit") },
         { "name": "Tsuri Spirits Promo (SharkEdge Metal Coat Black) (TT)", "image": getPartImage("GP-TsuriSpirits", "bits/gp/tsurishark.webp", "ratchet"), "displayedName": "BX-00 (SharkEdge Metal Coat: Black (Tsuri Spirits Wonder Ver.)) (TT)" },
         { "name": "BBLD (UnicornSting Metal Coat: Pink) (TT)", "image": getPartImage("GP-BBLD-Pink", "bits/gp/bbld_pink.webp", "ratchet") },
-        { "name": "Gust Bat 3-85GP (Booster) (HB)", "image": getPartImage("GP-gustbat", "bits/gp/gustbat3-85gp.webp", "ratchet",false), "comingSoon": true, "inProgress": true }, //need image
+        { "name": "Gust Bat 3-85GP (Booster) (HB)", "image": getPartImage("GP-gustbat", "bits/gp/gustbat3-85gp.webp", "ratchet"), "comingSoon": true},
 
       ]
     },
@@ -15796,7 +16246,7 @@ export const allParts: Part[] = [
         { "name": "CX-16 (TT)", "image": getPartImage("I-CX-16", "bits/i/cx-16.webp", "bit") },
         { "name": "Blitz Bahamut BK 1-50I (Starter) (HB)", "image": getPartImage("I-CX-13", "bits/i/cx-13.webp", "bit"), "comingSoon":true },
         { "name": "Corocoro (BahamutBlitz Metal Coat: Yellow) (TT)", "image": getPartImage("I-corocoro-yellow", "bits/i/corocoro_yellow.webp", "bit",), "displayedName": "CX-00 Corocoro Mail Order (BahamutBlitz Metal Coat: Yellow) (TT)" },
-      
+        { "name": "CX-00 Rare Bey Get (DrakeBrave) (TT)", "image": getPartImage("I-DrakeBrave", "bits/i/drakebrave.webp", "bit"), "comingSoon": true },
       ]
     },
     {
@@ -15812,7 +16262,7 @@ export const allParts: Part[] = [
       "image": getPartImage("J-UX-17", "bits/j/ux-17.webp", "bit"),
       "variants": [
         { "name": "UX-17 (TT)", "image": getPartImage("J-UX-17", "bits/j/ux-17.webp", "bit") },
-        { "name": "Meteoroid Dragoon 3-70J (Deluxe Launcher Set) (HB)", "image": getPartImage("J-UX-17", "bits/j/ux-17.webp", "bit"), "comingSoon":true }
+        { "name": "Meteoroid Dragoon 3-70J (Deluxe Launcher Set) (HB)", "image": getPartImage("J-UX-17", "bits/j/ux-17.webp", "bit")}
         
       ]
 
@@ -15854,7 +16304,8 @@ export const allParts: Part[] = [
         { "name": "UX-09 (TT)", "image": getPartImage("L-UX-09", "bits/l/ux-09.webp", "bit"), "identicalVariants": ["Saber Samurai 2-70L (Victory Grip Launcher Set) (HB)"] },
         { "name": "Corocoro (SamuraiSaber) (TT)", "image": getPartImage("L-SamuraiSaber-corocoro", "bits/l/corocoro_carrotsaber.webp", "bit"),"displayedName": "UX-00 Corocoro Lottery/Full Color Manga Vol. 2 (SamuraiSaber Metal Coat: Orange) (TT)" },
         { "name": "UX-15 (TT)", "image": getPartImage("L-UX-15", "bits/l/ux-15.webp", "bit") },
-        { "name": "Saber Samurai 2-70L (Victory Grip Launcher Set) (HB)", "image": getPartImage("L-UX-09", "bits/l/sabersamurai.webp", "bit"), "identicalVariants": ["UX-09 (TT)"] }
+        { "name": "Saber Samurai 2-70L (Victory Grip Launcher Set) (HB)", "image": getPartImage("L-UX-09", "bits/l/sabersamurai.webp", "bit"), "identicalVariants": ["UX-09 (TT)"] },
+        { "name": "BX-50-5 (TT)", "image": getPartImage("L-BX-50-5", "bits/l/bx-50-5.webp", "bit", false), "comingSoon": true, "inProgress": true },
       ]
     },
     {
@@ -15887,6 +16338,7 @@ export const allParts: Part[] = [
         { "name": "BX-00 Double Starter (Chewbacca 4-80LF) (TT)", "image": getPartImage("LF-Chewbacca", "bits/lf/chewbacca.webp", "bit") },
         { "name": "Cutter Shinobi LF (Sneak Attack Battle Set) (HB)", "image": getPartImage("LF-Cuttershinobi", "bits/lf/cuttershinobilf.webp", "bit"), "comingSoon": true },
         { "name": "Glory Valkerion LF (Starter) (HB)", "image": getPartImage("LF-gloryvalkerion", "bits/lf/gloryvalkerionlf.webp", "bit"), "comingSoon": true },
+        { "name": "UX-20 (TT)", "image": getPartImage("LF-UX-20", "bits/lf/ux-20.webp", "bit"), "comingSoon": true },
       ]
     },
     {
@@ -15906,7 +16358,7 @@ export const allParts: Part[] = [
         { "name": "Arc Wizard R 4-55LO (Starter) (HB)", "image": getPartImage("LO-CX-02", "bits/lo/arcwizard.webp", "bit"), "identicalVariants": ["CX-02 (TT)"] },
         { "name": "CX-00 (WizardArc Metal Coat: Black) (TT)", "image": getPartImage("LO-Bit-CX-00-Metal-Coat-Black", "bits/lo/black_wizard.webp", "bit"), "displayedName": "CX-00 Rare Bey Get(WizardArc Metal Coat: Black) (TT)" },
         { "name": "CX-17-3 (TT)", "image": getPartImage("LO-CX-17-3", "bits/lo/cx-17-3.webp", "bit",)},
-        { "name": "Tail Viper 3-85LO (Dual Pack) (HB)", "image": getPartImage("LO-tailviper3-85lo", "bits/lo/tailviper3-85lo.webp", "bit",false), "comingSoon": true, "inProgress": true }, //need image
+        { "name": "Tail Viper 3-85LO (Dual Pack) (HB)", "image": getPartImage("LO-tailviper3-85lo", "bits/lo/tailviper3-85lo.webp", "bit"), "comingSoon": true},
       ]
     },
     {
@@ -16051,6 +16503,7 @@ export const allParts: Part[] = [
         { "name": "Hack Viking 4-55O (Dual Pack) (HB)", "image": getPartImage("O-HackVikingDualPack", "bits/o/hackviking.webp", "bit") },
         { "name": "Shelter Drake 5-70O (Booster) (HB)", "image": getPartImage("O-BX-39-2", "bits/o/shelterdrake.webp", "bit") },
         { "name": "Snowtrooper 7-60O (Dual Pack) (HB)", "image": getPartImage("O-snowtrooper", "bits/o/snowtrooper7-60o.webp", "bit") },
+        { "name": "CX-00 Rare Bey Get (KrakenWriggle) (TT)", "image": getPartImage("O-KrakenWriggle", "bits/o/krakenwriggle.webp", "bit"),"comingSoon": true },
       ]
     },
     {
@@ -16150,8 +16603,8 @@ export const allParts: Part[] = [
       "image": getPartImage("RA-UX-10", "bits/ra/ux-10.webp", "bit"),
       "variants": [
         { "name": "UX-10 (TT)", "image": getPartImage("RA-UX-10", "bits/ra/ux-10.webp", "bit") },
-        { "name": "25th Anniversary Set (DragoonStorm) (TT)", "image": getPartImage("RA-25th-Anniversary-DragoonStorm", "bits/ra/dragoonstorm.webp", "bit") },
-        { "name": "25th Anniversary Set (StormPegasis) (TT)", "image": getPartImage("RA-25th-Anniversary-StormPegasis", "bits/ra/stormpegasis.webp", "bit") },
+        { "name": "25th Anniversary Set (DragoonStorm) (TT)", "image": getPartImage("RA-25th-Anniversary-DragoonStorm", "bits/ra/dragoonstorm.webp", "bit"), "displayedName": "25th Anniversary Set, Booster (DragoonStorm) (TT)" },
+        { "name": "25th Anniversary Set (StormPegasis) (TT)", "image": getPartImage("RA-25th-Anniversary-StormPegasis", "bits/ra/stormpegasis.webp", "bit"), "displayedName": "25th Anniversary Set, Starter (StormPegasis) (TT)" },
         { "name": "25th Anniversary Set (VictoryValkyrie) (TT)", "image": getPartImage("RA-25th-Anniversary-VictoryValkyrie", "bits/ra/valkyrie.webp", "bit") },
         { "name": "X-treme Expansion Pack (HB)", "image": getPartImage("RA-UX-10", "bits/ra/xep.webp", "bit") }
       ]
@@ -16176,7 +16629,7 @@ export const allParts: Part[] = [
         { "name": "Savage Bear 3-60S (Booster) (HB)", "image": getPartImage("S-Savage-Bear", "bits/s/savagebear.webp", "bit") },
         { "name": "Obsidian Shell 3-85S (Dual Pack) (HB)", "image": getPartImage("S-Yellow_Shell", "bits/s/obsidianshell3-85bs.webp", "bit") },
         { "name": "BX-48-3 (TT)", "image": getPartImage("S-BX-48-3", "bits/s/bx-48-3.webp", "bit") },
-        { "name": "Clamp Crab 9-65S (Dual Pack) (HB)", "image": getPartImage("S-ClampCrab", "bits/s/clampcrab9-65s.webp", "bit",false), "comingSoon": true, "inProgress": true } //need image
+        { "name": "Clamp Crab 9-65S (Dual Pack) (HB)", "image": getPartImage("S-ClampCrab", "bits/s/clampcrab9-65s.webp", "bit"), "comingSoon": true}
       ]
     },
     {
@@ -16212,7 +16665,8 @@ export const allParts: Part[] = [
         { "name": "Fort Hornet R 7-60T (Starter) (HB)", "image": getPartImage("T-Fort-Hornet", "bits/t/forthornet.webp", "bit") },
         { "name": "Steel Samurai 4-80T (Booster) (HB)", "image": getPartImage("T-Steel-Samurai", "bits/t/steelsamurai.webp", "bit") },
         { "name": "Tusk Mammoth 3-60T (Xtreme Battle Set) (HB)", "image": getPartImage("T-Tusk-Mammoth", "bits/t/tuskmammoth.webp", "bit") },
-        { "name": "Hurricane Enlil IS 7-55T (Starter) (HB)", "image": getPartImage("T-Hurricane-Enlil", "bits/t/hurricaneenlil7-55t.webp", "bit"), "comingSoon": true }
+        { "name": "Hurricane Enlil IS 7-55T (Starter) (HB)", "image": getPartImage("T-Hurricane-Enlil", "bits/t/hurricaneenlil7-55t.webp", "bit"), "comingSoon": true },
+        { "name": "CX-00 Rare Bey Get (HornetFort) (TT)", "image": getPartImage("T-HornetFort", "bits/t/hornetfort.webp", "bit"), "comingSoon": true },
       ]
     },
     {
@@ -16245,7 +16699,8 @@ export const allParts: Part[] = [
       "variants": [
         { "name": "BX-38 (TT)", "image": getPartImage("TP-BX-38", "bits/tp/bx-38.webp", "bit"), "identicalVariants": ["Scarlet Garuda 4-70TP (Starter) (HB)"] },
         { "name": "Scarlet Garuda 4-70TP (Starter) (HB)", "image": getPartImage("TP-BX-37", "bits/tp/scarletgaruda.webp", "bit"), "identicalVariants": ["BX-37 (TT)"] },
-        { "name": "UX-18-4 (TT)", "image": getPartImage("TP-UX-18-4", "bits/tp/ux-18-4.webp", "bit") }
+        { "name": "UX-18-4 (TT)", "image": getPartImage("TP-UX-18-4", "bits/tp/ux-18-4.webp", "bit") },
+        { "name": "BX-50-2 (TT)", "image": getPartImage("TP-UX-18-4", "bits/tp/bx-50-2.webp", "bit", false), "comingSoon":true, "inProgress": true } // need image
       ]
     },
     {
@@ -16267,6 +16722,7 @@ export const allParts: Part[] = [
         { "name": "Pearl Tiger 3-60U (Dual Pack) (HB)", "image": getPartImage("U-BX-33", "bits/u/pearltiger.webp", "bit"), "identicalVariants": ["BX-33 (TT)"] },
         { "name": "Mosasaurus 9-60U (Dual Pack) (HB)", "image": getPartImage("U-BXG-40-Mosasaurus", "bits/u/mosasaurus.webp", "bit"), "identicalVariants": ["BXG-40 (Mosasaurus)"] },
         { "name": "Fang Leon T 4-60U (Starter) (HB)", "image": getPartImage("U-leonfang", "bits/u/fangleon.webp", "bit") },
+        { "name": "TT Mall Campaign (Transparent Shaft) (TT)", "image": getPartImage("U-TT-Mall", "bits/u/ttmall.webp", "bit"), "comingSoon": true },
       ]
     },
     {
@@ -16352,6 +16808,7 @@ export const allParts: Part[] = [
         { "name": "UX-18-1 (TT)", "image": getPartImage("W-UX-18-1", "bits/w/ux-18-1.webp", "bit") },
         { "name": "UX-18-3 (TT)", "image": getPartImage("W-UX-18-3", "bits/w/ux-18-3.webp", "bit") },
         { "name": "Curse Mummy 7-55W (Booster) (HB)", "image": getPartImage("W-CurseMummy", "bits/w/cursemummy7-55w.webp", "bit"), "comingSoon": true },
+        { "name": "TT Mall Campaign (Transparent Shaft) (TT)", "image": getPartImage("W-TT-Mall", "bits/w/ttmall.webp", "bit"), "comingSoon": true },
       ]
     },
     {
@@ -16371,6 +16828,7 @@ export const allParts: Part[] = [
         { "name": "CX-08-5 (TT)", "image": getPartImage("WB-CX-08-5", "bits/wb/cx-08-5.webp", "bit") },
         { "name": "CX-08-6 (TT)", "image": getPartImage("WB-CX-08-6", "bits/wb/cx-08-6.webp", "bit") },
         { "name": "Flame Cerberus W 5-80WB (Starter) (HB)", "image": getPartImage("WB-CX-08-1", "bits/wb/flamecerberus.webp", "bit") },
+        { "name": "BX-50-6 (TT)", "image": getPartImage("WB-BX-50-6", "bits/wb/bx-50-6.webp", "bit", false), "comingSoon": true, "inProgress": true }, //need image
       ]
     },
     {
@@ -16521,7 +16979,9 @@ export const allParts: Part[] = [
         { "name": "UX-12-6 (TT)", "image": getPartImage("0-80-UX-12-6", "ratchets/0-80/ux-12-6.webp", "ratchet") },
         { "name": "CX-06-2 (TT)", "image": getPartImage("0-80-CX-06-2", "ratchets/0-80/cx-06-2.webp", "ratchet") },
         { "name": "Circle Ghost 0-80GB (Dual Pack) (HB)", "image": getPartImage("0-80-UX-12-1", "ratchets/0-80/circleghost.webp", "ratchet"), "identicalVariants": ["UX-12-1"] },
-        { "name": "Ring Aether 0-80DS (Starter) (HB)", "image": getPartImage("0-80-ringeather", "ratchets/0-80/ringaether0-80ds.webp", "ratchet",false), "comingSoon": true, "inProgress": true }, //need image
+        { "name": "Ring Aether 0-80DS (Starter) (HB)", "image": getPartImage("0-80-ringeather", "ratchets/0-80/ringaether0-80ds.webp", "ratchet"), "comingSoon": true},
+        { "name": "BX-50-1 (TT)", "image": getPartImage("0-80-BX-50-1", "ratchets/0-80/bx-50-1.webp", "ratchet"), "comingSoon":true },
+        { "name": "BX-50-6 (TT)", "image": getPartImage("0-80-BX-50-6", "ratchets/0-80/bx-50-6.webp", "ratchet", false), "comingSoon":true, "inProgress": true }, //need image
       ]
     },
     {
@@ -16658,7 +17118,8 @@ export const allParts: Part[] = [
         { "name": "Tackle Goat 2-70N (Dual Pack) (HB)", "image": getPartImage("2-70-Tackle-Goat", "ratchets/2-70/tacklegoat.webp", "ratchet") },
         { "name": "Corocoro (DranArc) (TT)", "image": getPartImage("2-70-DranArc-corocoro", "ratchets/2-70/dranarc.webp", "ratchet"), "displayedName": "Corocoro Lottery/Full Color Manga Vol. 3 (DranArc S2-70K Metal Coat: Blue) (TT)" },
         { "name": "BX-00 (StormSpriggan) (TT)", "image": getPartImage("2-70-stormspriggan", "ratchets/2-70/stormspriggan.webp", "ratchet") },
-        { "name": "Evangelion Deck Set (TT)", "image": getPartImage("2-70-evangelion", "ratchets/2-70/evangelion.webp", "ratchet"),"comingSoon":true }
+        { "name": "Evangelion Deck Set (TT)", "image": getPartImage("2-70-evangelion", "ratchets/2-70/evangelion.webp", "ratchet"),"comingSoon":true },
+        { "name": "CX-00 Rare Bey Get (BucksAntlers) (TT)", "image": getPartImage("2-70-BucksAntlers", "ratchets/2-70/bucksantlers.webp", "ratchet"),"comingSoon":true },
       
       ]
     },
@@ -16745,11 +17206,12 @@ export const allParts: Part[] = [
         { "name": "UX-00 (Dran Deck Set) (TT)", "image": getPartImage("3-70-UX-00-Dran-Deck-Set", "ratchets/3-70/drandeck.webp", "ratchet") },
         { "name": "UX-00 (Bey Kick Off Set HellsHammer) (TT)", "image": getPartImage("3-70-UX-00-Barcelona-Stadium-Set", "ratchets/3-70/beykickoffset.webp", "ratchet"), "displayedName": "UX-00 Bey Kick Off Set (HellsHammer FC Barcelona Ver.) (TT)" },
         { "name": "UX-00 (Rare Bey Get, AeroPegasus) (TT)", "image": getPartImage("3-70-UX-00-Rare-Bey-Get-AeroPegasus", "ratchets/3-70/aeropegasusmc.webp", "ratchet"), "displayedName": "UX-00 Rare Bey Get (AeroPegasus Double Metal Coat: Blue x Green) (TT)" },
-        { "name": "25th Anniversary Set (StormPegasis) (TT)", "image": getPartImage("3-70-25th-Anniversary-Set-StormPegasis", "ratchets/3-70/stormpegasis.webp", "ratchet") },
+        { "name": "25th Anniversary Set (StormPegasis) (TT)", "image": getPartImage("3-70-25th-Anniversary-Set-StormPegasis", "ratchets/3-70/stormpegasis.webp", "ratchet"), "displayedName": "25th Anniversary Set, Starter (StormPegasis) (TT)" },
         { "name": "Hammer Incendio 3-70H (Starter) (HB)", "image": getPartImage("3-70-UX-02", "ratchets/3-70/hammerincendio.webp", "ratchet"), "identicalVariants": ["UX-02"] },
         { "name": "UX-17 (TT)", "image": getPartImage("3-70-UX-17", "ratchets/3-70/ux-17.webp", "ratchet") },
         { "name": "UX-00 Rare Bey Get (AeroPegasus Red Ver.) (TT)", "image": getPartImage("3-70-UX-00-Rare-Bey-Get-AeroPegasus", "ratchets/3-70/aeropegasus_redver.webp", "ratchet"), "displayedName": "UX-00 Rare Bey Get (AeroPegasus Red Ver.) (TT)" },
-        { "name": "Meteoroid Dragoon 3-70J (Deluxe Launcher Set) (HB)", "image": getPartImage("3-70-UX-17", "ratchets/3-70/ux-17.webp", "ratchet"), "comingSoon": true },
+        { "name": "Meteoroid Dragoon 3-70J (Deluxe Launcher Set) (HB)", "image": getPartImage("3-70-UX-17", "ratchets/3-70/ux-17.webp", "ratchet")},
+        { "name": "CX-00 Rare Bey Get (KrakenWriggle) (TT)", "image": getPartImage("3-70-KrakenWriggle", "ratchets/3-70/krakenwriggle.webp", "ratchet"), "comingSoon":true },
 
       ]
     },
@@ -16825,8 +17287,8 @@ export const allParts: Part[] = [
         { "name": "BX-48-4 (TT)", "image": getPartImage("3-85-BX-48-4", "ratchets/3-85/bx-48-4.webp", "ratchet") },
         { "name": "CX-17-4 (TT)", "image": getPartImage("3-85-CX-17-4", "ratchets/3-85/cx-17-4.webp", "ratchet",)},
         { "name": "Grogu 3-85E (Dual Pack) (HB)", "image": getPartImage("3-85-grogu", "ratchets/3-85/grogu3-85e.webp", "ratchet",)},
-        { "name": "Gust Bat 3-85GP (Booster) (HB)", "image": getPartImage("3-85-gustbat", "ratchets/3-85/gustbat3-85gp.webp", "ratchet",false), "comingSoon": true , "inProgress": true}, //need image
-        { "name": "Tail Viper 3-85LO (Dual Pack) (HB)", "image": getPartImage("3-85-tailviper3-85lo", "ratchets/3-85/tailviper3-85lo.webp", "ratchet",false), "comingSoon": true , "inProgress": true}, //need image
+        { "name": "Gust Bat 3-85GP (Booster) (HB)", "image": getPartImage("3-85-gustbat", "ratchets/3-85/gustbat3-85gp.webp", "ratchet"), "comingSoon": true},
+        { "name": "Tail Viper 3-85LO (Dual Pack) (HB)", "image": getPartImage("3-85-tailviper3-85lo", "ratchets/3-85/tailviper3-85lo.webp", "ratchet"), "comingSoon": true},
         { "name": "Hulk 3-85N (Dual Pack) (HB)", "image": getPartImage("3-85-spider-man-hulk-pack", "ratchets/3-85/hulk3-85n.webp", "ratchet",false), "comingSoon": true , "inProgress": true}, //need image
       ]
     },
@@ -16874,7 +17336,7 @@ export const allParts: Part[] = [
         { "name": "CX-15 (TT)", "image": getPartImage("4-55-CX-15", "ratchets/4-55/cx-15.webp", "ratchet")},
         { "name": "G3 3rd Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("4-55-g3", "ratchets/4-55/ragnarage_g3.webp", "ratchet")},
         { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("4-55-CX-15", "ratchets/4-55/cx-15.webp", "ratchet"), "comingSoon": true },
-        { "name": "Crest Leon 4-55A (Dual Pack) (HB)", "image": getPartImage("4-55-crestleon/clampcrab", "ratchets/4-55/crestleon4-55a.webp", "ratchet", false), "comingSoon": true, "inProgress": true } //need image
+        { "name": "Crest Leon 4-55A (Dual Pack) (HB)", "image": getPartImage("4-55-crestleon/clampcrab", "ratchets/4-55/crestleon4-55a.webp", "ratchet"), "comingSoon": true}
       ]
     },
     {
@@ -16896,7 +17358,7 @@ export const allParts: Part[] = [
         { "name": "BX-24-3 (TT)", "image": getPartImage("4-60-BX-24-3", "ratchets/4-60/bx-24-3.webp", "ratchet"), "identicalVariants": ["BX-16-2"] },
         { "name": "BX-35-1 (TT)", "image": getPartImage("4-60-BX-35-1", "ratchets/4-60/bx-35-1.webp", "ratchet"), "identicalVariants": ["Obsidian Shell 4-60D (Booster)"] },
         { "name": "UX-12-2 (TT)", "image": getPartImage("4-60-UX-12-2", "ratchets/4-60/ux-12-2.webp", "ratchet") },
-        { "name": "25th Anniversary Set (DragoonStorm) (TT)", "image": getPartImage("4-60-25th-Anniversary-Set-DragoonStorm", "ratchets/4-60/dragoonstorm.webp", "ratchet") },
+        { "name": "25th Anniversary Set (DragoonStorm) (TT)", "image": getPartImage("4-60-25th-Anniversary-Set-DragoonStorm", "ratchets/4-60/dragoonstorm.webp", "ratchet"), "displayedName": "25th Anniversary Set, Booster (DragoonStorm) (TT)" },
         { "name": "Beyblade X XONE (ShinobiKnife) (TT)", "image": getPartImage("4-60-Beyblade-X-XONE-ShinobiKnife", "ratchets/4-60/xone.webp", "ratchet"), "displayedName": "Beyblade X XONE (ShinobiKnife Metal Coat: Blue) (TT)" },
         { "name": "BX-00 Rare Bey Get (CobaltDrake Metal Coat Blue) (TT)", "image": getPartImage("4-60-BX-00-Rare-Bey-Get-CobaltDrake-Metal-Coat-Blue", "ratchets/4-60/cobaltdrakeblue.webp", "ratchet"), "displayedName": "BX-00 Rare Bey Get (CobaltDrake Metal Coat: Blue) (TT)" },
         { "name": "BX-00 Rare Bey Get (Cobalt Drake Clear) (TT)", "image": getPartImage("4-60-BX-00-Rare-Bey-Get-Cobalt-Drake-Clear", "ratchets/4-60/cobaltdrakeclear.webp", "ratchet"), "displayedName": "BX-00 Rare Bey Get (CobaltDrake Clear ver.) (TT)" },
@@ -16949,6 +17411,7 @@ export const allParts: Part[] = [
         { "name": "Rudder Phoenix 4-70LF (Starter) (HB)", "image": getPartImage("4-70-CX-05-5", "ratchets/4-70/rudderphoenix4-70lf.webp", "ratchet") },
         { "name": "BX-48-2 (TT)", "image": getPartImage("4-70-BX-48-2", "ratchets/4-70/bx-48-2.webp", "ratchet") },
         { "name": "BX-00 Double Starter (Captain America 4-70GB) (TT)", "image": getPartImage("4-70-Captain-America", "ratchets/4-70/captainamerica.webp", "ratchet") },
+        { "name": "CX-00 Rare Bey Get (DrakeBrave) (TT)", "image": getPartImage("4-70-DrakeBrave", "ratchets/4-70/drakebrave.webp", "ratchet"), "comingSoon": true },
       ]
     },
     {
@@ -17093,7 +17556,8 @@ export const allParts: Part[] = [
       "variants": [
         { "name": "BX-44 (TT)", "image": getPartImage("M-85-BX-44", "ratchets/m-85/bx-44.webp", "ratchet") },
         { "name": "CX-11 (TT)", "image": getPartImage("M-85-CX-11", "ratchets/m-85/cx-11.webp", "ratchet") },
-        { "name": "X-Treme Battlers Pack (HB)", "image": getPartImage("M-85-XBP", "ratchets/m-85/xbp.webp", "ratchet") }
+        { "name": "X-Treme Battlers Pack (HB)", "image": getPartImage("M-85-XBP", "ratchets/m-85/xbp.webp", "ratchet") },
+        { "name": "BX-50-4 (TT)", "image": getPartImage("M-85-BX-50-4", "ratchets/m-85/bx-50-4.webp", "ratchet", false), "comingSoon":true, "inProgress": true }, //need image
       ]
     },
     {
@@ -17115,7 +17579,8 @@ export const allParts: Part[] = [
         { "name": "G1 3rd Prize (DranBrave Metal Coat: Bronze) (TT)", "image": getPartImage("6-60-TT-G1-3rd", "ratchets/6-60/bronze.webp", "ratchet"), "displayedName": "G1 3rd Prize (DranBrave Metal Coat: Bronze) (TT)" },
         { "name": "Corocoro Mail Order (OrochiCluster) (TT)", "image": getPartImage("6-60-OrochiCluster", "ratchets/6-60/orochicluster.webp", "ratchet"), "displayedName": "UX-00 Corocoro Mail Order (OrochiCluster) (TT)" },
         { "name": "TT Mall Exclusive (DranBrave Metal Coat: Black) (TT)", "image": getPartImage("6-60-ttmall_black", "ratchets/6-60/ttmall_black.webp", "ratchet",false), "comingSoon":true, "inProgress":true },//need image
-        { "name": "Spider-Man 6-60R (Dual Pack) (HB)", "image": getPartImage("6-60-Spider-Man-Hulk-Pack", "ratchets/6-60/spiderman6-60r.webp", "ratchet",false),"comingSoon": true, "inProgress": true} //need image
+        { "name": "Spider-Man 6-60R (Dual Pack) (HB)", "image": getPartImage("6-60-Spider-Man-Hulk-Pack", "ratchets/6-60/spiderman6-60r.webp", "ratchet",false),"comingSoon": true, "inProgress": true}, //need image
+        { "name": "BX-50-2 (TT)", "image": getPartImage("6-60-BX-50-2", "ratchets/6-60/bx-50-2.webp", "ratchet", false), "comingSoon":true, "inProgress": true }, //need image
       ]
     },
     {
@@ -17164,7 +17629,8 @@ export const allParts: Part[] = [
         { "name": "UX-18-1 (TT) (Default)", "image": getPartImage("7-55-UX-18-1", "ratchets/7-55/ux-18-1.webp", "ratchet"),"displayedName": "UX-18-1 (TT)" },
         { "name": "UX-18-5 (TT)", "image": getPartImage("7-55-UX-18-5", "ratchets/7-55/ux-18-5.webp", "ratchet") },
         { "name": "Curse Mummy 7-55W (Booster) (HB)", "image": getPartImage("7-55-CurseMummy", "ratchets/7-55/cursemummy7-55w.webp", "ratchet"),"comingSoon": true },
-        {"name": "Hurricane Enlil IS 7-55T (Starter) (HB)", "image": getPartImage("7-55-Hurricane-Enlil", "ratchets/7-55/hurricaneenlil7-55t.webp", "ratchet"), "comingSoon": true}
+        {"name": "Hurricane Enlil IS 7-55T (Starter) (HB)", "image": getPartImage("7-55-Hurricane-Enlil", "ratchets/7-55/hurricaneenlil7-55t.webp", "ratchet"), "comingSoon": true},
+        { "name": "BX-50-3 (TT)", "image": getPartImage("7-55-BX-50-3", "ratchets/7-55/bx-50-3.webp", "ratchet", false), "comingSoon":true, "inProgress":true }, // need image
       ]
 
     },
@@ -17187,6 +17653,7 @@ export const allParts: Part[] = [
         { "name": "Draciel Shield 7-60D (Starter) (HB)", "image": getPartImage("7-60-BX-00-DracielShield", "ratchets/7-60/dracienshield.webp", "ratchet") },
         { "name": "BX-48-3 (TT)", "image": getPartImage("7-60-BX-48-3", "ratchets/7-60/bx-48-3.webp", "ratchet") },
         { "name": "Snowtrooper 7-60O (Dual Pack) (HB)", "image": getPartImage("7-60-Snowtrooper", "ratchets/7-60/snowtrooper7-60o.webp", "ratchet") },
+        { "name": "CX-00 Rare Bey Get (HornetFort) (TT)", "image": getPartImage("7-60-HornetFort", "ratchets/7-60/hornetfort.webp", "ratchet"), "comingSoon": true },
       ]
     },
     {
@@ -17281,7 +17748,8 @@ export const allParts: Part[] = [
         { "name": "X-treme Expansion Pack (HB)", "image": getPartImage("9-65-XEP-Hasbro", "ratchets/9-65/xep.webp", "ratchet"),"displayedName": "X-Treme Expansion Pack (HB)" },
         { "name": "CX-17-3 (TT)", "image": getPartImage("9-65-CX-17-3", "ratchets/9-65/cx-17-3.webp", "ratchet",)},
         { "name": "Shatter Horus 9-65GB (Starter) (HB)", "image": getPartImage("9-65-shatterhorus", "ratchets/9-65/shatterhorus9-65gb.webp", "ratchet"), "comingSoon": true },
-        { "name": "Clamp Crab 9-65S (Dual Pack) (HB)", "image": getPartImage("9-65-clampcrab", "ratchets/9-65/clampcrab9-65s.webp", "ratchet", false), "comingSoon": true, "inProgress": true } //need image
+        { "name": "Clamp Crab 9-65S (Dual Pack) (HB)", "image": getPartImage("9-65-clampcrab", "ratchets/9-65/clampcrab9-65s.webp", "ratchet"), "comingSoon": true},
+        { "name": "BX-50-5 (TT)", "image": getPartImage("9-65-BX-50-5", "ratchets/9-65/bx-50-5.webp", "ratchet", false), "comingSoon": true, "inProgress": true }, // need image
       ]
     },
     {
