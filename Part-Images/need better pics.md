@@ -16,7 +16,7 @@ need better pics:
 - DO NOT USE A FULLY WHITE BACKGROUND this makes it extremely hard to remove the background from parts, especially the middle of ratchets 
 
 
-Waiting on pics from Sunbro for: DranArc S2-70K, TT mall Exclusive DranBrave S6-60V, Black BrachioWhip, and Gold BrachioWhip
+Need Better Pics of all ratchets and bits from BX-50 (Excluding the prize) and all CX parts
 
 
 Need better BBLD Launcher pics for each one
@@ -37,8 +37,6 @@ Need better BBLD Launcher pics for each one
 
  # Lock Chips:
 
-- Dran (DranArc)
-
 - Dran (G1 Gold/Silver/Bronze)
 
 - Perseus (G3 Gold PerseusDark)
@@ -46,7 +44,6 @@ Need better BBLD Launcher pics for each one
 - Bahamut (Corocoro Lottery, Metal Coat: Yellow)
 
 - Ragna (G3 Gold RagnaRage)
-
 
 
 # Over Blades:
@@ -68,14 +65,10 @@ Need better BBLD Launcher pics for each one
 
 - Brave (Gold/Silver/Bronze)
 
-- Arc (DranArc)
-
 
 
 # Assist Blades:
 
-
-- Slash (DranArc)
 
 - Slash (G1 Gold/Silver/Bronze)
 
@@ -116,11 +109,6 @@ Need better BBLD Launcher pics for each one
 - Gold/Silver/Bronze DranStrike
 
 
-**Gear Ball:**
-
-- Captain America
-
-
 
 **Gear Needle:**
 
@@ -159,11 +147,6 @@ Need better BBLD Launcher pics for each one
 - Obi Wan Kenobi 
 
 
-**Rush:**
-
-- Red Hulk
-
-
 **Vortex:**
 
 - Dranbrave gold/silver/bronze 
@@ -196,8 +179,6 @@ Need better BBLD Launcher pics for each one
 
 
 **2-70:**
-
-- DranArc 
 
 - BucksAntlers (Rare Bey Get)
 
