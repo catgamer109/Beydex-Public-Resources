@@ -13819,11 +13819,11 @@ export const allParts: Part[] = [
     "series": ["UX", "UXE"],
     "company": "Hasbro",
     "spinDirection": "Right",
-    "comingSoon": true, "inProgress": true,
+    "comingSoon": true,
     //"weight": ,
-    "image": getPartImage("Valor Bison FB (Starter) (HB)", "blades/valorbison/default.webp", "blade", false),
+    "image": getPartImage("Valor Bison FB (Starter) (HB)", "blades/valorbison/default.webp", "blade"),
     "variants": [
-      { "name": "Valor Bison FB (Starter) (HB) (Default)", "image": getPartImage("Valor Bison FB (Starter) (HB)", "blades/valorbison/default.webp", "blade", false), "comingSoon": true, "inProgress": true, "displayedName": "Valor Bison FB (Starter) (HB)" } //need image
+      { "name": "Valor Bison FB (Starter) (HB) (Default)", "image": getPartImage("Valor Bison FB (Starter) (HB)", "blades/valorbison/default.webp", "blade"), "comingSoon": true, "displayedName": "Valor Bison FB (Starter) (HB)" }
     ]
   },
   {
@@ -15945,7 +15945,7 @@ export const allParts: Part[] = [
         { "name": "CX-11 (TT)", "image": getPartImage("FB-CX-11", "bits/fb/cx-11.webp", "bit") },
         { "name": "Sterling Wolf 3-80FB (Starter) (HB)", "image": getPartImage("FB-UX-08", "bits/fb/sterlingwolf.webp", "bit"), "identicalVariants": ["UX-08 (TT)"] },
         { "name": "X-Treme Battlers Pack (HB)", "image": getPartImage("FB-XBP", "bits/fb/xbp.webp", "bit") },
-        { "name": "Valor Bison FB (Starter) (HB)", "image": getPartImage("FB-valorbison", "bits/fb/valorbisonfb.webp", "bit", false), "comingSoon": true, "inProgress": true }, //need image
+        { "name": "Valor Bison FB (Starter) (HB)", "image": getPartImage("FB-valorbison", "bits/fb/valorbisonfb.webp", "bit"), "comingSoon": true},
         { "name": "BX-50-3 (TT)", "image": getPartImage("FB-BX-50-3", "bits/fb/bx-50-3.webp", "bit"), "comingSoon": true },
       ]
     },
