@@ -10659,7 +10659,6 @@ export const allParts: Part[] = [
     "category": "Product",
     "series": ["CX", "CXE"],
     "company": "Hasbro",
-    "comingSoon": true,
     "image": getPartImage("Product_RageRagna_Image", "products/hasbro/rage_ragna_starter/product_rageragna.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_RageRagna", "variantName": "Rage Ragna FE 4-55Y" },
@@ -10673,7 +10672,6 @@ export const allParts: Part[] = [
     "type": "Stamina",
     "series": ["CX", "CXE"],
     "company": "Hasbro",
-    "comingSoon": true,
     "image": getPartImage("Beyblade_CX-15_Image", "products/takara_tomy/cx-15/beyblade_cx-15.webp", "beyblade"),
     "contents": [
       { "partId": "FullBlade_RageRagna", "variantName": "Rage Ragna FE" },
@@ -10687,7 +10685,6 @@ export const allParts: Part[] = [
     "category": "Full Blade",
     "series": ["CX", "CXE"],
     "company": "Hasbro",
-    "comingSoon": true,
     "image": getPartImage("FullBlade_CX-15_Image", "products/takara_tomy/cx-15/fullblade_cx-15.webp", "blade"),
     "contents": [
       { "partId": "Ragna", "variantName": "Rage Ragna FE 4-55Y (Starter) (HB)" },
@@ -14223,7 +14220,7 @@ export const allParts: Part[] = [
     "variants": [
       { "name": "CX-15 (TT) (Default)", "image": getPartImage("Ragna-cx-15", "lock_chips/normal/ragna/cx-15.webp", "lock chip"), "stackedImage": getPartImage("Ragna-cx-15", "lock_chips/stacked/ragna/cx-15.webp", "lock chip"), "displayedName": "CX-15 (TT)" },
       { "name": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("Ragna-g3", "lock_chips/normal/ragna/g3.webp", "lock chip"), "stackedImage": getPartImage("Ragna-g3", "lock_chips/stacked/ragna/g3.webp", "lock chip") },
-      { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("Ragna-cx-15", "lock_chips/normal/ragna/cx-15.webp", "lock chip"), "stackedImage": getPartImage("Ragna-cx-15", "lock_chips/stacked/ragna/cx-15.webp", "lock chip"), "comingSoon": true }
+      { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("Ragna-cx-15", "lock_chips/normal/ragna/cx-15.webp", "lock chip"), "stackedImage": getPartImage("Ragna-cx-15", "lock_chips/stacked/ragna/cx-15.webp", "lock chip") }
     ]
   },
   {
@@ -14336,7 +14333,7 @@ export const allParts: Part[] = [
     "variants": [
       { "name": "CX-15 (TT) (Default)", "image": getPartImage("F-Flow-cx-15", "over_blades/normal/f/cx-15.webp", "Over Blade"), "stackedImage": getPartImage("F-Flow-cx-15", "over_blades/stacked/f/cx-15.webp", "Over Blade"), "displayedName": "CX-15 (TT)" },
       { "name": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("F-Flow-g3", "over_blades/normal/f/g3.webp", "Over Blade"), "stackedImage": getPartImage("F-Flow-g3", "over_blades/stacked/f/g3.webp", "Over Blade") },
-      { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("F-Flow-cx-15", "over_blades/normal/f/cx-15.webp", "Over Blade"), "stackedImage": getPartImage("F-Flow-cx-15", "over_blades/stacked/f/cx-15.webp", "Over Blade"), "comingSoon": true },
+      { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("F-Flow-cx-15", "over_blades/normal/f/cx-15.webp", "Over Blade"), "stackedImage": getPartImage("F-Flow-cx-15", "over_blades/stacked/f/cx-15.webp", "Over Blade") },
     ]
   },
   {
@@ -14468,7 +14465,7 @@ export const allParts: Part[] = [
     "variants": [
       { "name": "CX-15 (TT) (Default)", "image": getPartImage("Rage-cx-15", "metal_blades/normal/rage/cx-15.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-cx-15", "metal_blades/stacked/rage/cx-15.webp", "Metal Blade"), "displayedName": "CX-15 (TT)" },
       { "name": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("Rage-g3", "metal_blades/normal/rage/g3.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-g3", "metal_blades/stacked/rage/g3.webp", "Metal Blade") },
-      { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("Rage-cx-15", "metal_blades/normal/rage/cx-15.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-cx-15", "metal_blades/stacked/rage/cx-15.webp", "Metal Blade"), "comingSoon": true },
+      { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("Rage-cx-15", "metal_blades/normal/rage/cx-15.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-cx-15", "metal_blades/stacked/rage/cx-15.webp", "Metal Blade") },
     ]
   },
   {
@@ -15158,7 +15155,7 @@ export const allParts: Part[] = [
     "variants": [
       { "name": "CX-15 (TT) (Default)", "image": getPartImage("E-Erase-Assist-cx-15", "assist_blades/normal/e/cx-15.webp", "assist blade"), "stackedImage": getPartImage("E-Erase-Assist-cx-15", "assist_blades/stacked/e/cx-15.webp", "assist blade"), "displayedName": "CX-15 (TT)" },
       { "name": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("E-Erase-Assist-g3", "assist_blades/normal/e/g3.webp", "assist blade"), "stackedImage": getPartImage("E-Erase-Assist-g3", "assist_blades/stacked/e/g3.webp", "assist blade") },
-      { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("E-Erase-Assist-cx-15", "assist_blades/normal/e/cx-15.webp", "assist blade"), "stackedImage": getPartImage("E-Erase-Assist-cx-15", "assist_blades/stacked/e/cx-15.webp", "assist blade"), "comingSoon": true },
+      { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("E-Erase-Assist-cx-15", "assist_blades/normal/e/cx-15.webp", "assist blade"), "stackedImage": getPartImage("E-Erase-Assist-cx-15", "assist_blades/stacked/e/cx-15.webp", "assist blade") },
     ]
   },
   {
@@ -15945,7 +15942,7 @@ export const allParts: Part[] = [
         { "name": "CX-11 (TT)", "image": getPartImage("FB-CX-11", "bits/fb/cx-11.webp", "bit") },
         { "name": "Sterling Wolf 3-80FB (Starter) (HB)", "image": getPartImage("FB-UX-08", "bits/fb/sterlingwolf.webp", "bit"), "identicalVariants": ["UX-08 (TT)"] },
         { "name": "X-Treme Battlers Pack (HB)", "image": getPartImage("FB-XBP", "bits/fb/xbp.webp", "bit") },
-        { "name": "Valor Bison FB (Starter) (HB)", "image": getPartImage("FB-valorbison", "bits/fb/valorbisonfb.webp", "bit"), "comingSoon": true},
+        { "name": "Valor Bison FB (Starter) (HB)", "image": getPartImage("FB-valorbison", "bits/fb/valorbisonfb.webp", "bit"), "comingSoon": true },
         { "name": "BX-50-3 (TT)", "image": getPartImage("FB-BX-50-3", "bits/fb/bx-50-3.webp", "bit"), "comingSoon": true },
       ]
     },
@@ -16839,7 +16836,7 @@ export const allParts: Part[] = [
       "variants": [
         { "name": "CX-15 (TT)", "image": getPartImage("Y-CX-15", "bits/y/cx-15.webp", "bit") },
         { "name": "G3 2nd Prize (Ragnarage Metal Coat: Gold) (TT)", "image": getPartImage("Y-g3", "bits/y/ragnarage_g3.webp", "bit") },
-        { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("Y-CX-15", "bits/y/cx-15.webp", "bit"), "comingSoon": true },
+        { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("Y-CX-15", "bits/y/cx-15.webp", "bit") },
       ]
     },
     {
@@ -17313,7 +17310,7 @@ export const allParts: Part[] = [
         { "name": "Reaper Rhino C 4-55D (Starter) (HB)", "image": getPartImage("4-55-CX-05-2", "ratchets/4-55/reaperrhinoc4-55d.webp", "ratchet") },
         { "name": "CX-15 (TT)", "image": getPartImage("4-55-CX-15", "ratchets/4-55/cx-15.webp", "ratchet") },
         { "name": "G3 3rd Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("4-55-g3", "ratchets/4-55/ragnarage_g3.webp", "ratchet") },
-        { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("4-55-CX-15", "ratchets/4-55/cx-15.webp", "ratchet"), "comingSoon": true },
+        { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("4-55-CX-15", "ratchets/4-55/cx-15.webp", "ratchet") },
         { "name": "Crest Leon 4-55A (Dual Pack) (HB)", "image": getPartImage("4-55-crestleon/clampcrab", "ratchets/4-55/crestleon4-55a.webp", "ratchet") }
       ]
     },
