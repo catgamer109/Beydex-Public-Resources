@@ -21,6 +21,8 @@ Need Better Pics of all ratchets and bits from BX-50 (Excluding the prize) and a
 
 Need better BBLD Launcher pics for each one
 
+Need Product images for Ring Aether, Valor Bison, and Blitz Bahamut
+
 
 # Blades:
 
@@ -45,6 +47,8 @@ Need better BBLD Launcher pics for each one
 
 - Ragna (G3 Gold RagnaRage)
 
+- Enlil (Hurricane Enlil starter pack) NEED PART IMAGE IN GENERAL
+
 
 # Over Blades:
 
@@ -52,12 +56,16 @@ Need better BBLD Launcher pics for each one
 
 - Flow (G3 Gold RagnaRage)
 
+- I (Hurricane Enlil starter pack) NEED PART IMAGE IN GENERAL
+
 
 # Metal Blades:
 
 - Blitz (Corocoro Lottery, Metal Coat: Yellow)
 
 - Rage (G3 Gold RagnaRage)
+
+- Hurricane (Hurricane Enlil starter pack) NEED PART IMAGE IN GENERAL
 
 
 
@@ -75,6 +83,8 @@ Need better BBLD Launcher pics for each one
 - Knuckle (Corocoro Lottery, Metal Coat: Yellow)
 
 - Erase (G3 Gold RagnaRage)
+
+- Slash (Hurricane Enlil starter pack) NEED PART IMAGE IN GENERAL
 
 
 
