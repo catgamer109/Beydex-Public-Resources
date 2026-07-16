@@ -8511,7 +8511,7 @@ export const allParts: Part[] = [
   },
   {
     "id": "Product_HB_Soar_Phoenix_Booster",
-    "name": "Soar Phoenix 5-60H Booster Pack",
+    "name": "Soar Phoenix 5-80H Booster Pack",
     "category": "Product",
     "series": ["BX"],
     "company": "Hasbro",
