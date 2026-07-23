@@ -7487,7 +7487,7 @@ export const allParts: Part[] = [
     "company": "Takara Tomy",
     "comingSoon": true,
     "inProgress": true,
-    "image": getPartImage("Product_Ultraman_Starter_Image", "products/takara_tomy/tigarage/product.webp", "product box", false), //need image
+    "image": getPartImage("Product_Ultraman_Starter_Image", "products/takara_tomy/tigarage/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_TigaRage", "variantName": "TigaRage FT3-60T" },
       { "partId": "TT_WinderLauncher", "variantName": "CX-00 TigaRage (Ultraman Collab)" },
@@ -7503,7 +7503,7 @@ export const allParts: Part[] = [
     "company": "Takara Tomy",
     "image": getPartImage("Beyblade_TigaRage_Image", "products/takara_tomy/tigarage/beyblade.webp", "beyblade"),
     "comingSoon": true,
-    "inProgress":true,
+    "inProgress": true,
     "contents": [
       { "partId": "Fullblade_TigaRage", "variantName": "TigaRage FT" },
       { "partId": "3-60", "variantName": "CX-00 TigaRage (Ultraman Collab) (TT)" },
@@ -7517,7 +7517,7 @@ export const allParts: Part[] = [
     "series": ["CX"],
     "company": "Takara Tomy",
     "comingSoon": true,
-    "inProgress":true,
+    "inProgress": true,
     "image": getPartImage("FullBlade_Eva_00_Image", "products/takara_tomy/tigarage/fullblade.webp", "blade"),
     "contents": [
       { "partId": "Tiga", "variantName": "CX-00 TigaRage Red (Ultraman Collab) (TT)" },
@@ -14471,7 +14471,7 @@ export const allParts: Part[] = [
     "series": ["CX"],
     "company": "Takara Tomy",
     "spinDirection": "Right",
-    "comingSoon": true, 
+    "comingSoon": true,
     "inProgress": true,
     //"weight": 1.72,
     "image": getPartImage("Tiga", "lock_chips/normal/tiga/red.webp", "lock chip"),
@@ -14515,8 +14515,8 @@ export const allParts: Part[] = [
       { "name": "CX-15 (TT) (Default)", "image": getPartImage("F-Flow-cx-15", "over_blades/normal/f/cx-15.webp", "Over Blade"), "stackedImage": getPartImage("F-Flow-cx-15", "over_blades/stacked/f/cx-15.webp", "Over Blade"), "displayedName": "CX-15 (TT)" },
       { "name": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("F-Flow-g3", "over_blades/normal/f/g3.webp", "Over Blade"), "stackedImage": getPartImage("F-Flow-g3", "over_blades/stacked/f/g3.webp", "Over Blade") },
       { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("F-Flow-cx-15", "over_blades/normal/f/cx-15.webp", "Over Blade"), "stackedImage": getPartImage("F-Flow-cx-15", "over_blades/stacked/f/cx-15.webp", "Over Blade") },
-      { "name": "CX-00 TigaRage Blue (Ultraman Collab) (TT)", "image": getPartImage("TigaRage Blue", "over_blades/normal/f/tigarage_blue.webp", "Over Blade"), "stackedImage": getPartImage("TigaRage Blue", "over_blades/stacked/f/tigarage_blue.webp", "Over Blade", false),"comingSoon":true, "inProgress": true }, //need better image and stacked image
-      { "name": "CX-00 TigaRage Red (Ultraman Collab) (TT)", "image": getPartImage("TigaRage Red", "over_blades/normal/f/tigarage_red.webp", "Over Blade"), "stackedImage": getPartImage("TigaRage Red", "over_blades/stacked/f/tigarage_red.webp", "Over Blade", false),"comingSoon":true, "inProgress": true }, //need better image and stacked image
+      { "name": "CX-00 TigaRage Blue (Ultraman Collab) (TT)", "image": getPartImage("TigaRage Blue", "over_blades/normal/f/tigarage_blue.webp", "Over Blade"), "stackedImage": getPartImage("TigaRage Blue", "over_blades/stacked/f/tigarage_blue.webp", "Over Blade", false), "comingSoon": true, "inProgress": true }, //need better image and stacked image
+      { "name": "CX-00 TigaRage Red (Ultraman Collab) (TT)", "image": getPartImage("TigaRage Red", "over_blades/normal/f/tigarage_red.webp", "Over Blade"), "stackedImage": getPartImage("TigaRage Red", "over_blades/stacked/f/tigarage_red.webp", "Over Blade", false), "comingSoon": true, "inProgress": true }, //need better image and stacked image
     ]
   },
   {
@@ -14649,7 +14649,7 @@ export const allParts: Part[] = [
       { "name": "CX-15 (TT) (Default)", "image": getPartImage("Rage-cx-15", "metal_blades/normal/rage/cx-15.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-cx-15", "metal_blades/stacked/rage/cx-15.webp", "Metal Blade"), "displayedName": "CX-15 (TT)" },
       { "name": "G3 1st Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("Rage-g3", "metal_blades/normal/rage/g3.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-g3", "metal_blades/stacked/rage/g3.webp", "Metal Blade") },
       { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("Rage-cx-15", "metal_blades/normal/rage/cx-15.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-cx-15", "metal_blades/stacked/rage/cx-15.webp", "Metal Blade") },
-      { "name": "CX-00 TigaRage (Ultraman Collab) (TT)", "image": getPartImage("Rage-TigaRage", "metal_blades/normal/rage/tigarage.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-TigaRage", "metal_blades/stacked/rage/tigarage.webp", "Metal Blade", false),"comingSoon":true,"inProgress":true }, //need better image and stacked image
+      { "name": "CX-00 TigaRage (Ultraman Collab) (TT)", "image": getPartImage("Rage-TigaRage", "metal_blades/normal/rage/tigarage.webp", "Metal Blade"), "stackedImage": getPartImage("Rage-TigaRage", "metal_blades/stacked/rage/tigarage.webp", "Metal Blade", false), "comingSoon": true, "inProgress": true }, //need better image and stacked image
     ]
   },
   {
@@ -15116,9 +15116,9 @@ export const allParts: Part[] = [
         "name": "CX-00 TigaRage Red (Ultraman Collab) (TT)",
         "image": getPartImage("T-Turn-TT-TigaRage-Red-CA", "assist_blades/normal/t/tigarage_red/ca.webp", "assist blade"),
         "comingSoon": true,
-        "inProgress":true,
+        "inProgress": true,
         "modes": [
-          { "name": "CX-00 TigaRage Red (Ultraman Collab) (Continuous Attack Mode) (TT)", "image": getPartImage("T-Turn-TT-TigaRage-Red-CA", "assist_blades/normal/t/tigarage_red/ca.webp", "assist blade"), "stackedImage": getPartImage("T-Turn-TT-TigaRage-Red-CA", "assist_blades/stacked/t/tigarage_red/ca.webp", "assist blade", false), "comingSoon": true, "inProgress":true }, //need better image and stacked image
+          { "name": "CX-00 TigaRage Red (Ultraman Collab) (Continuous Attack Mode) (TT)", "image": getPartImage("T-Turn-TT-TigaRage-Red-CA", "assist_blades/normal/t/tigarage_red/ca.webp", "assist blade"), "stackedImage": getPartImage("T-Turn-TT-TigaRage-Red-CA", "assist_blades/stacked/t/tigarage_red/ca.webp", "assist blade", false), "comingSoon": true, "inProgress": true }, //need better image and stacked image
           { "name": "CX-00 TigaRage Red (Ultraman Collab) (Parry Mode) (TT)", "image": getPartImage("T-Turn-TT-TigaRage-Red-Parry", "assist_blades/normal/t/tigarage_red/parry.webp", "assist blade", false), "stackedImage": getPartImage("T-Turn-TT-TigaRage-Red-Parry", "assist_blades/stacked/t/tigarage_red/parry.webp", "assist blade", false), "inProgress": true, "comingSoon": true } //need image and stacked image
         ]
       },
@@ -15126,9 +15126,9 @@ export const allParts: Part[] = [
         "name": "CX-00 TigaRage Blue (Ultraman Collab) (TT)",
         "image": getPartImage("T-Turn-TT-TigaRage-Blue-CA", "assist_blades/normal/t/tigarage_blue/ca.webp", "assist blade"),
         "comingSoon": true,
-        "inProgress":true,
+        "inProgress": true,
         "modes": [
-          { "name": "CX-00 TigaRage Blue (Ultraman Collab) (Continuous Attack Mode) (TT)", "image": getPartImage("T-Turn-TT-TigaRage-Blue-CA", "assist_blades/normal/t/tigarage_blue/ca.webp", "assist blade"), "stackedImage": getPartImage("T-Turn-TT-TigaRage-Blue-CA", "assist_blades/stacked/t/tigarage_blue/ca.webp", "assist blade", false), "comingSoon": true, "inProgress":true }, //need better image and stacked image
+          { "name": "CX-00 TigaRage Blue (Ultraman Collab) (Continuous Attack Mode) (TT)", "image": getPartImage("T-Turn-TT-TigaRage-Blue-CA", "assist_blades/normal/t/tigarage_blue/ca.webp", "assist blade"), "stackedImage": getPartImage("T-Turn-TT-TigaRage-Blue-CA", "assist_blades/stacked/t/tigarage_blue/ca.webp", "assist blade", false), "comingSoon": true, "inProgress": true }, //need better image and stacked image
           { "name": "CX-00 TigaRage Blue (Ultraman Collab) (Parry Mode) (TT)", "image": getPartImage("T-Turn-TT-TigaRage-Blue-Parry", "assist_blades/normal/t/tigarage_blue/parry.webp", "assist blade", false), "stackedImage": getPartImage("T-Turn-TT-TigaRage-Blue-Parry", "assist_blades/stacked/t/tigarage_blue/parry.webp", "assist blade", false), "inProgress": true, "comingSoon": true } //need image and stacked image
         ]
       },
@@ -15437,7 +15437,7 @@ export const allParts: Part[] = [
       { "name": "BBLD (Orange)", "image": getPartImage("Winder-Launcher-BBLD-Orange", "launchers/tt_winder_launcher/bbld_orange.webp", "winder launcher") },
       { "name": "BX-49", "image": getPartImage("Winder-Launcher-BX-49", "launchers/tt_winder_launcher/bx-49.webp", "winder launcher") },
       { "name": "UX-00 (SamuraiSaber Metal Coat: Samurai Blue JFA Ver.)", "image": getPartImage("Winder-Launcher-UX-00-(SamuraiSaber-Metal-Coat:-Samurai-Blue-JFA-Ver.)", "launchers/tt_winder_launcher/samuraisaber_jfa.webp", "winder launcher"), "displayedName": "UX-00 (SamuraiSaber Metal Coat: Samurai Blue (JFA Ver.))" },
-      { "name": "CX-00 TigaRage (Ultraman Collab)", "image": getPartImage("Winder-Launcher-Tigarage", "launchers/tt_winder_launcher/tigarage.webp", "winder launcher"), "comingSoon":true },
+      { "name": "CX-00 TigaRage (Ultraman Collab)", "image": getPartImage("Winder-Launcher-Tigarage", "launchers/tt_winder_launcher/tigarage.webp", "winder launcher"), "comingSoon": true },
     ]
   },
   {
@@ -16852,7 +16852,7 @@ export const allParts: Part[] = [
         { "name": "Tusk Mammoth 3-60T (Xtreme Battle Set) (HB)", "image": getPartImage("T-Tusk-Mammoth", "bits/t/tuskmammoth.webp", "bit") },
         { "name": "Hurricane Enlil IS 7-55T (Starter) (HB)", "image": getPartImage("T-Hurricane-Enlil", "bits/t/hurricaneenlil7-55t.webp", "bit") },
         { "name": "CX-00 Rare Bey Get (HornetFort) (TT)", "image": getPartImage("T-HornetFort", "bits/t/hornetfort.webp", "bit") },
-        { "name": "CX-00 TigaRage (Ultraman Collab) (TT)", "image": getPartImage("T-TigaRage", "bits/t/tigarage.webp", "bit"), "comingSoon":true },
+        { "name": "CX-00 TigaRage (Ultraman Collab) (TT)", "image": getPartImage("T-TigaRage", "bits/t/tigarage.webp", "bit"), "comingSoon": true },
       ]
     },
     {
@@ -17374,8 +17374,8 @@ export const allParts: Part[] = [
         { "name": "Bumblebee 3-60GP (Dual Pack) (HB)", "image": getPartImage("3-60-Bumblebee", "ratchets/3-60/bumblebee.webp", "ratchet") },
         { "name": "CX-17-1 (TT)", "image": getPartImage("3-60-CX-17-1", "ratchets/3-60/cx-17-1.webp", "ratchet",) },
         { "name": "CX-17-5 (TT)", "image": getPartImage("3-60-CX-17-5", "ratchets/3-60/cx-17-5.webp", "ratchet",) },
-        { "name": "BX-00 B4 Exclusive (DranSword Version 2.0) (TT)", "image": getPartImage("3-60-DranSword 2.0", "ratchets/3-60/dransword_2.webp", "ratchet"), "comingSoon": true},
-        { "name": "CX-00 TigaRage (Ultraman Collab) (TT)", "image": getPartImage("3-60-TigaRage", "ratchets/3-60/tigarage.webp", "ratchet"), "comingSoon": true},
+        { "name": "BX-00 B4 Exclusive (DranSword Version 2.0) (TT)", "image": getPartImage("3-60-DranSword 2.0", "ratchets/3-60/dransword_2.webp", "ratchet"), "comingSoon": true },
+        { "name": "CX-00 TigaRage (Ultraman Collab) (TT)", "image": getPartImage("3-60-TigaRage", "ratchets/3-60/tigarage.webp", "ratchet"), "comingSoon": true },
       ]
     },
     {
