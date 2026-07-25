@@ -11272,8 +11272,7 @@ export const allParts: Part[] = [
     "series": ["BX"],
     "company": "Hasbro",
     "comingSoon": true,
-    "inProgress": true,
-    "image": getPartImage("Product_SpiderMan_Hulk_Image", "products/hasbro/spiderman_hulk/product.webp", "product box", false), //need image
+    "image": getPartImage("Product_SpiderMan_Hulk_Image", "products/hasbro/spiderman_hulk/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_SpiderMan_6-60R", "variantName": "Spider-Man 6-60R" },
       { "partId": "Beyblade_Hulk_3-85N", "variantName": "Hulk 3-85N" }
@@ -11287,8 +11286,7 @@ export const allParts: Part[] = [
     "series": ["BX"],
     "company": "Hasbro",
     "comingSoon": true,
-    "inProgress": true,
-    "image": getPartImage("Beyblade_SpiderMan_6-60R_Image", "products/hasbro/spiderman_hulk/beyblade_spiderman.webp", "beyblade", false), //need image
+    "image": getPartImage("Beyblade_SpiderMan_6-60R_Image", "products/hasbro/spiderman_hulk/beyblade_spiderman.webp", "beyblade"),
     "contents": [
       { "partId": "SpiderMan", "variantName": "Spider-Man 6-60R (Dual Pack) (HB)" },
       { "partId": "6-60", "variantName": "Spider-Man 6-60R (Dual Pack) (HB)" },
@@ -11300,17 +11298,29 @@ export const allParts: Part[] = [
     "name": "Hulk 3-85N",
     "category": "Beyblades",
     "type": "Defense",
-    //"series": ["BX"],
+    "series": ["BX"],
     "company": "Hasbro",
     "comingSoon": true,
-    "inProgress": true,
-    "image": getPartImage("Beyblade_Hulk_3-85N_Image", "products/hasbro/spiderman_hulk/beyblade_hulk.webp", "beyblade", false), //need image
+    "image": getPartImage("Beyblade_Hulk_3-85N_Image", "products/hasbro/spiderman_hulk/beyblade_hulk.webp", "beyblade"),
     "contents": [
       { "partId": "Hulk", "variantName": "Hulk 3-85N (Dual Pack) (HB) (Default)" },
       { "partId": "3-85", "variantName": "Hulk 3-85N (Dual Pack) (HB)" },
       { "partId": "N", "variantName": "Hulk 3-85N (Dual Pack) (HB)" }
     ]
   },
+  {
+    "id": "Product_HB_Buster_Dran_5_70DB_Booster",
+    "name": "Buster Dran 5-70DB Booster Pack",
+    "category": "Product",
+    "series": ["UX"],
+    "company": "Hasbro",
+    "image": getPartImage("Product_HB_Buster_Dran_5_70DB_Booster_Image", "products/hasbro/buster_dran_5-70db_booster/product.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_Buster_Dran_Piss_Starter", "variantName": "Buster Dran 5-70DB" }
+    ]
+  },
+
+
 
 
 
@@ -12593,7 +12603,7 @@ export const allParts: Part[] = [
     "variants": [
       { "name": "Spider-Man 3-60F (Dual Pack) (HB) (Default)", "image": getPartImage("Spider-Man-Spider-Man 3-60F (Dual Pack)", "blades/spider-man/default.webp", "blade"), "displayedName": "Spider-Man 3-60F (Dual Pack) (HB)" },
       { "name": "BXG-30 (TT)", "image": getPartImage("Spider-Man-BXG-30", "blades/spider-man/default.webp", "blade") },
-      { "name": "Spider-Man 6-60R (Dual Pack) (HB)", "image": getPartImage("Spider-Man-Hulk-Pack", "blades/spider-man/6-60R.webp", "blade", false), "comingSoon": true, "inProgress": true } //need image
+      { "name": "Spider-Man 6-60R (Dual Pack) (HB)", "image": getPartImage("Spider-Man-Hulk-Pack", "blades/spider-man/6-60R.webp", "blade"), "comingSoon": true}
     ]
   },
   {
@@ -12666,13 +12676,13 @@ export const allParts: Part[] = [
     "category": "Blade",
     "type": "Defense",
     "series": ["BX"],
-    "comingSoon": true, "inProgress": true,
+    "comingSoon": true,
     "company": "Hasbro",
     "spinDirection": "Right",
-    "image": getPartImage("Hulk-Hulk 3-85N (Dual Pack)", "blades/hulk/default.webp", "blade", false),
+    "image": getPartImage("Hulk-Hulk 3-85N (Dual Pack)", "blades/hulk/default.webp", "blade"),
     "echoOf": ["BlackShell", "ObsidianShell"],
     "variants": [
-      { "name": "Hulk 3-85N (Dual Pack) (HB) (Default)", "image": getPartImage("Hulk-Hulk 3-85N (Dual Pack)", "blades/hulk/default.webp", "blade", false), "comingSoon": true, "inProgress": true, "displayedName": "Hulk 3-85N (Dual Pack) (HB)" } //need image
+      { "name": "Hulk 3-85N (Dual Pack) (HB) (Default)", "image": getPartImage("Hulk-Hulk 3-85N (Dual Pack)", "blades/hulk/default.webp", "blade"), "comingSoon": true, "displayedName": "Hulk 3-85N (Dual Pack) (HB)" }
     ]
   },
 
@@ -13297,7 +13307,7 @@ export const allParts: Part[] = [
     "identicalId": ["DranBuster"],
     "variants": [
       { "name": "Buster Dran 1-60A (Starter) (HB) (Default)", "image": getPartImage("BusterDran-Buster Dran 1-60A (Starter)", "blades/busterdran/default.webp", "blade"), "displayedName": "Buster Dran 1-60A (Starter) (HB)" },
-      { "name": "Buster Dran 5-70DB (Starter) (HB)", "image": getPartImage("BusterDran-Buster Dran 5-70DB (Starter)", "blades/busterdran/5-70db.webp", "blade") }
+      { "name": "Buster Dran 5-70DB (Starter) (HB)", "image": getPartImage("BusterDran-Buster Dran 5-70DB (Starter)", "blades/busterdran/5-70db.webp", "blade"), "displayedName": "Buster Dran 5-70DB (Starter, Booster) (HB)"}
     ]
   },
   {
@@ -16041,7 +16051,7 @@ export const allParts: Part[] = [
         { "name": "CX-06-2 (TT)", "image": getPartImage("DB-CX-06-2", "bits/db/cx-06-2.webp", "bit") },
         { "name": "CX-10 (TT)", "image": getPartImage("DB-CX-10", "bits/db/cx-10.webp", "bit") },
         { "name": "Wand Wizard 5-70DB (Starter) (HB)", "image": getPartImage("DB-UX-03", "bits/db/wandwizard5-70db.webp", "bit"), "identicalVariants": ["UX-03 (TT)"] },
-        { "name": "Buster Dran 5-70DB (Starter) (HB)", "image": getPartImage("DB-UX-04", "bits/db/busterdran5-70db.webp", "bit"), "identicalVariants": ["UX-04 (TT)"] }
+        { "name": "Buster Dran 5-70DB (Starter) (HB)", "image": getPartImage("DB-UX-04", "bits/db/busterdran5-70db.webp", "bit"), "identicalVariants": ["UX-04 (TT)"], "displayedName": "Buster Dran 5-70DB (Starter, Booster) (HB)" }
       ]
     },
 
@@ -16640,7 +16650,7 @@ export const allParts: Part[] = [
         { "name": "Venom 3-80N (Dual Pack) (HB)", "image": getPartImage("N-UX-12-4", "bits/n/venom.webp", "bit"), "identicalVariants": ["UX-12-4 (TT)", "BXG-30 (Venom) (TT)"] },
         { "name": "Feather Phoenix 2-60N (Starter) (HB)", "image": getPartImage("N-UX-12-5", "bits/n/featherphoenix.webp", "bit") },
         { "name": "CX-17-5 (TT)", "image": getPartImage("N-CX-17-5", "bits/n/cx-17-5.webp", "bit",) },
-        { "name": "Hulk 3-85N (Dual Pack) (HB)", "image": getPartImage("N-spider-man-hulk-pack", "bits/n/hulk3-85n.webp", "bit", false), "comingSoon": true, "inProgress": true }, //need image
+        { "name": "Hulk 3-85N (Dual Pack) (HB)", "image": getPartImage("N-spider-man-hulk-pack", "bits/n/hulk3-85n.webp", "bit"), "comingSoon": true},
       ]
     },
     {
@@ -16770,7 +16780,7 @@ export const allParts: Part[] = [
         { "name": "BBLD (Drandagger Metal Coat: Blue) (TT)", "image": getPartImage("R-BBLD-Blue", "bits/r/bbld_blue.webp", "bit") },
         { "name": "BX-00 Double Starter (Red Hulk 1-80R) (TT)", "image": getPartImage("R-Red-Hulk", "bits/r/redhulk.webp", "bit") },
         { "name": "UX-21 (TT)", "image": getPartImage("R-UX-21", "bits/r/ux-21.webp", "bit"), "comingSoon": true },
-        { "name": "Spider-Man 6-60R (Dual Pack) (HB)", "image": getPartImage("R-spider-man-hulk-pack", "bits/r/spiderman6-60r.webp", "bit", false), "comingSoon": true, "inProgress": true } //need image
+        { "name": "Spider-Man 6-60R (Dual Pack) (HB)", "image": getPartImage("R-spider-man-hulk-pack", "bits/r/spiderman6-60r.webp", "bit"), "comingSoon": true}
       ]
     },
     {
@@ -17478,7 +17488,7 @@ export const allParts: Part[] = [
         { "name": "Grogu 3-85E (Dual Pack) (HB)", "image": getPartImage("3-85-grogu", "ratchets/3-85/grogu3-85e.webp", "ratchet",) },
         { "name": "Gust Bat 3-85GP (Booster) (HB)", "image": getPartImage("3-85-gustbat", "ratchets/3-85/gustbat3-85gp.webp", "ratchet") },
         { "name": "Tail Viper 3-85LO (Dual Pack) (HB)", "image": getPartImage("3-85-tailviper3-85lo", "ratchets/3-85/tailviper3-85lo.webp", "ratchet") },
-        { "name": "Hulk 3-85N (Dual Pack) (HB)", "image": getPartImage("3-85-spider-man-hulk-pack", "ratchets/3-85/hulk3-85n.webp", "ratchet", false), "comingSoon": true, "inProgress": true }, //need image
+        { "name": "Hulk 3-85N (Dual Pack) (HB)", "image": getPartImage("3-85-spider-man-hulk-pack", "ratchets/3-85/hulk3-85n.webp", "ratchet"), "comingSoon": true},
       ]
     },
     {
@@ -17694,7 +17704,7 @@ export const allParts: Part[] = [
         { "name": "Corocoro (SamuraiSteel) (TT)", "image": getPartImage("5-70-Corocoro-SamuraiSteel", "ratchets/5-70/samuraisteel.webp", "ratchet"), "displayedName": "BX-00 Corocoro Mail Order (SamuraiSteel Metal Coat: White) (TT)" },
         { "name": "G3 1st Prize (WizardRod Metal Coat Gold) (TT)", "image": getPartImage("5-70-G3-1st-Prize-WizardRod-Metal-Coat-Gold", "ratchets/5-70/g3.webp", "ratchet"), "displayedName": "G3 3rd Prize (WizardRod Metal Coat: Gold) (TT)" },
         { "name": "Wand Wizard 5-70DB (Starter) (HB)", "image": getPartImage("5-70-UX-03", "ratchets/5-70/wandwizard5-70db.webp", "ratchet"), "identicalVariants": ["UX-03 (TT)"] },
-        { "name": "Buster Dran 5-70DB (Starter) (HB)", "image": getPartImage("5-70-Buster-Dran", "ratchets/5-70/busterdran5-70db.webp", "ratchet") },
+        { "name": "Buster Dran 5-70DB (Starter) (HB)", "image": getPartImage("5-70-Buster-Dran", "ratchets/5-70/busterdran5-70db.webp", "ratchet"), "displayedName": "Buster Dran 5-70DB (Starter, Booster) (HB)" },
         { "name": "Stormtrooper 5-70B (Dual Pack) (HB)", "image": getPartImage("5-70-Stormtrooper", "ratchets/5-70/stormtrooper.webp", "ratchet") },
         { "name": "Shelter Drake 5-70O (Booster) (HB)", "image": getPartImage("5-70-BX-39-2", "ratchets/5-70/shelterdrake5-70o.webp", "ratchet") },
         { "name": "BX-00 Double Starter (Stormtrooper 5-70B) (TT)", "image": getPartImage("5-70-Stormtrooper", "ratchets/5-70/stormtrooper.webp", "ratchet") },
@@ -17768,7 +17778,7 @@ export const allParts: Part[] = [
         { "name": "G1 3rd Prize (DranBrave Metal Coat: Bronze) (TT)", "image": getPartImage("6-60-TT-G1-3rd", "ratchets/6-60/bronze.webp", "ratchet"), "displayedName": "G1 3rd Prize (DranBrave Metal Coat: Bronze) (TT)" },
         { "name": "Corocoro Mail Order (OrochiCluster) (TT)", "image": getPartImage("6-60-OrochiCluster", "ratchets/6-60/orochicluster.webp", "ratchet"), "displayedName": "UX-00 Corocoro Mail Order (OrochiCluster) (TT)" },
         { "name": "TT Mall Exclusive (DranBrave Metal Coat: Black) (TT)", "image": getPartImage("6-60-ttmall_black", "ratchets/6-60/ttmall_black.webp", "ratchet") },
-        { "name": "Spider-Man 6-60R (Dual Pack) (HB)", "image": getPartImage("6-60-Spider-Man-Hulk-Pack", "ratchets/6-60/spiderman6-60r.webp", "ratchet", false), "comingSoon": true, "inProgress": true }, //need image
+        { "name": "Spider-Man 6-60R (Dual Pack) (HB)", "image": getPartImage("6-60-Spider-Man-Hulk-Pack", "ratchets/6-60/spiderman6-60r.webp", "ratchet"), "comingSoon": true},
         { "name": "BX-50-2 (TT)", "image": getPartImage("6-60-BX-50-2", "ratchets/6-60/bx-50-2.webp", "ratchet") },
       ]
     },
