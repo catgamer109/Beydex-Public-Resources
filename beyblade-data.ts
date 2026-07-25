@@ -4603,7 +4603,7 @@ export const allParts: Part[] = [
     "category": "Product",
     "series": ["Rare Bey Get", "BX"],
     "company": "Takara Tomy",
-    "image": getPartImage("Product_BX-00_RBG_MammothTusk_Image", "products/takara_tomy/bx-00_rbg_mammothtusk/beyblade_bx-00_rbg_mammothtusk.webp", "product box"),
+    "image": getPartImage("Product_BX-00_RBG_MammothTusk_Image", "products/takara_tomy/bx-00_rbg_mammothtusk/product_bx-00_rbg_mammothtusk.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_BX-00_RBG_MammothTusk_MetalCoat_Black", "variantName": "MammothTusk 2-80E" }
     ]
