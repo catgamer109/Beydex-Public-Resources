@@ -6928,6 +6928,17 @@ export const allParts: Part[] = [
   },
 
   {
+    "id": "Product_CX-00_HornetFort",
+    "name": "CX-00 HornetFort R7-60T (Metal Coat: Yellow Rare Bey Get)",
+    "category": "Product",
+    "series": ["CX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Beyblade_CX-00_HornetFort_Image", "products/takara_tomy/hornetfort/product.webp", "beyblade"),
+    "contents": [
+      { "partId": "Beyblade_CX-00_HornetFort", "variantName": "HornetFort R7-60T (Metal Coat: Yellow Rare Bey Get)" }
+    ]
+  },
+  {
     "id": "Beyblade_CX-00_HornetFort",
     "name": "HornetFort R7-60T (Metal Coat: Yellow Rare Bey Get)",
     "category": "Beyblades",
@@ -6956,6 +6967,17 @@ export const allParts: Part[] = [
   },
 
   {
+    "id": "Product_CX-00_KrakenWriggle",
+    "name": "CX-00 KrakenWriggle S3-70O (Metal Coat: Blue Rare Bey Get)",
+    "category": "Product",
+    "series": ["CX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Beyblade_CX-00_KrakenWriggle_Image", "products/takara_tomy/krakenwriggle/product.webp", "beyblade"),
+    "contents": [
+      { "partId": "Beyblade_CX-00_KrakenWriggle", "variantName": "KrakenWriggle S3-70O (Metal Coat: Blue Rare Bey Get)" }
+    ]
+  },
+  {
     "id": "Beyblade_CX-00_KrakenWriggle",
     "name": "KrakenWriggle S3-70O (Metal Coat: Blue Rare Bey Get)",
     "category": "Beyblades",
@@ -6983,6 +7005,17 @@ export const allParts: Part[] = [
     ]
   },
 
+    {
+    "id": "Product_CX-00_BucksAntlers",
+    "name": "CX-00 BucksAntlers B2-70D (Metal Coat: Orange Rare Bey Get)",
+    "category": "Product",
+    "series": ["CX"],
+    "company": "Takara Tomy",
+    "image": getPartImage("Beyblade_CX-00_BucksAntlers_Image", "products/takara_tomy/bucksantlers/product.webp", "beyblade"),
+    "contents": [
+      { "partId": "Beyblade_CX-00_BucksAntlers", "variantName": "BucksAntlers B2-70D (Metal Coat: Orange Rare Bey Get)" }
+    ]
+  },
   {
     "id": "Beyblade_CX-00_BucksAntlers",
     "name": "BucksAntlers B2-70D (Metal Coat: Orange Rare Bey Get)",
