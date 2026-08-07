@@ -97,11 +97,6 @@ Need Product images for Ring Aether, Valor Bison, and Blitz Bahamut
 - UX-04 (Dranbuster from the UX battle set)
 
 
-**Ball:**
-
-- Storm Trooper
-
-
 **Disc Ball:**
 
 - Gold G3 (Gold WizardRod)
@@ -120,19 +115,9 @@ Need Product images for Ring Aether, Valor Bison, and Blitz Bahamut
 
 
 
-**Gear Needle:**
-
-- Miles Morales 
-
-
 **High Needle:**
 
 - General Grievous
-
-
-**High Taper:**
-
-- Green Goblin
 
 
 
@@ -140,10 +125,6 @@ Need Product images for Ring Aether, Valor Bison, and Blitz Bahamut
 
 - BahamutBlitz Metal Coat: Yellow, Corocoro Lottery
 
-
-**Low Flat:**
-
-- Chewbacca 
 
 
 
@@ -181,11 +162,6 @@ Need Product images for Ring Aether, Valor Bison, and Blitz Bahamut
 
 - BahamutBlitz Metal Coat: Yellow, Corocoro Lottery
 
-
-
-**1-60:**
-
-- Miles Morales 
 
 
 **2-70:**
@@ -245,8 +221,6 @@ Need Product images for Ring Aether, Valor Bison, and Blitz Bahamut
 
 - BX-24-6, Arrow Wizard 4-80GB (Purple WizardArrow from the WyvernGale Random Booster, Also is a Hasbro Booster Pack)
 
-- Chewbacca
-
 
 **5-60:**
 
@@ -256,8 +230,6 @@ Need Product images for Ring Aether, Valor Bison, and Blitz Bahamut
 **5-70:**
 
 - G3 prize (Gold WizardRod)
-
-- Stormtrooper (Because of middle)
 
 
 
@@ -281,5 +253,3 @@ Need Product images for Ring Aether, Valor Bison, and Blitz Bahamut
 **9-80:**
 
 - BX-31-3 (Blue HellsChain from the TyrannoBeat Random Booster)
-
-- Green Goblin

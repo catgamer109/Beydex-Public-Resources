@@ -20,21 +20,24 @@ All images are publicly allowed to be used, crediting Beydex would be great but 
 If you have any of the images that are currently needed that are listed in "need better pics.md" or would like to contribute on images, please contact at catblader109@gmail.com
 
 **All image contributors:**
-- catgamer109
-- SunBro
-- bobqwt
-- AWildPickle
-- @shutterbeys on Instagram
-- SapphireBlaze (Most of the BBLD Parts)
-- Luv_v
-- BeyGorr (TikTok and Instagram)
-- stealthiccus
-- Xenon24
+- catgamer109: Some Ratchets, Bits, and CX parts
+- SunBro: Most Parts that are not renders
+- bobqwt: CX-06-2 Black Fox Brush and CX-06-3 Gold Fox Brush Blade Parts
+- AWildPickle: Hasbro Red and green Dranzer Ratchets and Bits
+- @shutterbeys on Instagram: Ratchets and Bits for Corocoro SamuraiSteel and BX-17 Red Dransword
+- SapphireBlaze: Most of the BBLD Parts
+- Luv_v: Black BBLD DranDagger Ratchet and Bit
+- BeyGorr (TikTok and Instagram): BBLD Boxes
+- stealthiccus: CX-18-2 Gold BrachioWhip Parts
+- Xenon24: Ratchets and bits for Chewbacca and Stormtrooper
 
 
 # About the Beydex project:
 
 Beydex is a free to use and free to develop webapp companion for Beyblade X! Our goal is to have all resources and tools useful to the Beyblade community in one easy to access place.
+
+Beydex is a fan-made application and is not affiliated with, endorsed, sponsored, or specifically approved by Takara Tomy, Hasbro, ADK Emotions or other official Beyblade rights holders. Any renders used were created and distributed by Takara Tomy and Hasbro and were taken from publicly available store pages and the Takara Tomy Beyblade X app.
+
 
 
 Another main goal of Beydex is open sourced images and resources for developers, online shops, community members, and everyone! Nothing should be gatekept if it can be used for projects such as Beydex or by the community.

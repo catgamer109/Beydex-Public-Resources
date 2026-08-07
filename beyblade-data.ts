@@ -7283,9 +7283,7 @@ export const allParts: Part[] = [
     "category": "Product",
     "series": ["BX"],
     "company": "Takara Tomy",
-    "comingSoon": true,
-    "inProgress": true,
-    "image": getPartImage("Product_DranSword_2.0_Image", "products/takara_tomy/dransword_2.0/product.webp", "product box", false), //need image
+    "image": getPartImage("Product_DranSword_2.0_Image", "products/takara_tomy/dransword_2.0/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_DranSword_2.0", "variantName": "DranSword 3-60F" }
     ]
@@ -7297,7 +7295,6 @@ export const allParts: Part[] = [
     "type": "Attack",
     "series": ["BX"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Beyblade_DranSword_2.0_Image", "products/takara_tomy/dransword_2.0/beyblade.webp", "beyblade"),
     "contents": [
       { "partId": "DranSword_2.0", "variantName": "BX-00 B4 Exclusive (TT) (Default)" },
@@ -7312,7 +7309,6 @@ export const allParts: Part[] = [
     "category": "Product",
     "series": ["BX"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Product_BX-57_Image", "products/takara_tomy/bx-57/product.webp", "product box"),
     "contents": [
       { "partId": "TT_DeckCase", "variantName": "BX-57" }
@@ -7325,7 +7321,6 @@ export const allParts: Part[] = [
     "category": "Product",
     "series": ["UX", "UXE"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Product_UX-21_Image", "products/takara_tomy/ux-21/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_UX-21_1", "variantName": "HellsNether Z" },
@@ -7340,7 +7335,6 @@ export const allParts: Part[] = [
     "type": "Balance",
     "series": ["UX", "UXE"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Beyblade_1_UX-21_Image", "products/takara_tomy/ux-21/beyblade_1.webp", "beyblade"),
     "contents": [
       { "partId": "HellsNether", "variantName": "UX-21 (TT) (Default)" },
@@ -7354,7 +7348,6 @@ export const allParts: Part[] = [
     "type": "Attack",
     "series": ["UX"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Beyblade_2_UX-21_Image", "products/takara_tomy/ux-21/beyblade_2.webp", "beyblade"),
     "contents": [
       { "partId": "SilverWolf", "variantName": "UX-21 (TT)" },
@@ -7369,12 +7362,43 @@ export const allParts: Part[] = [
     "type": "Stamina  ",
     "series": ["UX"],
     "company": "Takara Tomy",
-    "comingSoon": true,
     "image": getPartImage("Beyblade_3_UX-21_Image", "products/takara_tomy/ux-21/beyblade_3.webp", "beyblade"),
     "contents": [
       { "partId": "WyvernHover", "variantName": "UX-21 (TT)" },
       { "partId": "8-80", "variantName": "UX-21 (TT)" },
       { "partId": "B", "variantName": "UX-21 (TT)" },
+    ]
+  },
+
+
+  // ComingSoon August 12th
+  {
+    "id": "Product_Corocoro_ClockMirage_FateRewinder",
+    "name": "UX-00 ClockMirage 4-55S Metal Coat: Black Fate Rewinder Ver.",
+    "category": "Product",
+    "series": ["UX"],
+    "company": "Takara Tomy",
+    "comingSoon": true,
+    "inProgress": true,
+    "image": getPartImage("Product_Corocoro_ClockMirage_FateRewinder_Image", "products/takara_tomy/clockmirage_faterewinder/product.webp", "product box", false), //need image
+    "contents": [
+      { "partId": "Beyblade_ClockMirage_FateRewinder", "variantName": "ClockMirage 4-55S" }
+    ]
+  },
+  {
+    "id": "Beyblade_ClockMirage_FateRewinder",
+    "name": "ClockMirage 4-55S",
+    "category": "Beyblades",
+    "type": "Defense",
+    "series": ["UX"],
+    "company": "Takara Tomy",
+    "comingSoon":true,
+    "inProgress": true,
+    "image": getPartImage("Beyblade_Corocoro_ClockMirage_FateRewinder_Image", "products/takara_tomy/clockmirage_faterewinder/beyblade.webp", "beyblade"),
+    "contents": [
+      { "partId": "ClockMirage", "variantName": "UX-00 Metal Coat: Black (Corocoro Mail Order Fate Rewinder Ver.) (TT)" },
+      { "partId": "4-55", "variantName": "UX-00 Corocoro Mail Order (ClockMirage Metal Coat: Black Fate Rewinder Ver.) (TT)" },
+      { "partId": "S", "variantName": "UX-00 Corocoro Mail Order (ClockMirage Metal Coat: Black Fate Rewinder Ver.) (TT)" }
     ]
   },
 
@@ -7524,7 +7548,7 @@ export const allParts: Part[] = [
     "id": "CX-00_Starter_TigaRage_FT3-60T",
     "name": "CX-00 Starter TigaRage FT3-60T",
     "category": "Product",
-    "series": ["CX"],
+    "series": ["CX", "CXE"],
     "company": "Takara Tomy",
     "comingSoon": true,
     "inProgress": true,
@@ -7532,7 +7556,7 @@ export const allParts: Part[] = [
     "contents": [
       { "partId": "Beyblade_TigaRage", "variantName": "TigaRage FT3-60T" },
       { "partId": "TT_WinderLauncher", "variantName": "CX-00 TigaRage (Ultraman Collab)" },
-    ]
+    ] 
 
   },
   {
@@ -7540,7 +7564,7 @@ export const allParts: Part[] = [
     "name": "TigaRage FT3-60T",
     "category": "Beyblades",
     "type": "Balance",
-    "series": ["CX"],
+    "series": ["CX", "CXE"],
     "company": "Takara Tomy",
     "image": getPartImage("Beyblade_TigaRage_Image", "products/takara_tomy/tigarage/beyblade.webp", "beyblade"),
     "comingSoon": true,
@@ -7555,7 +7579,7 @@ export const allParts: Part[] = [
     "id": "Fullblade_TigaRage",
     "name": "TigaRage FT",
     "category": "Full Blade",
-    "series": ["CX"],
+    "series": ["CX", "CXE"],
     "company": "Takara Tomy",
     "comingSoon": true,
     "inProgress": true,
@@ -7567,7 +7591,7 @@ export const allParts: Part[] = [
       { "partId": "F-Flow", "variantName": "CX-00 TigaRage Red (Ultraman Collab) (TT)" },
       { "partId": "Rage", "variantName": "CX-00 TigaRage (Ultraman Collab) (TT)" },
       { "partId": "T-Turn", "variantName": "CX-00 TigaRage Red (Ultraman Collab) (TT)" },
-      { "partId": "T-Turn", "variantName": "CX-00 TigaRage Blue(Ultraman Collab) (TT)" }
+      { "partId": "T-Turn", "variantName": "CX-00 TigaRage Blue (Ultraman Collab) (TT)" }
     ]
 
   },
@@ -11044,7 +11068,7 @@ export const allParts: Part[] = [
     "company": "Hasbro",
     "image": getPartImage("Product_HurricaneEnlil_Starter_Image", "products/hasbro/hurricane_enlil_starter/product.webp", "product box"),
     "contents": [
-      { "partId": "Beyblade_HurricaneEnlil_Starter", "variantName": "Hurricane Enlil 7-55T" },
+      { "partId": "Beyblade_HurricaneEnlil_Starter", "variantName": "Hurricane Enlil IS 7-55T" },
       { "partId": "HB_EntryLauncher", "variantName": "Starter" }
     ]
   },
@@ -11073,7 +11097,7 @@ export const allParts: Part[] = [
     "contents": [
       { "partId": "Enlil", "variantName": "Hurricane Enlil IS (Starter) (HB) (Default)" },
       { "partId": "Hurricane", "variantName": "Hurricane Enlil IS (Starter) (HB) (Default)" },
-      { "partId": "I-overblade", "variantName": "Hurricane Enlil IS (Starter) (HB) (Default)" },
+      { "partId": "I-Overblade", "variantName": "Hurricane Enlil IS (Starter) (HB) (Default)" },
       { "partId": "S-Slash", "variantName": "Hurricane Enlil IS (Starter) (HB)" }
     ]
   },
@@ -11583,11 +11607,10 @@ export const allParts: Part[] = [
     "company": "Takara Tomy",
     "spinDirection": "Right",
     //"weight": 34.84,
-    "comingSoon": true,
     "image": getPartImage("DranSword_2.0", "blades/dransword_2.0/bx-00.webp", "blade"),
     "identicalId": ["SwordDran", "DranSword"],
     "variants": [
-      { "name": "BX-00 B4 Exclusive (TT) (Default)", "image": getPartImage("DranSword_2.0", "blades/dransword_2.0/bx-00.webp", "blade"), "displayedName": "BX-00 B4 Exclusive (TT)", "comingSoon": true, },
+      { "name": "BX-00 B4 Exclusive (TT) (Default)", "image": getPartImage("DranSword_2.0", "blades/dransword_2.0/bx-00.webp", "blade"), "displayedName": "BX-00 B4 Exclusive (TT)"},
     ]
   },
   {
@@ -12153,7 +12176,8 @@ export const allParts: Part[] = [
     "variants": [
       { "name": "UX-16-1 (TT) (Default)", "image": getPartImage("ClockMirage-UX-16-1", "blades/clockmirage/ux-16-1.webp", "blade"), "displayedName": "UX-16-1 (TT)" },
       { "name": "UX-16-2 (TT)", "image": getPartImage("ClockMirage-UX-16-2", "blades/clockmirage/ux-16-2.webp", "blade") },
-      { "name": "UX-16-3 (TT)", "image": getPartImage("ClockMirage-UX-16-3", "blades/clockmirage/ux-16-3.webp", "blade") }
+      { "name": "UX-16-3 (TT)", "image": getPartImage("ClockMirage-UX-16-3", "blades/clockmirage/ux-16-3.webp", "blade") },
+      { "name": "UX-00 Metal Coat: Black (Corocoro Mail Order Fate Rewinder Ver.) (TT)", "image": getPartImage("ClockMirage-Fate-Rewinder", "blades/clockmirage/faterewinder.webp", "blade", false), "comingSoon":true , "inProgress": true } //need image
     ]
   },
   {
@@ -12393,7 +12417,7 @@ export const allParts: Part[] = [
     "series": ["BX"],
     "company": "Hasbro",
     "spinDirection": "Right",
-    //"weight": 38.17,
+    "weight": 35.91,
     "image": getPartImage("GustBat-Gust Bat 3-85GP (Booster)", "blades/gustbat/default.webp", "blade"),
     "echoOf": ["WhaleWave", "TideWhale"],
     "variants": [
@@ -13556,7 +13580,7 @@ export const allParts: Part[] = [
     "identicalId": ["SterlingWolf"],
     "variants": [
       { "name": "UX-08 (TT) (Default)", "image": getPartImage("SilverWolf-UX-08", "blades/silverwolf/ux-08.webp", "blade"), "displayedName": "UX-08 (TT)" },
-      { "name": "UX-21 (TT)", "image": getPartImage("SilverWolf-UX-21", "blades/silverwolf/ux-21.webp", "blade"), "comingSoon": true }
+      { "name": "UX-21 (TT)", "image": getPartImage("SilverWolf-UX-21", "blades/silverwolf/ux-21.webp", "blade")}
     ]
   },
   {
@@ -13786,7 +13810,7 @@ export const allParts: Part[] = [
     "variants": [
       { "name": "UX-00 (DMM Lottery exclusive) (TT) (Default)", "image": getPartImage("WyvernHover (DMM Lottery exclusive)", "blades/wyvernhover/default.webp", "blade"), "displayedName": "UX-00 (DMM Lottery Exclusive) (TT)" },
       { "name": "UX-00 (Metal Coat: Violet) (DMM Lottery exclusive) (TT)", "image": getPartImage("WyvernHover (Metal Coat: Violet) (DMM Lottery exclusive)", "blades/wyvernhover/violet.webp", "blade"), "displayedName": "UX-00 (Metal Coat: Violet) (DMM Lottery Exclusive) (TT)" },
-      { "name": "UX-21 (TT)", "image": getPartImage("WyvernHover-UX-21", "blades/wyvernhover/ux-21.webp", "blade"), "comingSoon": true }
+      { "name": "UX-21 (TT)", "image": getPartImage("WyvernHover-UX-21", "blades/wyvernhover/ux-21.webp", "blade")}
     ]
   },
   {
@@ -14046,7 +14070,7 @@ export const allParts: Part[] = [
     "company": "Hasbro",
     "spinDirection": "Right",
     "echoOf": ["WyvernGale", "GaleWyvern"],
-    //"weight": 27.52??,
+    "weight": 27.52,
     "image": getPartImage("Clamp Crab 9-65S (Dual Pack)", "blades/clampcrab/default.webp", "blade"),
     "variants": [
       { "name": "Clamp Crab 9-65S (Dual Pack) (HB) (Default)", "image": getPartImage("Clamp Crab 9-65S (Dual Pack)", "blades/clampcrab/default.webp", "blade"), "displayedName": "Clamp Crab 9-65S (Dual Pack) (HB)" }
@@ -14094,13 +14118,12 @@ export const allParts: Part[] = [
     "series": ["UX", "UXE"],
     "company": "Takara Tomy",
     "spinDirection": "Right",
-    "comingSoon": true,
     //"weight": 43.40,
     //"height": "55",
-    //"identicalId": ["GloryValkerion"],
+    //"identicalId": ["NetherIncendio"],
     "image": getPartImage("UX-21", "blades/hellsnether/ux-21.webp", "blade"),
     "variants": [
-      { "name": "UX-21 (TT) (Default)", "image": getPartImage("UX-21", "blades/hellsnether/ux-21.webp", "blade"), "displayedName": "UX-21 (TT)", "comingSoon": true }
+      { "name": "UX-21 (TT) (Default)", "image": getPartImage("UX-21", "blades/hellsnether/ux-21.webp", "blade"), "displayedName": "UX-21 (TT)"}
     ]
   },
 
@@ -14633,7 +14656,7 @@ export const allParts: Part[] = [
     ]
   },
   {
-    "id": "I-OverBlade", //Pending over blade name
+    "id": "I-Overblade", //Pending over blade name
     "name": "I",
     "category": "Over Blade",
     "type": "Balance", //Pending
@@ -15184,8 +15207,8 @@ export const allParts: Part[] = [
         "comingSoon": true,
         "inProgress": true,
         "modes": [
-          { "name": "CX-00 TigaRage Red (Ultraman Collab) (Continuous Attack Mode) (TT)", "image": getPartImage("T-Turn-TT-TigaRage-Red-CA", "assist_blades/normal/t/tigarage_red/ca.webp", "assist blade"), "stackedImage": getPartImage("T-Turn-TT-TigaRage-Red-CA", "assist_blades/stacked/t/tigarage_red/ca.webp", "assist blade", false), "comingSoon": true, "inProgress": true }, //need better image and stacked image
-          { "name": "CX-00 TigaRage Red (Ultraman Collab) (Parry Mode) (TT)", "image": getPartImage("T-Turn-TT-TigaRage-Red-Parry", "assist_blades/normal/t/tigarage_red/parry.webp", "assist blade", false), "stackedImage": getPartImage("T-Turn-TT-TigaRage-Red-Parry", "assist_blades/stacked/t/tigarage_red/parry.webp", "assist blade", false), "inProgress": true, "comingSoon": true } //need image and stacked image
+          { "name": "CX-00 TigaRage Red (Continuous Attack Mode) (TT)", "image": getPartImage("T-Turn-TT-TigaRage-Red-CA", "assist_blades/normal/t/tigarage_red/ca.webp", "assist blade"), "stackedImage": getPartImage("T-Turn-TT-TigaRage-Red-CA", "assist_blades/stacked/t/tigarage_red/ca.webp", "assist blade", false), "comingSoon": true, "inProgress": true }, //need better image and stacked image
+          { "name": "CX-00 TigaRage Red (Parry Mode) (TT)", "image": getPartImage("T-Turn-TT-TigaRage-Red-Parry", "assist_blades/normal/t/tigarage_red/parry.webp", "assist blade", false), "stackedImage": getPartImage("T-Turn-TT-TigaRage-Red-Parry", "assist_blades/stacked/t/tigarage_red/parry.webp", "assist blade", false), "inProgress": true, "comingSoon": true } //need image and stacked image
         ]
       },
       {
@@ -15194,8 +15217,8 @@ export const allParts: Part[] = [
         "comingSoon": true,
         "inProgress": true,
         "modes": [
-          { "name": "CX-00 TigaRage Blue (Ultraman Collab) (Continuous Attack Mode) (TT)", "image": getPartImage("T-Turn-TT-TigaRage-Blue-CA", "assist_blades/normal/t/tigarage_blue/ca.webp", "assist blade"), "stackedImage": getPartImage("T-Turn-TT-TigaRage-Blue-CA", "assist_blades/stacked/t/tigarage_blue/ca.webp", "assist blade", false), "comingSoon": true, "inProgress": true }, //need better image and stacked image
-          { "name": "CX-00 TigaRage Blue (Ultraman Collab) (Parry Mode) (TT)", "image": getPartImage("T-Turn-TT-TigaRage-Blue-Parry", "assist_blades/normal/t/tigarage_blue/parry.webp", "assist blade", false), "stackedImage": getPartImage("T-Turn-TT-TigaRage-Blue-Parry", "assist_blades/stacked/t/tigarage_blue/parry.webp", "assist blade", false), "inProgress": true, "comingSoon": true } //need image and stacked image
+          { "name": "CX-00 TigaRage Blue (Continuous Attack Mode) (TT)", "image": getPartImage("T-Turn-TT-TigaRage-Blue-CA", "assist_blades/normal/t/tigarage_blue/ca.webp", "assist blade"), "stackedImage": getPartImage("T-Turn-TT-TigaRage-Blue-CA", "assist_blades/stacked/t/tigarage_blue/ca.webp", "assist blade", false), "comingSoon": true, "inProgress": true }, //need better image and stacked image
+          { "name": "CX-00 TigaRage Blue (Parry Mode) (TT)", "image": getPartImage("T-Turn-TT-TigaRage-Blue-Parry", "assist_blades/normal/t/tigarage_blue/parry.webp", "assist blade", false), "stackedImage": getPartImage("T-Turn-TT-TigaRage-Blue-Parry", "assist_blades/stacked/t/tigarage_blue/parry.webp", "assist blade", false), "inProgress": true, "comingSoon": true } //need image and stacked image
         ]
       },
     ]
@@ -15889,7 +15912,7 @@ export const allParts: Part[] = [
     "image": getPartImage("DeckCase-Default-TT", "accessories/tt_deckcase/bx-12.webp", "Deck Case"),
     "variants": [
       { "name": "BX-12", "image": getPartImage("DeckCase-Default-TT", "accessories/tt_deckcase/bx-12.webp", "Deck Case") },
-      { "name": "BX-57", "image": getPartImage("DeckCase-Black-TT", "accessories/tt_deckcase/bx-57.webp", "Deck Case"), "comingSoon": true },
+      { "name": "BX-57", "image": getPartImage("DeckCase-Black-TT", "accessories/tt_deckcase/bx-57.webp", "Deck Case")},
       { "name": "Evangelion Deck Set", "image": getPartImage("DeckCase-Evangelion-TT", "accessories/tt_deckcase/evangelion.webp", "Deck Case"), "comingSoon": true },
 
     ]
@@ -16016,7 +16039,7 @@ export const allParts: Part[] = [
         { "name": "Stormtrooper 5-70B (Dual Pack) (HB)", "image": getPartImage("B-Stormtrooper", "bits/b/stormtrooper.webp", "bit") },
         { "name": "X-treme Expansion Pack (HB)", "image": getPartImage("B-UX-10", "bits/b/xep.webp", "bit") },
         { "name": "BX-00 Double Starter (Stormtrooper 5-70B) (TT)", "image": getPartImage("B-Stormtrooper", "bits/b/stormtrooper.webp", "bit") },
-        { "name": "UX-21 (TT)", "image": getPartImage("B-UX-21", "bits/b/ux-21.webp", "bit"), "comingSoon": true },
+        { "name": "UX-21 (TT)", "image": getPartImage("B-UX-21", "bits/b/ux-21.webp", "bit")},
       ]
     },
     {
@@ -16196,7 +16219,7 @@ export const allParts: Part[] = [
         { "name": "BX-48-1 (TT)", "image": getPartImage("F-BX-48-1", "bits/f/bx-48-1.webp", "bit") },
         { "name": "BX-00 CobaltDragoon Metal Coat: White J.League Ver. (TT)", "image": getPartImage("F-BX-00_white_goon", "bits/f/whitegoon.webp", "bit"), "displayedName": "BX-00 (CobaltDragoon Metal Coat: White (J.League Ver.)) (TT)" },
         { "name": "Savage Bear 5-60F (Booster) (HB)", "image": getPartImage("F-savagebear5-60F", "bits/f/savagebear5-60f.webp", "bit") },
-        { "name": "BX-00 B4 Exclusive (DranSword Version 2.0) (TT)", "image": getPartImage("F-DranSword 2.0", "bits/f/dransword_2.webp", "bit"), "comingSoon": true, },
+        { "name": "BX-00 B4 Exclusive (DranSword Version 2.0) (TT)", "image": getPartImage("F-DranSword 2.0", "bits/f/dransword_2.webp", "bit")},
       ]
     },
     {
@@ -16835,7 +16858,7 @@ export const allParts: Part[] = [
         { "name": "BBLD (Drandagger Metal Coat: Black) (TT)", "image": getPartImage("R-BBLD-Black", "bits/r/bbld_black.webp", "bit") },
         { "name": "BBLD (Drandagger Metal Coat: Blue) (TT)", "image": getPartImage("R-BBLD-Blue", "bits/r/bbld_blue.webp", "bit") },
         { "name": "BX-00 Double Starter (Red Hulk 1-80R) (TT)", "image": getPartImage("R-Red-Hulk", "bits/r/redhulk.webp", "bit") },
-        { "name": "UX-21 (TT)", "image": getPartImage("R-UX-21", "bits/r/ux-21.webp", "bit"), "comingSoon": true },
+        { "name": "UX-21 (TT)", "image": getPartImage("R-UX-21", "bits/r/ux-21.webp", "bit")},
         { "name": "Spider-Man 6-60R (Dual Pack) (HB)", "image": getPartImage("R-spider-man-hulk-pack", "bits/r/spiderman6-60r.webp", "bit"), "comingSoon": true }
       ]
     },
@@ -16880,7 +16903,9 @@ export const allParts: Part[] = [
         { "name": "Savage Bear 3-60S (Booster) (HB)", "image": getPartImage("S-Savage-Bear", "bits/s/savagebear.webp", "bit") },
         { "name": "Obsidian Shell 3-85S (Dual Pack) (HB)", "image": getPartImage("S-Yellow_Shell", "bits/s/obsidianshell3-85bs.webp", "bit") },
         { "name": "BX-48-3 (TT)", "image": getPartImage("S-BX-48-3", "bits/s/bx-48-3.webp", "bit") },
-        { "name": "Clamp Crab 9-65S (Dual Pack) (HB)", "image": getPartImage("S-ClampCrab", "bits/s/clampcrab9-65s.webp", "bit") }
+        { "name": "Clamp Crab 9-65S (Dual Pack) (HB)", "image": getPartImage("S-ClampCrab", "bits/s/clampcrab9-65s.webp", "bit") },
+        { "name": "UX-00 Corocoro Mail Order (ClockMirage Metal Coat: Black Fate Rewinder Ver.) (TT)", "image": getPartImage("S-ClockMirage-Faterewinder", "bits/s/faterewinder.webp", "bit", false), "comingSoon":true, "inProgress": true }
+
       ]
     },
     {
@@ -17132,7 +17157,7 @@ export const allParts: Part[] = [
         { "name": "UX-14 (TT)", "image": getPartImage("Z-UX-14", "bits/z/ux-14.webp", "bit") },
         { "name": "UX-00 (ScorpioSpear Metal Coat: Magenta) (TT)", "image": getPartImage("Z-RBG-ScorpioSpear-Magenta", "bits/z/scorpiospearmagenta.webp", "bit"), "displayedName": "UX-00 Rare Bey Get/Beyblade Bar (ScorpioSpear Metal Coat: Magenta) (TT)" },
         { "name": "Spear Scorpio 0-70Z (Dual Pack) (HB)", "image": getPartImage("Z-spearscorpio0-70z", "bits/z/spearscorpio0-70z.webp", "bit") },
-        { "name": "UX-21 (TT)", "image": getPartImage("Z-UX-21", "bits/z/ux-21.webp", "bit"), "comingSoon": true },
+        { "name": "UX-21 (TT)", "image": getPartImage("Z-UX-21", "bits/z/ux-21.webp", "bit")},
       ]
     }
   ] as Part[]),
@@ -17440,7 +17465,7 @@ export const allParts: Part[] = [
         { "name": "Bumblebee 3-60GP (Dual Pack) (HB)", "image": getPartImage("3-60-Bumblebee", "ratchets/3-60/bumblebee.webp", "ratchet") },
         { "name": "CX-17-1 (TT)", "image": getPartImage("3-60-CX-17-1", "ratchets/3-60/cx-17-1.webp", "ratchet",) },
         { "name": "CX-17-5 (TT)", "image": getPartImage("3-60-CX-17-5", "ratchets/3-60/cx-17-5.webp", "ratchet",) },
-        { "name": "BX-00 B4 Exclusive (DranSword Version 2.0) (TT)", "image": getPartImage("3-60-DranSword 2.0", "ratchets/3-60/dransword_2.webp", "ratchet"), "comingSoon": true },
+        { "name": "BX-00 B4 Exclusive (DranSword Version 2.0) (TT)", "image": getPartImage("3-60-DranSword 2.0", "ratchets/3-60/dransword_2.webp", "ratchet")},
         { "name": "CX-00 TigaRage (Ultraman Collab) (TT)", "image": getPartImage("3-60-TigaRage", "ratchets/3-60/tigarage.webp", "ratchet"), "comingSoon": true },
       ]
     },
@@ -17591,7 +17616,9 @@ export const allParts: Part[] = [
         { "name": "CX-15 (TT)", "image": getPartImage("4-55-CX-15", "ratchets/4-55/cx-15.webp", "ratchet") },
         { "name": "G3 3rd Prize (RagnaRage Metal Coat: Gold) (TT)", "image": getPartImage("4-55-g3", "ratchets/4-55/ragnarage_g3.webp", "ratchet") },
         { "name": "Rage Ragna FE 4-55Y (Starter) (HB)", "image": getPartImage("4-55-CX-15", "ratchets/4-55/cx-15.webp", "ratchet") },
-        { "name": "Crest Leon 4-55A (Dual Pack) (HB)", "image": getPartImage("4-55-crestleon/clampcrab", "ratchets/4-55/crestleon4-55a.webp", "ratchet") }
+        { "name": "Crest Leon 4-55A (Dual Pack) (HB)", "image": getPartImage("4-55-crestleon/clampcrab", "ratchets/4-55/crestleon4-55a.webp", "ratchet") },
+        { "name": "UX-00 Corocoro Mail Order (ClockMirage Metal Coat: Black Fate Rewinder Ver.) (TT)", "image": getPartImage("4-55-clockmirage-fate-rewinder", "ratchets/4-55/faterewinder.webp", "ratchet", false), "comingSoon":true, "inProgress": true} //need image
+
       ]
     },
     {
@@ -17968,11 +17995,9 @@ export const allParts: Part[] = [
       "attributes": ["8", "x-80"],
       //"weight": 7.73,
       "company": "Takara Tomy",
-      //"alsoShowUnder": ["Hasbro"],
-      "comingSoon": true,
       "image": getPartImage("8-80-UX-21", "ratchets/8-80/ux-21.webp", "ratchet"),
       "variants": [
-        { "name": "UX-21 (TT)", "image": getPartImage("8-80-UX-21", "ratchets/8-80/ux-21.webp", "ratchet"), "comingSoon": true },
+        { "name": "UX-21 (TT)", "image": getPartImage("8-80-UX-21", "ratchets/8-80/ux-21.webp", "ratchet")},
       ]
     },
     {
@@ -18038,7 +18063,7 @@ export const allParts: Part[] = [
         { "name": "Brush Fox J 9-70GR (Starter) (HB)", "image": getPartImage("9-70-CX-06-1", "ratchets/9-70/brushfoxj9-70gr.webp", "ratchet"), "identicalVariants": ["CX-06-1 (TT)"] },
         { "name": "Yggdrasil Team Pack (HB)", "image": getPartImage("9-70-UX-07", "ratchets/9-70/ytp.webp", "ratchet") },
         { "name": "UX-18-4 (TT)", "image": getPartImage("9-70-UX-18-4", "ratchets/9-70/ux-18-4.webp", "ratchet") },
-        { "name": "UX-21 (TT)", "image": getPartImage("9-70-UX-21", "ratchets/9-70/ux-21.webp", "ratchet"), "comingSoon": true }
+        { "name": "UX-21 (TT)", "image": getPartImage("9-70-UX-21", "ratchets/9-70/ux-21.webp", "ratchet")}
       ]
     },
     {
