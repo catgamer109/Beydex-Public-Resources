@@ -29,7 +29,7 @@ If you have any of the images that are currently needed that are listed in "need
 - Luv_v: Black BBLD DranDagger Ratchet and Bit
 - BeyGorr (TikTok and Instagram): BBLD Boxes
 - stealthiccus: CX-18-2 Gold BrachioWhip Parts
-- Xenon24: Ratchets and bits for Chewbacca and Stormtrooper
+- Xenon24: Ratchets and bits for Chewbacca and Stormtrooper, PhoenixFeather Corocoro Original
 
 
 # About the Beydex project:

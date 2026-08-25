@@ -7,7 +7,7 @@ need better pics:
 
 **Picture Guidelines:**
 
-- Good lighting, try to minimize shadows
+- Good lighting, try to minimize shadows and glare
 
 - Fully over the top of the part so it is completely flat in the image with no angle
 
@@ -21,18 +21,17 @@ Need Better Pics of all ratchets and bits from BX-50 (Excluding the prize) and a
 
 Need better BBLD Launcher pics for each one
 
-Need Product images for Ring Aether, Valor Bison, and Blitz Bahamut
+Technically need 3-85WB from the coil orochi dual pack and 7-55K from the brace triceratops dual pack
 
 
 # Blades:
 
-- PhoenixFeather Original Corocoro version
-
-- PhoenixWing Corocoro Navy Blue
 
 - Gold/Silver/Bronze DranSword
 
 - Gold/Silver/Bronze DranStrike
+
+- ClockMirage Metal Coat Black Fate Rewinder Ver.
 
 
 
@@ -115,12 +114,6 @@ Need Product images for Ring Aether, Valor Bison, and Blitz Bahamut
 
 
 
-**High Needle:**
-
-- General Grievous
-
-
-
 **Ignition**
 
 - BahamutBlitz Metal Coat: Yellow, Corocoro Lottery
@@ -133,9 +126,11 @@ Need Product images for Ring Aether, Valor Bison, and Blitz Bahamut
 - G3 (Gold KnightShield)
 
 
-**Point:**
 
-- Obi Wan Kenobi 
+
+**Spike**
+
+- ClockMirage Metal Coat Black Fate Rewinder Ver.
 
 
 **Vortex:**
@@ -164,11 +159,6 @@ Need Product images for Ring Aether, Valor Bison, and Blitz Bahamut
 
 
 
-**2-70:**
-
-- BucksAntlers (Rare Bey Get)
-
-
 **3-60:**
 
 - BX-31-2 (Green TyrannoBeat from the TyrannoBeat Random booster)
@@ -180,11 +170,6 @@ Need Product images for Ring Aether, Valor Bison, and Blitz Bahamut
 - DranSword Gold/Silver/Bronze 
 
 
-**3-70:**
-
-- KrakenWriggle (Rare Bey Get)
-
-
 
 **3-80:**
 
@@ -193,8 +178,6 @@ Need Product images for Ring Aether, Valor Bison, and Blitz Bahamut
 - G3 Gold (Gold KnightShield)
 
 - Persona HellsScythe
-
-- General Grievous
 
 
 **4-50:**
@@ -206,10 +189,7 @@ Need Product images for Ring Aether, Valor Bison, and Blitz Bahamut
 
 - G3 (Gold RagnaRage)
 
-
-**4-60:**
-
-- Obiwan Kenobi
+- ClockMirage Metal Coat Black Fate Rewinder Ver.
 
 
 **4-70:**
