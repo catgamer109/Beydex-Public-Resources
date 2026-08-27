@@ -22,7 +22,7 @@ If you have any of the images that are currently needed that are listed in "need
 **All image contributors:**
 - catgamer109: Some Ratchets, Bits, and CX parts
 - SunBro: Most Parts that are not renders
-- bobqwt: CX-06-2 Black Fox Brush and CX-06-3 Gold Fox Brush Blade Parts
+- bobqwt: CX-06-2 Black Fox Brush and CX-06-3 Gold Fox Brush Blade Parts, Cyan accel from the Dran choice booster
 - AWildPickle: Hasbro Red and green Dranzer Ratchets and Bits
 - @shutterbeys on Instagram: Ratchets and Bits for Corocoro SamuraiSteel and BX-17 Red Dransword
 - SapphireBlaze: Most of the BBLD Parts
@@ -48,4 +48,4 @@ Why isn't Beydex itself open source? Beydex itself is closed source mainly so th
 
 If you would like to use Beydex, you can find it at https://app.midwestbeyblade.com
 
-An overview of Beydex can be found at https://midwestbeyblade.com/pages/beydex
+An overview of Beydex can be found at https://beydex.org
