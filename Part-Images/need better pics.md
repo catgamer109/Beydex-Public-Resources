@@ -23,6 +23,10 @@ Need better BBLD Launcher pics for each one
 
 Technically need 3-85WB from the coil orochi dual pack and 7-55K from the brace triceratops dual pack
 
+# Boxes
+
+- ClockMirage Metal Coat Black Fate Rewinder Ver.
+
 
 # Blades:
 
@@ -48,6 +52,14 @@ Technically need 3-85WB from the coil orochi dual pack and 7-55K from the brace 
 
 - Enlil (Hurricane Enlil starter pack) NEED PART IMAGE IN GENERAL
 
+- All NFL Collab lock chips
+
+- Tiga Silver (Ultraman Collab)
+
+- Croco (CX-19-2, Blue)
+
+- Croco (CX-19-3, Red)
+
 
 # Over Blades:
 
@@ -56,6 +68,12 @@ Technically need 3-85WB from the coil orochi dual pack and 7-55K from the brace 
 - Flow (G3 Gold RagnaRage)
 
 - I (Hurricane Enlil starter pack) NEED PART IMAGE IN GENERAL
+
+- Red Flow (Ultraman Collab)
+
+- Tough (CX-19-2, Red)
+
+- Tough (CX-19-3, Black)
 
 
 # Metal Blades:
@@ -66,11 +84,16 @@ Technically need 3-85WB from the coil orochi dual pack and 7-55K from the brace 
 
 - Hurricane (Hurricane Enlil starter pack) NEED PART IMAGE IN GENERAL
 
+- Tread (CX-19-2, Blue accents)
+
+- Tread (CX-19-3, Yellow Accents)
 
 
 # Main Blades:
 
 - Brave (Gold/Silver/Bronze)
+
+- Both NFL Collab Blades
 
 
 
@@ -84,6 +107,14 @@ Technically need 3-85WB from the coil orochi dual pack and 7-55K from the brace 
 - Erase (G3 Gold RagnaRage)
 
 - Slash (Hurricane Enlil starter pack) NEED PART IMAGE IN GENERAL
+
+- Turn (Grey middle, blue ring) (Ultraman Collab)
+
+- Both NFL Collab Assist blades
+
+- Quell (CX-19-2, Blue)
+
+- Quell (CX-19-3, Red)
 
 
 
@@ -111,6 +142,13 @@ Technically need 3-85WB from the coil orochi dual pack and 7-55K from the brace 
 **Free Flat:**
 
 - Gold/Silver/Bronze DranStrike
+
+
+**Gear Needle**
+
+- CX-19-2 (Light Blue, Blue and Red CrocoTread)
+
+- CX-19-3 (Red, Red and Black CrocoTread)
 
 
 
@@ -200,6 +238,13 @@ Technically need 3-85WB from the coil orochi dual pack and 7-55K from the brace 
 **4-80:**
 
 - BX-24-6, Arrow Wizard 4-80GB (Purple WizardArrow from the WyvernGale Random Booster, Also is a Hasbro Booster Pack)
+
+
+**5-50**
+
+- CX-19-2 (Red and Clear, Blue and Red CrocoTread)
+
+- CX-19-3 (Black and Yellow, Red and Black CrocoTread)
 
 
 **5-60:**
