@@ -11631,8 +11631,7 @@ export const allParts: Part[] = [
     "series": ["BX"],
     "company": "Hasbro",
     "comingSoon": true,
-    "inProgress": true,
-    "image": getPartImage("CobaltDrake_Clear-Booster_Image", "products/hasbro/cobalt_drake4-60f_clear_booster/product.webp", "product box", false), //NEED IMAGE
+    "image": getPartImage("CobaltDrake_Clear-Booster_Image", "products/hasbro/cobalt_drake4-60f_clear_booster/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_CobaltDrake_Clear-Booster", "variantName": "Cobalt Drake 4-60F" }
     ]
@@ -11660,8 +11659,7 @@ export const allParts: Part[] = [
     "series": ["UX"],
     "company": "Hasbro",
     "comingSoon": true,
-    "inProgress": true,
-    "image": getPartImage("Mirage-Clock-Booster-Pack_Image", "products/hasbro/mirage_clock9-65b_booster/product.webp", "product box", false), //NEED IMAGE
+    "image": getPartImage("Mirage-Clock-Booster-Pack_Image", "products/hasbro/mirage_clock9-65b_booster/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_Mirage-Clock-Booster-Pack", "variantName": "Mirage Clock 9-65B" }
     ]
@@ -11849,8 +11847,7 @@ export const allParts: Part[] = [
     "series": ["UX"],
     "company": "Hasbro",
     "comingSoon": true,
-    "inProgress": true,
-    "image": getPartImage("Product__Pearl-Tiger-Coil-Orochi-Dual-Pack_Image", "products/hasbro/pearltigercoilorochi/product.webp", "product box", false), //NEED IMAGE
+    "image": getPartImage("Product__Pearl-Tiger-Coil-Orochi-Dual-Pack_Image", "products/hasbro/pearltigercoilorochi/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_Pearl-Tiger-3-85WB", "variantName": "Pearl Tiger 3-85WB" },
       { "partId": "Beyblade_Coil-Orochi-6-60LF", "variantName": "Coil Orochi 6-60LF" }
@@ -11879,7 +11876,6 @@ export const allParts: Part[] = [
     "series": ["BX"],
     "company": "Hasbro",
     "comingSoon": true,
-    "inProgress": true,
     "image": getPartImage("Beyblade_Pearl-Tiger-3-85WB_Image", "products/hasbro/pearltigercoilorochi/beyblade_pearltiger.webp", "beyblade"),
     "contents": [
       { "partId": "PearlTiger", "variantName": "Pearl Tiger 3-85WB (Dual Pack) (HB)" },
@@ -11895,8 +11891,7 @@ export const allParts: Part[] = [
     "series": ["BX"],
     "company": "Hasbro",
     "comingSoon": true,
-    "inProgress": true,
-    "image": getPartImage("Product__Brace-Triceratops-Dagger-Dran-Dual-Pack_Image", "products/hasbro/bracetriceratopsdaggerdran/product.webp", "product box", false), //NEED IMAGE
+    "image": getPartImage("Product__Brace-Triceratops-Dagger-Dran-Dual-Pack_Image", "products/hasbro/bracetriceratopsdaggerdran/product.webp", "product box"),
     "contents": [
       { "partId": "Beyblade_Brace-Triceratops-M-85BS", "variantName": "Brace Triceratops M-85BS" },
       { "partId": "Beyblade_Dagger-Dran-7-55K", "variantName": "Dagger Dran 7-55K" }
@@ -11925,7 +11920,6 @@ export const allParts: Part[] = [
     "series": ["BX"],
     "company": "Hasbro",
     "comingSoon": true,
-    "inProgress": true,
     "image": getPartImage("Beyblade_Dagger-Dran-7-55K_Image", "products/hasbro/bracetriceratopsdaggerdran/beyblade_daggerdran.webp", "beyblade"),
     "contents": [
       { "partId": "DaggerDran", "variantName": "Dagger Dran 7-55K (Dual Pack) (HB)" },
@@ -17512,7 +17506,7 @@ export const allParts: Part[] = [
         { "name": "Reaper Incendio T 4-70K (Starter) (HB)", "image": getPartImage("K-CX-05-1", "bits/k/reaperincendio.webp", "bit"), "identicalVariants": ["CX-05-1 (TT)"] },
         { "name": "Corocoro (DranArc) (TT)", "image": getPartImage("K-DranArc", "bits/k/dranarc.webp", "bit"), "displayedName": "CX-00 Corocoro Lottery/Full Color Manga Vol. 3 (DranArc S2-70K Metal Coat: Blue) (TT)" },
         { "name": "UX-00 (SamuraiSaber Metal Coat: Samurai Blue JFA Ver.) (TT)", "image": getPartImage("K-UX-00-SamuraiSaber-Metal-Coat-Samurai-Blue-JFA-Ver.", "bits/k/samuraisaber_jfa.webp", "bit"), "displayedName": "UX-00 (SamuraiSaber Metal Coat: Samurai Blue (JFA Ver.)) (TT)" },
-        { "name": "Dagger Dran 7-55K (Dual Pack) (HB)", "image": getPartImage("K-Dagger-Dran-7-55K", "bits/k/bracetriceratopsdaggerdran.webp", "bit", false), "comingSoon": true, "inProgress": true },
+        { "name": "Dagger Dran 7-55K (Dual Pack) (HB)", "image": getPartImage("K-Dagger-Dran-7-55K", "bits/k/bracetriceratopsdaggerdran.webp", "bit"), "comingSoon": true },
       ]
     },
     {
@@ -18083,7 +18077,7 @@ export const allParts: Part[] = [
         { "name": "CX-08-6 (TT)", "image": getPartImage("WB-CX-08-6", "bits/wb/cx-08-6.webp", "bit") },
         { "name": "Flame Cerberus W 5-80WB (Starter) (HB)", "image": getPartImage("WB-CX-08-1", "bits/wb/flamecerberus.webp", "bit") },
         { "name": "BX-50-6 (TT)", "image": getPartImage("WB-BX-50-6", "bits/wb/bx-50-6.webp", "bit") },
-        { "name": "Pearl Tiger 3-85WB (Dual Pack) (HB)", "image": getPartImage("WB-Pearl-Tiger-3-85WB", "bits/wb/pearltigercoilorochi.webp", "bit", false), "comingSoon": true, "inProgress": true },//NEED IMAGE      
+        { "name": "Pearl Tiger 3-85WB (Dual Pack) (HB)", "image": getPartImage("WB-Pearl-Tiger-3-85WB", "bits/wb/pearltigercoilorochi.webp", "bit"), "comingSoon": true },
       ]
     },
     {
@@ -18552,7 +18546,7 @@ export const allParts: Part[] = [
         { "name": "Gust Bat 3-85GP (Booster) (HB)", "image": getPartImage("3-85-gustbat", "ratchets/3-85/gustbat3-85gp.webp", "ratchet") },
         { "name": "Tail Viper 3-85LO (Dual Pack) (HB)", "image": getPartImage("3-85-tailviper3-85lo", "ratchets/3-85/tailviper3-85lo.webp", "ratchet") },
         { "name": "Hulk 3-85N (Dual Pack) (HB)", "image": getPartImage("3-85-spider-man-hulk-pack", "ratchets/3-85/hulk3-85n.webp", "ratchet") },
-        { "name": "Pearl Tiger 3-85WB (Dual Pack) (HB)", "image": getPartImage("3-85-Pearl-Tiger-3-85WB", "ratchets/3-85/pearltigercoilorochi.webp", "ratchet", false), "comingSoon": true, "inProgress": true },
+        { "name": "Pearl Tiger 3-85WB (Dual Pack) (HB)", "image": getPartImage("3-85-Pearl-Tiger-3-85WB", "ratchets/3-85/pearltigercoilorochi.webp", "ratchet"), "comingSoon": true },
       ]
     },
     {
@@ -18921,7 +18915,7 @@ export const allParts: Part[] = [
         { "name": "Hurricane Enlil IS 7-55T (Starter) (HB)", "image": getPartImage("7-55-Hurricane-Enlil", "ratchets/7-55/hurricaneenlil7-55t.webp", "ratchet") },
         { "name": "BX-50-3 (TT)", "image": getPartImage("7-55-BX-50-3", "ratchets/7-55/bx-50-3.webp", "ratchet") },
         { "name": "Glare Cyclops 7-55FB (Starter) (HB)", "image": getPartImage("7-55-glarecyclops", "ratchets/7-55/glarecyclops7-55fb.webp", "ratchet"), "comingSoon": true },
-        { "name": "Dagger Dran 7-55K (Dual Pack) (HB)", "image": getPartImage("7-55-Dagger Dran 7-55K", "ratchets/7-55/bracetriceratopsdaggerdran.webp", "ratchet", false), "comingSoon": true, "inProgress": true }, //NEED IMAGE
+        { "name": "Dagger Dran 7-55K (Dual Pack) (HB)", "image": getPartImage("7-55-Dagger Dran 7-55K", "ratchets/7-55/bracetriceratopsdaggerdran.webp", "ratchet"), "comingSoon": true },
       ]
 
     },
