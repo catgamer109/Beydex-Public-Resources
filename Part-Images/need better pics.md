@@ -37,6 +37,10 @@ Technically need 3-85WB from the coil orochi dual pack and 7-55K from the brace 
 
 - ClockMirage Metal Coat Black Fate Rewinder Ver.
 
+- BisonValor DMM Vol. 2
+
+- BisonValor Metal Coat: White DMM Vol. 2 
+
 
 
 
@@ -52,13 +56,15 @@ Technically need 3-85WB from the coil orochi dual pack and 7-55K from the brace 
 
 - Enlil (Hurricane Enlil starter pack) NEED PART IMAGE IN GENERAL
 
-- All NFL Collab lock chips
+- All NFL Collab lock chips, (AFC Black, AFC Red, NFC White, NFC Blue)
 
 - Tiga Silver (Ultraman Collab)
 
 - Croco (CX-19-2, Blue)
 
 - Croco (CX-19-3, Red)
+
+- Kid (Corocoro KidHunt K4-70TK Detective Conan Collab)
 
 
 # Over Blades:
@@ -93,7 +99,9 @@ Technically need 3-85WB from the coil orochi dual pack and 7-55K from the brace 
 
 - Brave (Gold/Silver/Bronze)
 
-- Both NFL Collab Blades
+- Both NFL Collab Blades (AFC Brave, NFC Arc)
+
+- Hunt (Corocoro KidHunt K4-70TK Detective Conan Collab)
 
 
 
@@ -104,13 +112,15 @@ Technically need 3-85WB from the coil orochi dual pack and 7-55K from the brace 
 
 - Knuckle (Corocoro Lottery, Metal Coat: Yellow)
 
+- Knuckle (Corocoro KidHunt K4-70TK Detective Conan Collab)
+
 - Erase (G3 Gold RagnaRage)
 
 - Slash (Hurricane Enlil starter pack) NEED PART IMAGE IN GENERAL
 
 - Turn (Grey middle, blue ring) (Ultraman Collab)
 
-- Both NFL Collab Assist blades
+- Both NFL Collab Assist blades (AFC Slash, NFC Round)
 
 - Quell (CX-19-2, Blue)
 
@@ -130,6 +140,10 @@ Technically need 3-85WB from the coil orochi dual pack and 7-55K from the brace 
 **Disc Ball:**
 
 - Gold G3 (Gold WizardRod)
+
+- BisonValor DMM Vol. 2
+
+- BisonValor Metal Coat: White DMM Vol. 2 
 
 
 **Flat:**
@@ -169,6 +183,11 @@ Technically need 3-85WB from the coil orochi dual pack and 7-55K from the brace 
 **Spike**
 
 - ClockMirage Metal Coat Black Fate Rewinder Ver.
+
+
+**Trans Kick**
+
+- Corocoro KidHunt K4-70TK Detective Conan Collab
 
 
 **Vortex:**
@@ -234,6 +253,7 @@ Technically need 3-85WB from the coil orochi dual pack and 7-55K from the brace 
 
 - DrakeBrave (Rare Bey Get)
 
+- Corocoro KidHunt K4-70TK Detective Conan Collab
 
 **4-80:**
 
