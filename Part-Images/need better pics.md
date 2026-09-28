@@ -16,16 +16,15 @@ need better pics:
 - DO NOT USE A FULLY WHITE BACKGROUND this makes it extremely hard to remove the background from parts, especially the middle of ratchets 
 
 
-Need Better Pics of all ratchets and bits from BX-50 (Excluding the prize) and all CX parts
-
 
 Need better BBLD Launcher pics for each one
 
-Technically need 3-85WB from the coil orochi dual pack and 7-55K from the brace triceratops dual pack
 
 # Boxes
 
 - ClockMirage Metal Coat Black Fate Rewinder Ver.
+
+- KidHunt K4-70TK Metal Coat White, Detective Conan Collab
 
 
 # Blades:

@@ -7841,7 +7841,6 @@ export const allParts: Part[] = [
     "series": ["CX"],
     "company": "Takara Tomy",
     "comingSoon": true,
-    "inProgress": true,
     "image": getPartImage("Beyblade_CX-00_KidHunt_Image", "products/takara_tomy/cx-00_kidhunt/beyblade.webp", "beyblade"),
     "contents": [
       { "partId": "FullBlade_CX-00_KidHunt", "variantName": "KidHunt K" },
@@ -7856,8 +7855,7 @@ export const allParts: Part[] = [
     "series": ["CX"],
     "company": "Takara Tomy",
     "comingSoon": true,
-    "inProgress": true,
-    "image": getPartImage("FullBlade_CX-00_KidHunt_Image", "products/takara_tomy/cx-00_kidhunt/fullblade.webp", "blade", false), //NEED IMAGE
+    "image": getPartImage("FullBlade_CX-00_KidHunt_Image", "products/takara_tomy/cx-00_kidhunt/fullblade.webp", "blade"),
     "contents": [
       { "partId": "Kid", "variantName": "CX-00 Corocoro Mail Order (KidHunt K4-70TK Metal Coat: White Detective Conan Collab) (TT)" },
       { "partId": "Hunt-TT", "variantName": "CX-00 Corocoro Mail Order (KidHunt K4-70TK Metal Coat: White Detective Conan Collab) (TT)" },
@@ -15208,6 +15206,7 @@ export const allParts: Part[] = [
     "spinDirection": "Right",
     "weight": 34.36,
     "comingSoon": true,
+    "identicalId": ["CyclopsEye"],
     "image": getPartImage("Glare-Cyclops-Starter_Image", "blades/glarecyclops/default.webp", "blade"),
     "variants": [
       { "name": "Glare Cyclops 7-55FB (Starter) (HB) (Default)", "image": getPartImage("Glare-Cyclops-Starter_Image", "blades/glarecyclops/default.webp", "blade"), "displayedName": "Glare Cyclops 7-55FB (Starter) (HB)", "comingSoon": true }
@@ -15612,7 +15611,7 @@ export const allParts: Part[] = [
       { "name": "CX-13 (TT) (Default)", "image": getPartImage("Bahamut-cx-13", "lock_chips/normal/bahamut/cx-13.webp", "lock chip"), "stackedImage": getPartImage("Bahamut-cx-13", "lock_chips/stacked/bahamut/cx-13.webp", "lock chip"), "displayedName": "CX-13 (TT)" },
       { "name": "CX-16 (TT)", "image": getPartImage("Bahamut-StartDash", "lock_chips/normal/bahamut/cx-16.webp", "lock chip"), "stackedImage": getPartImage("Bahamut-StartDash", "lock_chips/stacked/bahamut/cx-16.webp", "lock chip") },
       { "name": "Blitz Bahamut BK 1-50I (Starter) (HB)", "image": getPartImage("Bahamut-cx-13", "lock_chips/normal/bahamut/cx-13.webp", "lock chip"), "stackedImage": getPartImage("Bahamut-cx-13", "lock_chips/stacked/bahamut/cx-13.webp", "lock chip") },
-      { "name": "Corocoro (BahamutBlitz Metal Coat: Yellow) (TT)", "image": getPartImage("Bahamut-Corocoro-Yellow", "lock_chips/normal/bahamut/corocoro_yellow.webp", "lock chip",), "stackedImage": getPartImage("Bahamut-corocoro-yellow", "lock_chips/stacked/bahamut/corocoro_yellow.webp", "lock chip",), "displayedName": "Corocoro Lottery (BahamutBlitz Metal Coat: Yellow) (TT)" },
+      { "name": "Corocoro (BahamutBlitz Metal Coat: Yellow) (TT)", "image": getPartImage("Bahamut-Corocoro-Yellow", "lock_chips/normal/bahamut/corocoro_yellow.webp", "lock chip",), "stackedImage": getPartImage("Bahamut-corocoro-yellow", "lock_chips/stacked/bahamut/corocoro_yellow.webp", "lock chip",), "displayedName": "Corocoro Lottery/Full Color Manga Vol. 4 (BahamutBlitz Metal Coat: Yellow) (TT)" },
     ]
   },
   {
@@ -15796,11 +15795,11 @@ export const allParts: Part[] = [
     "company": "Takara Tomy",
     "spinDirection": "Right",
     //"weight": 1.72,
+    "partStack60": true,
     "comingSoon": true,
-    "inProgress": true,
-    "image": getPartImage("Kid", "lock_chips/normal/kid/kidhunt.webp", "lock chip", false),
+    "image": getPartImage("Kid", "lock_chips/normal/kid/kidhunt.webp", "lock chip"),
     "variants": [
-      { "name": "CX-00 Corocoro Mail Order (KidHunt K4-70TK Metal Coat: White Detective Conan Collab) (TT)", "image": getPartImage("Kid", "lock_chips/normal/kid/kidhunt.webp", "lock chip", false), "stackedImage": getPartImage("Kid", "lock_chips/stacked/kid/kidhunt.webp", "lock chip", false), "comingSoon": true, "inProgress": true }, // NEED IMAGE
+      { "name": "CX-00 Corocoro Mail Order (KidHunt K4-70TK Metal Coat: White Detective Conan Collab) (TT)", "image": getPartImage("Kid", "lock_chips/normal/kid/kidhunt.webp", "lock chip"), "stackedImage": getPartImage("Kid", "lock_chips/stacked/kid/kidhunt.webp", "lock chip"), "comingSoon": true },
     ]
   },
 
@@ -15820,7 +15819,7 @@ export const allParts: Part[] = [
       { "name": "CX-13 (TT) (Default)", "image": getPartImage("B-Break-cx-13", "over_blades/normal/b/cx-13.webp", "Over Blade"), "stackedImage": getPartImage("B-Break-cx-13", "over_blades/stacked/b/cx-13.webp", "Over Blade"), "displayedName": "CX-13 (TT)" },
       { "name": "CX-16 (TT)", "image": getPartImage("B-Break-cx-16", "over_blades/normal/b/cx-16.webp", "Over Blade"), "stackedImage": getPartImage("B-Break-cx-16", "over_blades/stacked/b/cx-16.webp", "Over Blade") },
       { "name": "Blitz Bahamut BK 1-50I (Starter) (HB)", "image": getPartImage("B-Break-cx-13", "over_blades/normal/b/cx-13.webp", "Over Blade"), "stackedImage": getPartImage("B-Break-cx-13", "over_blades/stacked/b/cx-13.webp", "Over Blade") },
-      { "name": "Corocoro (BahamutBlitz Metal Coat: Yellow) (TT)", "image": getPartImage("B-Break-corocoro-yellow", "over_blades/normal/b/corocoro_yellow.webp", "Over Blade",), "stackedImage": getPartImage("B-Break-corocoro-yellow", "over_blades/stacked/b/corocoro_yellow.webp", "Over Blade",), "displayedName": "Corocoro Lottery (BahamutBlitz Metal Coat: Yellow) (TT)" },
+      { "name": "Corocoro (BahamutBlitz Metal Coat: Yellow) (TT)", "image": getPartImage("B-Break-corocoro-yellow", "over_blades/normal/b/corocoro_yellow.webp", "Over Blade",), "stackedImage": getPartImage("B-Break-corocoro-yellow", "over_blades/stacked/b/corocoro_yellow.webp", "Over Blade",), "displayedName": "Corocoro Lottery/Full Color Manga Vol. 4 (BahamutBlitz Metal Coat: Yellow) (TT)" },
     ]
   },
   {
@@ -15943,7 +15942,7 @@ export const allParts: Part[] = [
       { "name": "CX-13 (TT) (Default)", "image": getPartImage("Blitz-cx-13", "metal_blades/normal/blitz/cx-13.webp", "Metal Blade"), "stackedImage": getPartImage("Blitz-cx-13", "metal_blades/stacked/blitz/cx-13.webp", "Metal Blade"), "displayedName": "CX-13 (TT)" },
       { "name": "CX-16 (TT)", "image": getPartImage("Blitz-cx-16", "metal_blades/normal/blitz/cx-16.webp", "Metal Blade"), "stackedImage": getPartImage("Blitz-cx-16", "metal_blades/stacked/blitz/cx-16.webp", "Metal Blade") },
       { "name": "Blitz Bahamut BK 1-50I (Starter) (HB)", "image": getPartImage("Blitz-cx-13", "metal_blades/normal/blitz/cx-13.webp", "Metal Blade"), "stackedImage": getPartImage("Blitz-cx-13", "metal_blades/stacked/blitz/cx-13.webp", "Metal Blade") },
-      { "name": "Corocoro (BahamutBlitz Metal Coat: Yellow) (TT)", "image": getPartImage("Blitz-corocoro-yellow", "metal_blades/normal/blitz/corocoro_yellow.webp", "Metal Blade",), "stackedImage": getPartImage("Blitz-corocoro-yellow", "metal_blades/stacked/blitz/corocoro_yellow.webp", "Metal Blade",), "displayedName": "Corocoro Lottery (BahamutBlitz Metal Coat: Yellow) (TT)" },
+      { "name": "Corocoro (BahamutBlitz Metal Coat: Yellow) (TT)", "image": getPartImage("Blitz-corocoro-yellow", "metal_blades/normal/blitz/corocoro_yellow.webp", "Metal Blade",), "stackedImage": getPartImage("Blitz-corocoro-yellow", "metal_blades/stacked/blitz/corocoro_yellow.webp", "Metal Blade",), "displayedName": "Corocoro Lottery/Full Color Manga Vol. 4 (BahamutBlitz Metal Coat: Yellow) (TT)" },
     ]
   },
   {
@@ -16198,7 +16197,7 @@ export const allParts: Part[] = [
     "image": getPartImage("Hunt-TT-CX-10", "main_blades/normal/hunt/cx-10.webp", "blade"),
     "variants": [
       { "name": "CX-10 (TT) (Default)", "image": getPartImage("Hunt-TT-CX-10", "main_blades/normal/hunt/cx-10.webp", "blade"), "stackedImage": getPartImage("Hunt-TT-CX-10", "main_blades/stacked/hunt/cx-10.webp", "blade"), "displayedName": "CX-10 (TT)" },
-      { "name": "CX-00 Corocoro Mail Order (KidHunt K4-70TK Metal Coat: White Detective Conan Collab) (TT)", "image": getPartImage("Hunt-TT-KidHunt", "main_blades/normal/hunt/kidhunt.webp", "blade", false), "stackedImage": getPartImage("Hunt-TT-Kidhunt", "main_blades/stacked/hunt/kidhunt.webp", "blade", false), "comingSoon": true, "inProgress": true }//NEED IMAGE
+      { "name": "CX-00 Corocoro Mail Order (KidHunt K4-70TK Metal Coat: White Detective Conan Collab) (TT)", "image": getPartImage("Hunt-TT-KidHunt", "main_blades/normal/hunt/kidhunt.webp", "blade"), "stackedImage": getPartImage("Hunt-TT-Kidhunt", "main_blades/stacked/hunt/kidhunt.webp", "blade"), "comingSoon": true }
     ]
   },
   {
@@ -16686,8 +16685,8 @@ export const allParts: Part[] = [
       { "name": "CX-13 (TT) (Default)", "image": getPartImage("K-Knuckle-Assist-cx-13", "assist_blades/normal/k/cx-13.webp", "assist blade"), "stackedImage": getPartImage("K-Knuckle-Assist-cx-13", "assist_blades/stacked/k/cx-13.webp", "assist blade"), "displayedName": "CX-13 (TT)" },
       { "name": "CX-16 (TT)", "image": getPartImage("K-Knuckle-Assist-cx-16", "assist_blades/normal/k/cx-16.webp", "assist blade"), "stackedImage": getPartImage("K-Knuckle-Assist-cx-16", "assist_blades/stacked/k/cx-16.webp", "assist blade") },
       { "name": "Blitz Bahamut BK 1-50I (Starter) (HB)", "image": getPartImage("K-Knuckle-Assist-cx-13", "assist_blades/normal/k/cx-13.webp", "assist blade"), "stackedImage": getPartImage("K-Knuckle-Assist-cx-13", "assist_blades/stacked/k/cx-13.webp", "assist blade") },
-      { "name": "Corocoro (BahamutBlitz Metal Coat: Yellow) (TT)", "image": getPartImage("K-Knuckle-Assist-corocoro-yellow", "assist_blades/normal/k/corocoro_yellow.webp", "assist blade",), "stackedImage": getPartImage("K-Knuckle-Assist-corocoro-yellow", "assist_blades/stacked/k/corocoro_yellow.webp", "assist blade",), "displayedName": "Corocoro Lottery (BahamutBlitz Metal Coat: Yellow) (TT)" },
-      { "name": "CX-00 Corocoro Mail Order (KidHunt K4-70TK Metal Coat: White Detective Conan Collab) (TT)", "image": getPartImage("K-Knuckle-Assist-KidHunt", "assist_blades/normal/k/kidhunt.webp", "assist blade", false), "stackedImage": getPartImage("K-Knuckle-Assist-KidHunt", "assist_blades/stacked/k/kidhunt.webp", "assist blade", false), "comingSoon": true, "inProgress": true }, // NEED IMAGE
+      { "name": "Corocoro (BahamutBlitz Metal Coat: Yellow) (TT)", "image": getPartImage("K-Knuckle-Assist-corocoro-yellow", "assist_blades/normal/k/corocoro_yellow.webp", "assist blade",), "stackedImage": getPartImage("K-Knuckle-Assist-corocoro-yellow", "assist_blades/stacked/k/corocoro_yellow.webp", "assist blade",), "displayedName": "Corocoro Lottery/Full Color Manga Vol. 4 (BahamutBlitz Metal Coat: Yellow) (TT)" },
+      { "name": "CX-00 Corocoro Mail Order (KidHunt K4-70TK Metal Coat: White Detective Conan Collab) (TT)", "image": getPartImage("K-Knuckle-Assist-KidHunt", "assist_blades/normal/k/kidhunt.webp", "assist blade"), "stackedImage": getPartImage("K-Knuckle-Assist-KidHunt", "assist_blades/stacked/k/kidhunt.webp", "assist blade"), "comingSoon": true },
     ]
   },
   {
@@ -17865,7 +17864,7 @@ export const allParts: Part[] = [
         { "name": "CX-13 (TT)", "image": getPartImage("I-CX-13", "bits/i/cx-13.webp", "bit") },
         { "name": "CX-16 (TT)", "image": getPartImage("I-CX-16", "bits/i/cx-16.webp", "bit") },
         { "name": "Blitz Bahamut BK 1-50I (Starter) (HB)", "image": getPartImage("I-CX-13", "bits/i/cx-13.webp", "bit") },
-        { "name": "Corocoro (BahamutBlitz Metal Coat: Yellow) (TT)", "image": getPartImage("I-corocoro-yellow", "bits/i/corocoro_yellow.webp", "bit",), "displayedName": "CX-00 Corocoro Mail Order (BahamutBlitz Metal Coat: Yellow) (TT)" },
+        { "name": "Corocoro (BahamutBlitz Metal Coat: Yellow) (TT)", "image": getPartImage("I-corocoro-yellow", "bits/i/corocoro_yellow.webp", "bit",), "displayedName": "Corocoro Lottery/Full Color Manga Vol. 4 (BahamutBlitz Metal Coat: Yellow) (TT)" },
         { "name": "CX-00 Rare Bey Get (DrakeBrave) (TT)", "image": getPartImage("I-DrakeBrave", "bits/i/drakebrave.webp", "bit") },
       ]
     },
@@ -17904,7 +17903,7 @@ export const allParts: Part[] = [
         { "name": "CX-05-4 (TT)", "image": getPartImage("K-CX-05-4", "bits/k/cx-05-4.webp", "bit") },
         { "name": "CX-05-6 (TT)", "image": getPartImage("K-CX-05-6", "bits/k/cx-05-6.webp", "bit") },
         { "name": "Reaper Incendio T 4-70K (Starter) (HB)", "image": getPartImage("K-CX-05-1", "bits/k/reaperincendio.webp", "bit"), "identicalVariants": ["CX-05-1 (TT)"] },
-        { "name": "Corocoro (DranArc) (TT)", "image": getPartImage("K-DranArc", "bits/k/dranarc.webp", "bit"), "displayedName": "CX-00 Corocoro Lottery/Full Color Manga Vol. 3 (DranArc S2-70K Metal Coat: Blue) (TT)" },
+        { "name": "Corocoro (DranArc) (TT)", "image": getPartImage("K-DranArc", "bits/k/dranarc.webp", "bit"), "displayedName": "Corocoro Lottery/Full Color Manga Vol. 3 (DranArc S2-70K Metal Coat: Blue) (TT)" },
         { "name": "UX-00 (SamuraiSaber Metal Coat: Samurai Blue JFA Ver.) (TT)", "image": getPartImage("K-UX-00-SamuraiSaber-Metal-Coat-Samurai-Blue-JFA-Ver.", "bits/k/samuraisaber_jfa.webp", "bit"), "displayedName": "UX-00 (SamuraiSaber Metal Coat: Samurai Blue (JFA Ver.)) (TT)" },
         { "name": "Dagger Dran 7-55K (Dual Pack) (HB)", "image": getPartImage("K-Dagger-Dran-7-55K", "bits/k/bracetriceratopsdaggerdran.webp", "bit") },
       ]
@@ -18348,7 +18347,7 @@ export const allParts: Part[] = [
       "image": getPartImage("TK-CX-09", "bits/tk/cx-09.webp", "bit"),
       "variants": [
         { "name": "CX-09 (TT)", "image": getPartImage("TK-CX-09", "bits/tk/cx-09.webp", "bit") },
-        { "name": "CX-00 Corocoro Mail Order (KidHunt K4-70TK Metal Coat: White Detective Conan Collab) (TT)", "image": getPartImage("TK-KidHunt", "bits/tk/kidhunt.webp", "bit", false), "comingSoon": true, "inProgress": true } //NEED IMAGE
+        { "name": "CX-00 Corocoro Mail Order (KidHunt K4-70TK Metal Coat: White Detective Conan Collab) (TT)", "image": getPartImage("TK-KidHunt", "bits/tk/kidhunt.webp", "bit"), "comingSoon": true }
       ]
     },
     {
@@ -18671,7 +18670,7 @@ export const allParts: Part[] = [
         { "name": "CX-13 (TT)", "image": getPartImage("1-50-CX-13", "ratchets/1-50/cx-13.webp", "ratchet") },
         { "name": "CX-16 (TT)", "image": getPartImage("1-50-CX-16", "ratchets/1-50/cx-16.webp", "ratchet") },
         { "name": "Blitz Bahamut BK 1-50I (Starter) (HB)", "image": getPartImage("1-50-CX-13", "ratchets/1-50/cx-13.webp", "ratchet") },
-        { "name": "Corocoro (BahamutBlitz Metal Coat: Yellow) (TT)", "image": getPartImage("1-50-corocoro-yellow", "ratchets/1-50/corocoro_yellow.webp", "ratchet",), "displayedName": "Corocoro Lottery (BahamutBlitz Metal Coat: Yellow) (TT)" },
+        { "name": "Corocoro (BahamutBlitz Metal Coat: Yellow) (TT)", "image": getPartImage("1-50-corocoro-yellow", "ratchets/1-50/corocoro_yellow.webp", "ratchet",), "displayedName": "Corocoro Lottery/Full Color Manga Vol. 4 (BahamutBlitz Metal Coat: Yellow) (TT)" },
       ]
     },
     {
@@ -19094,7 +19093,7 @@ export const allParts: Part[] = [
         { "name": "BX-48-2 (TT)", "image": getPartImage("4-70-BX-48-2", "ratchets/4-70/bx-48-2.webp", "ratchet") },
         { "name": "BX-00 Double Starter (Captain America 4-70GB) (TT)", "image": getPartImage("4-70-Captain-America", "ratchets/4-70/captainamerica.webp", "ratchet") },
         { "name": "CX-00 Rare Bey Get (DrakeBrave) (TT)", "image": getPartImage("4-70-DrakeBrave", "ratchets/4-70/drakebrave.webp", "ratchet") },
-        { "name": "CX-00 Corocoro Mail Order (KidHunt K4-70TK Metal Coat: White Detective Conan Collab) (TT)", "image": getPartImage("4-70-Kidhunt", "ratchets/4-70/kidhunt.webp", "ratchet", false), "comingSoon": true, "inProgress": true }, //NEED IMAGE
+        { "name": "CX-00 Corocoro Mail Order (KidHunt K4-70TK Metal Coat: White Detective Conan Collab) (TT)", "image": getPartImage("4-70-Kidhunt", "ratchets/4-70/kidhunt.webp", "ratchet"), "comingSoon": true },
       ]
     },
     {
