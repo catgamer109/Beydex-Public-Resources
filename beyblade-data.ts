@@ -13770,7 +13770,7 @@ export const allParts: Part[] = [
     "company": "Hasbro",
     "spinDirection": "Right",
     "comingSoon": true,
-    "image": getPartImage("DoctorDoom-Mister_Fantastic_Doctor_Doom_Multipack", "blades/misterfantastic/default.webp", "blade"),
+    "image": getPartImage("DoctorDoom-Mister_Fantastic_Doctor_Doom_Multipack", "blades/doctordoom/default.webp", "blade"),
     "echoOf": ["KnightShield", "HelmKnight"],
     "variants": [
       { "name": "Doctor Doom 0-80LO (Mister Fantastic and Doctor Doom Multipack) (Default) (HB)", "image": getPartImage("DoctorDoom-Mister_Fantastic_Doctor_Doom_Multipack", "blades/misterfantastic/default.webp", "blade"), "displayedName": "Doctor Doom 0-80LO (Mister Fantastic and Doctor Doom Multipack) (HB)", "comingSoon": true, }
