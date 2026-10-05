@@ -56,7 +56,7 @@ export type Part = {
   spinDirection?: 'Left' | 'Right';
   image: ImagePlaceholder;
   weight?: number;
-  height?: string;
+  height?: string | string[];
   identicalId?: string[];
   echoOf?: string[];
   variants?: PartVariant[];
@@ -4204,6 +4204,7 @@ export const allParts: Part[] = [
   {
     "id": "Product_UX-00_DranBuster_MetalCoat_Red",
     "name": "UX-00 Booster DranBuster 1-60A (Metal Coat: Red)",
+    "displayedName": "Dranbuster 1-60A (Metal Coat: Red) Corocoro Lottery/Full Color Manga Vol.1",
     "category": "Product",
     "series": ["UX"],
     "company": "Takara Tomy",
@@ -5587,6 +5588,7 @@ export const allParts: Part[] = [
   {
     "id": "Product_CarrotSaber",
     "name": "UX-00 SamuraiSaber 2-70L (Metal Coat: Orange)",
+    "displayedName": "SamuraiSaber 2-70L (Metal Coat: Orange) Corocoro Lottery/Full Color Manga Vol. 2 ",
     "category": "Product",
     "series": ["UX"],
     "company": "Takara Tomy",
@@ -5637,6 +5639,7 @@ export const allParts: Part[] = [
   {
     "id": "Product_DranArc",
     "name": "CX-00 DranArc S2-70K (Metal Coat: Blue)",
+    "displayedName": "DranArc S2-70K (Metal Coat: Blue) Corocoro Lottery/Full Color Manga Vol. 3",
     "category": "Product",
     "series": ["CX"],
     "company": "Takara Tomy",
@@ -6319,6 +6322,7 @@ export const allParts: Part[] = [
   {
     "id": "Product_Corocoro_BahamutBlitz_Yellow",
     "name": "BahamutBlitz BK1-50I (Metal Coat: Yellow) Full Color Manga Vol. 4",
+    "displayedName": "BahamutBlitz BK1-50I (Metal Coat: Yellow) Corocoro Lottery/Full Color Manga Vol. 4",
     "category": "Product",
     "series": ["CX", "CXE"],
     "company": "Takara Tomy",
@@ -12182,6 +12186,34 @@ export const allParts: Part[] = [
     ]
   },
 
+  //October 8th
+  {
+    "id": "Product_Hasbro_CobaltDragoon_MetalCoat_Black",
+    "name": "TT Import Left-Spin Deluxe Launcher Set (Cobalt Dragoon 2-60C Metal Coat: Black)",
+    "category": "Product",
+    "series": ["BX"],
+    "company": "Hasbro",
+    "image": getPartImage("Product_TT Import Left-Spin Deluxe Launcher Set (Cobalt Dragoon 2-60C Metal Coat: Black)_Image", "products/hasbro/tt-import_cobaltdragoon_black/product.webp", "product box"),
+    "contents": [
+      { "partId": "Beyblade_Hasbro_CobaltDragoon_MetalCoat_Black", "variantName": "Cobalt Dragoon 2-60C" },
+      { "partId": "HB_StringLauncher_L", "variantName": "TT Import Left-Spin Deluxe Launcher Set (Cobalt Dragoon 2-60C Metal Coat: Black)" }
+    ]
+  },
+  {
+    "id": "Beyblade_Hasbro_CobaltDragoon_MetalCoat_Black",
+    "name": "Cobalt Dragoon 2-60C",
+    "category": "Beyblades",
+    "type": "Attack",
+    "series": ["BX"],
+    "company": "Hasbro",
+    "image": getPartImage("Beyblade_TT Import Left-Spin Deluxe Launcher Set (Cobalt Dragoon 2-60C Metal Coat: Black)_Image", "products/hasbro/tt-import_cobaltdragoon_black/beyblade.webp", "beyblade"),
+    "contents": [
+      { "partId": "CobaltDragoon-Hasbro", "variantName": "TT Import Left-Spin Deluxe Launcher Set (HB)" },
+      { "partId": "2-60", "variantName": "TT Import Left-Spin Deluxe Launcher Set (Cobalt Dragoon 2-60C Metal Coat: Black) (HB)" },
+      { "partId": "C", "variantName": "TT Import Left-Spin Deluxe Launcher Set (Cobalt Dragoon 2-60C Metal Coat: Black) (HB)" }
+    ]
+  },
+
 
   // Next Wave OCTOBER
 
@@ -12330,6 +12362,8 @@ export const allParts: Part[] = [
       { "partId": "LO", "variantName": "Doctor Doom 0-80LO (Mister Fantastic and Doctor Doom Multipack) (HB)" }
     ]
   },
+
+
 
 
 
@@ -14283,7 +14317,9 @@ export const allParts: Part[] = [
     "image": getPartImage("CobaltDragoon-Hasbro-Cobalt Dragoon 2-60C (Deluxe Launcher Set)", "blades/cobaltdragoon-hasbro/default.webp", "blade"),
     "identicalId": ["CobaltDragoon"],
     "variants": [
-      { "name": "Cobalt Dragoon 2-60C (Deluxe Launcher Set) (HB) (Default)", "image": getPartImage("CobaltDragoon-Hasbro-Cobalt Dragoon 2-60C (Deluxe Launcher Set)", "blades/cobaltdragoon-hasbro/default.webp", "blade"), "displayedName": "Cobalt Dragoon 2-60C (Deluxe Launcher Set) (HB)" }
+      { "name": "Cobalt Dragoon 2-60C (Deluxe Launcher Set) (HB) (Default)", "image": getPartImage("CobaltDragoon-Hasbro-Cobalt Dragoon 2-60C (Deluxe Launcher Set)", "blades/cobaltdragoon-hasbro/default.webp", "blade"), "displayedName": "Cobalt Dragoon 2-60C (Deluxe Launcher Set) (HB)" },
+      { "name": "TT Import Left-Spin Deluxe Launcher Set (HB)", "image": getPartImage("CobaltDragoon-Hasbro-TT Import Left-Spin Deluxe Launcher Set", "blades/cobaltdragoon-hasbro/tt-import.webp", "blade") }
+
     ]
   },
   {
@@ -14380,7 +14416,7 @@ export const allParts: Part[] = [
       { "name": "CX-08-4 (TT)", "image": getPartImage("DranBuster-CX-08-4", "blades/dranbuster/cx-08-4.webp", "blade") },
       { "name": "UX-00 Dran Deck Set (TT)", "image": getPartImage("DranBuster-UX-00 Dran Deck Set", "blades/dranbuster/drandeckset.webp", "blade"), "displayedName": "UX-00 Metal Coat: White (Dran Deck Set) (TT)" },
       { "name": "UX-00 Barcelona Starter (TT)", "image": getPartImage("DranBuster-UX-00 Barcelona Starter", "blades/dranbuster/barcelona.webp", "blade"), "displayedName": "UX-00 Metal Coat: Blue (FC Barcelona Ver.) (TT)" },
-      { "name": "Corocoro (TT)", "image": getPartImage("DranBuster-Corocoro", "blades/dranbuster/corocoro.webp", "blade"), "displayedName": "UX-00 Metal Coat: Red (Corocoro Lottery/Full Color Manga Vol. 1) (TT)" },
+      { "name": "Corocoro (TT)", "image": getPartImage("DranBuster-Corocoro", "blades/dranbuster/corocoro.webp", "blade"), "displayedName": "Corocoro Lottery/Full Color Manga Vol. 1 (Metal Coat: Red) (TT)" },
       { "name": "Dran Choice Booster Black (TT)", "image": getPartImage("DranBuster-Dran Choice Booster Black", "blades/dranbuster/dranchoiceblack.webp", "blade") },
       { "name": "Dran Choice Booster Cyan (TT)", "image": getPartImage("DranBuster-Dran Choice Booster Cyan", "blades/dranbuster/dranchoicecyan.webp", "blade") },
       { "name": "Dran Choice Booster Violet (TT)", "image": getPartImage("DranBuster-Dran Choice Booster Violet", "blades/dranbuster/dranchoiceviolet.webp", "blade") },
@@ -14416,7 +14452,7 @@ export const allParts: Part[] = [
     "identicalId": ["SaberSamurai"],
     "variants": [
       { "name": "UX-09 (TT) (Default)", "image": getPartImage("SamuraiSaber-UX-09", "blades/samuraisaber/ux-09.webp", "blade"), "displayedName": "UX-09 (TT)" },
-      { "name": "Corocoro (TT)", "image": getPartImage("SamuraiSaber-corocoro", "blades/samuraisaber/corocoro.webp", "blade"), "displayedName": "UX-00 Metal Coat: Orange (Corocoro Lottery/Full Color Manga Vol. 2) (TT)" },
+      { "name": "Corocoro (TT)", "image": getPartImage("SamuraiSaber-corocoro", "blades/samuraisaber/corocoro.webp", "blade"), "displayedName": "Metal Coat: Orange (Corocoro Lottery/Full Color Manga Vol. 2) (TT)" },
       { "name": "CX-17-3 (TT)", "image": getPartImage("SamuraiSaber-CX-17-3", "blades/samuraisaber/cx-17-3.webp", "blade") },
       { "name": "UX-00 Metal Coat: Samurai Blue JFA Ver. (TT)", "image": getPartImage("SamuraiSaber-UX-00", "blades/samuraisaber/jfa.webp", "blade"), "displayedName": "UX-00 Metal Coat: Samurai Blue (JFA Ver.) (TT)" }
     ]
@@ -15154,7 +15190,7 @@ export const allParts: Part[] = [
     "company": "Takara Tomy",
     "spinDirection": "Right",
     "weight": 42.73,
-    //"height": "55",
+    "height": ["40", "85"],
     "identicalId": ["NetherIncendio"],
     "image": getPartImage("UX-21", "blades/hellsnether/ux-21.webp", "blade"),
     "variants": [
@@ -15171,7 +15207,7 @@ export const allParts: Part[] = [
     "company": "Hasbro",
     "spinDirection": "Right",
     "weight": 42.73,
-    //"height": "55",
+    "height": ["40", "85"],
     "identicalId": ["HellsNether"],
     "image": getPartImage("Nether Incendio Z Starter Pack", "blades/netherincendio/default.webp", "blade"),
     "variants": [
@@ -16475,7 +16511,7 @@ export const allParts: Part[] = [
         "image": getPartImage("T-Turn-TT-evangelion-CA", "assist_blades/normal/t/evangelion/ca.webp", "assist blade"),
         "modes": [
           { "name": "Evangelion Deck Set (Continuous Attack Mode) (TT)", "image": getPartImage("T-Turn-TT-evangelion-CA", "assist_blades/normal/t/evangelion/ca.webp", "assist blade"), "stackedImage": getPartImage("T-Turn-TT-evangelion-CA", "assist_blades/stacked/t/evangelion/ca.webp", "assist blade") },
-          { "name": "Evangelion Deck Set (Parry Mode) (TT)", "image": getPartImage("T-Turn-TT-evangelion-parry-Mode", "assist_blades/normal/t/evangelion/parry.webp", "assist blade", false), "stackedImage": getPartImage("T-Turn-TT-evangelion-parry-Mode", "assist_blades/stacked/t/evangelion/parry.webp", "assist blade", false), "inProgress": true }
+          { "name": "Evangelion Deck Set (Parry Mode) (TT)", "image": getPartImage("T-Turn-TT-evangelion-parry-Mode", "assist_blades/normal/t/evangelion/parry.webp", "assist blade"), "stackedImage": getPartImage("T-Turn-TT-evangelion-parry-Mode", "assist_blades/stacked/t/evangelion/parry.webp", "assist blade") }
         ]
       },
       {
@@ -16961,7 +16997,9 @@ export const allParts: Part[] = [
     "variants": [
       { "name": "Cobalt Dragoon Deluxe Left-Spin String Launcher Set", "image": getPartImage("String-Launcher-L-Default-HB", "launchers/hb_string_launcher_l/cobaltdragoon.webp", "String launcher") },
       { "name": "Meteoroid Dragoon 3-70J (Deluxe Launcher Set)", "image": getPartImage("String-Launcher-L-meteoroiddraggon", "launchers/tt_string_launcher_l/bx-47.webp", "String launcher") },
-      { "name": "Deluxe String Launcher 2-Pack", "image": getPartImage("String-Launcher-deluxe-2-pack-HB", "launchers/hb_string_launcher_L/deluxe2pack.webp", "String launcher") }
+      { "name": "Deluxe String Launcher 2-Pack", "image": getPartImage("String-Launcher-deluxe-2-pack-HB", "launchers/hb_string_launcher_l/deluxe2pack.webp", "String launcher") },
+      { "name": "TT Import Left-Spin Deluxe Launcher Set (Cobalt Dragoon 2-60C Metal Coat: Black)", "image": getPartImage("String-Launcher-L-BX-00-Goon-TT", "launchers/hb_string_launcher_l/black_goon.webp", "String launcher") }
+
     ]
 
   },
@@ -17311,7 +17349,7 @@ export const allParts: Part[] = [
       "variants": [
         { "name": "UX-01 (TT)", "image": getPartImage("A-UX-01", "bits/a/ux-01.webp", "bit"), "identicalVariants": ["Buster Dran 1-60A (Starter) (HB)"] },
         { "name": "UX-04 (TT)", "image": getPartImage("A-UX-04", "bits/a/ux-04.webp", "bit") },
-        { "name": "Corocoro (DranBuster Metal Coat Red) (TT)", "image": getPartImage("A-Corocoro", "bits/a/corocoro_dranbuster.webp", "bit"), "displayedName": "UX-00 Corocoro Lottery/Full Color Manga Vol.1 (DranBuster Metal Coat: Red) (TT)" },
+        { "name": "Corocoro (DranBuster Metal Coat Red) (TT)", "image": getPartImage("A-Corocoro", "bits/a/corocoro_dranbuster.webp", "bit"), "displayedName": "Corocoro Lottery/Full Color Manga Vol.1 (DranBuster Metal Coat: Red) (TT)" },
         { "name": "UX-00 Rare Bey Get (AeroPegasus) (TT)", "image": getPartImage("A-Rare-Bey-Get", "bits/a/rbg_aeropegasus.webp", "bit"), "displayedName": "UX-00 Rare Bey Get (AeroPegasus Double Metal Coat: Blue x Green) (TT)" },
         { "name": "UX-00 (DranBuster Barcelona Starter) (TT)", "image": getPartImage("A-Barcelona", "bits/a/barcelona.webp", "bit"), "displayedName": "UX-00 (DranBuster Metal Coat: Blue FC Barcelona Ver.) (TT)" },
         { "name": "Dran Choice Booster Cyan 1 (TT)", "image": getPartImage("A-Cyan-1", "bits/a/cyan1.webp", "bit") },
@@ -17413,7 +17451,8 @@ export const allParts: Part[] = [
         { "name": "Tokyo Toy Show (CobaltDragoon Metal Coat Black) (TT)", "image": getPartImage("C-Tokyo-Toy-Show", "bits/c/tokyotoy.webp", "bit"), "displayedName": "BX-00 Tokyo Toy Show (Cobalt Dragoon Metal Coat: Black) (TT)" },
         { "name": "UX-12-6 (TT)", "image": getPartImage("C-UX-12-6", "bits/c/ux-12-6.webp", "bit") },
         { "name": "Cobalt Dragoon 2-60C (Deluxe Launcher Set) (HB)", "image": getPartImage("C-BX-34", "bits/c/cobaltdragoon2-60c.webp", "bit"), "identicalVariants": ["BX-34 (TT)"] },
-        { "name": "UX-18-2 (TT)", "image": getPartImage("C-UX-18-2", "bits/c/ux-18-2.webp", "bit") }
+        { "name": "UX-18-2 (TT)", "image": getPartImage("C-UX-18-2", "bits/c/ux-18-2.webp", "bit") },
+        { "name": "TT Import Left-Spin Deluxe Launcher Set (Cobalt Dragoon 2-60C Metal Coat: Black) (HB)", "image": getPartImage("C-TT-Import-Cobalt Dragoon 2-60C Metal Coat: Black", "bits/c/tt-import.webp", "bit") },
       ]
     },
     {
@@ -17922,7 +17961,7 @@ export const allParts: Part[] = [
       "image": getPartImage("L-UX-09", "bits/l/ux-09.webp", "bit"),
       "variants": [
         { "name": "UX-09 (TT)", "image": getPartImage("L-UX-09", "bits/l/ux-09.webp", "bit"), "identicalVariants": ["Saber Samurai 2-70L (Victory Grip Launcher Set) (HB)"] },
-        { "name": "Corocoro (SamuraiSaber) (TT)", "image": getPartImage("L-SamuraiSaber-corocoro", "bits/l/corocoro_carrotsaber.webp", "bit"), "displayedName": "UX-00 Corocoro Lottery/Full Color Manga Vol. 2 (SamuraiSaber Metal Coat: Orange) (TT)" },
+        { "name": "Corocoro (SamuraiSaber) (TT)", "image": getPartImage("L-SamuraiSaber-corocoro", "bits/l/corocoro_carrotsaber.webp", "bit"), "displayedName": "Corocoro Lottery/Full Color Manga Vol. 2 (SamuraiSaber Metal Coat: Orange) (TT)" },
         { "name": "UX-15 (TT)", "image": getPartImage("L-UX-15", "bits/l/ux-15.webp", "bit") },
         { "name": "Saber Samurai 2-70L (Victory Grip Launcher Set) (HB)", "image": getPartImage("L-UX-09", "bits/l/sabersamurai.webp", "bit"), "identicalVariants": ["UX-09 (TT)"] },
         { "name": "BX-50-5 (TT)", "image": getPartImage("L-BX-50-5", "bits/l/bx-50-5.webp", "bit") },
@@ -18771,7 +18810,7 @@ export const allParts: Part[] = [
         { "name": "Tsuri Spirits Promo (SharkEdge Metal Coat Black) (TT)", "image": getPartImage("2-60-TsuriSpirits", "ratchets/2-60/tsurispirits.webp", "ratchet"), "displayedName": "BX-00 (SharkEdge Metal Coat: Black Tsuri Spirits Wonder Ver.) (TT)" },
         { "name": "Feather Phoenix 2-60N (Starter) (HB)", "image": getPartImage("2-60-UX-12-5", "ratchets/2-60/featherphoenix2-60n.webp", "ratchet") },
         { "name": "Bite Croc 2-60Q (Deluxe String Launcher & Custom Grip Set) (HB)", "image": getPartImage("2-60-Corocoro-CrocoCrunch", "ratchets/2-60/bitecroc2-60q.webp", "ratchet") },
-
+        { "name": "TT Import Left-Spin Deluxe Launcher Set (Cobalt Dragoon 2-60C Metal Coat: Black) (HB)", "image": getPartImage("2-60-TT Import Left-Spin Deluxe Launcher Set (Cobalt Dragoon 2-60C Metal Coat: Black) (HB)", "ratchets/2-60/tt-import.webp", "ratchet") },
       ]
     },
     {
@@ -19550,7 +19589,7 @@ export const filterOptions = {
     type: ['Attack', 'Defense', 'Stamina', 'Balance'],
     spinDirection: ['Right', 'Left'],
     '35g+': ['Yes', 'No'],
-    height: ['55', '60', '70', '80']
+    height: ['40', '55', '60', '70', '80', '85']
   },
   ratchets: {
     type: ['Simple', 'Normal', 'Fusion'],
