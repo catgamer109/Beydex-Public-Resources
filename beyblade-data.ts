@@ -11888,13 +11888,13 @@ export const allParts: Part[] = [
     "company": "Hasbro",
     "image": getPartImage("Nether-Incendio-Starter_Image", "products/hasbro/nether_incendioz_starter/product.webp", "product box"),
     "contents": [
-      { "partId": "Beyblade_Nether-Incendio-Starter", "variantName": "Seize Jaguar HN" },
+      { "partId": "Beyblade_Nether-Incendio-Starter", "variantName": "Nether Incendio Z" },
       { "partId": "HB_EntryLauncher", "variantName": "Starter" }
     ]
   },
   {
     "id": "Beyblade_Nether-Incendio-Starter",
-    "name": "Seize Jaguar HN",
+    "name": "Nether Incendio Z",
     "category": "Beyblades",
     "type": "Defense",
     "series": ["UX", "UXE"],
