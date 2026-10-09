@@ -15070,6 +15070,7 @@ export const allParts: Part[] = [
     "series": ["BX", "BXE"],
     "company": "Hasbro",
     "spinDirection": "Right",
+    "identicalId": ["HorusShatter"],
     "weight": 32.99,
     "image": getPartImage("Shatter Horus 9-65GB (Starter)", "blades/shatterhorus/default.webp", "blade"),
     "variants": [
@@ -15119,6 +15120,7 @@ export const allParts: Part[] = [
     "company": "Hasbro",
     "spinDirection": "Right",
     "echoOf": ["WyvernGale", "GaleWyvern"],
+    "identicalId": ["CrabClamp"],
     "weight": 27.64,
     "image": getPartImage("Clamp Crab 9-65S (Dual Pack)", "blades/clampcrab/default.webp", "blade"),
     "variants": [
@@ -17457,7 +17459,7 @@ export const allParts: Part[] = [
     },
     {
       "id": "DB",
-      "name": "DB (Disc Ball)",
+      "name": "DB (Disk Ball)",
       "category": "Bit",
       "type": "Stamina",
       "attributes": ["Stamina", "Low", "12-tooth (Normal)"],
