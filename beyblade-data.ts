@@ -7422,7 +7422,6 @@ export const allParts: Part[] = [
     ]
   },
 
-  // Coming Soon August 29th
   {
     "id": "Product_Blue_GloryValkyrie",
     "name": "UX-00 Starter GloryValkyrie LF (Metal Coat: Blue, Tamashii Fest)",
@@ -7921,7 +7920,7 @@ export const allParts: Part[] = [
   },
 
 
-  //Noveber 5th
+  // Coming Soon November 5th
 
 
   // {
@@ -14070,7 +14069,7 @@ export const allParts: Part[] = [
     "series": ["BX"],
     "company": "Hasbro",
     "spinDirection": "Right",
-    //"weight": 31.01,
+    "weight": 32.17,
     "image": getPartImage("Grogu_Grogu 3-85E (Dual Pack) (HB) (Default)", "blades/grogu/default.webp", "blade"),
     "echoOf": ["RhinoHorn", "HornRhino"],
     "variants": [
@@ -14086,7 +14085,7 @@ export const allParts: Part[] = [
     "series": ["BX"],
     "company": "Hasbro",
     "spinDirection": "Right",
-    //"weight": 33.33,
+    "weight": 33.33,
     "image": getPartImage("Snowtrooper_Snowtrooper 7-60O (Dual Pack) (HB) (Default)", "blades/snowtrooper/default.webp", "blade"),
     "echoOf": ["RhinoHorn", "HornRhino"],
     "identicalId": ["Stormtrooper"],
@@ -15408,7 +15407,7 @@ export const allParts: Part[] = [
     "series": ["BX", "BXE"],
     "company": "Takara Tomy",
     "spinDirection": "Left",
-    //"weight": 39.99,
+    "weight": 42.88,
     //"identicalId": ["Luster Dragoon"],
     "image": getPartImage("LusterDragoon-BX-52_Image", "blades/lusterdragoon/bx-52.webp", "blade"),
     "variants": [
@@ -15423,7 +15422,7 @@ export const allParts: Part[] = [
     "series": ["BX"],
     "company": "Takara Tomy",
     "spinDirection": "Right",
-    //"weight": 39.99,
+    "weight": 36.37,
     "identicalId": ["KnightShield", "HelmKnight"],
     "image": getPartImage("KnightShield_2.0-BX-53_Image", "blades/knightshield_2.0/bx-53.webp", "blade"),
     "variants": [
@@ -15438,7 +15437,7 @@ export const allParts: Part[] = [
     "series": ["BX"],
     "company": "Takara Tomy",
     "spinDirection": "Right",
-    //"weight": 39.99,
+    "weight": 36.36,
     "identicalId": ["WizardArrow", "ArrowWizard"],
     "image": getPartImage("WizardArrow_2.0-BX-53_Image", "blades/wizardarrow_2.0/bx-53.webp", "blade"),
     "variants": [
@@ -16967,7 +16966,7 @@ export const allParts: Part[] = [
     "company": "Takara Tomy",
     "spinDirection": "Right",
     "height": "90",
-    //"weight": 11.50,
+    "weight": 11.50,
     "type": "Attack",
     "image": getPartImage("G-Gravity-Assist-TT-DrakeBrave", "assist_blades/normal/g/drakebrave.webp", "assist blade"),
     "variants": [
@@ -18159,7 +18158,7 @@ export const allParts: Part[] = [
       "attributes": ["Attack", "High", "12-tooth (Normal)"],
       "resistance": "High",
       "xDashGear": "12-tooth (Normal)",
-      //"weight": 2.13,
+      "weight": 2.04,
       "company": "Takara Tomy",
       //"alsoShowUnder": ["Hasbro"],
       "image": getPartImage("LC-BX-52", "bits/lc/bx-52.webp", "bit"),

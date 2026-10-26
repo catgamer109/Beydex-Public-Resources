@@ -21,15 +21,16 @@ If you have any of the images that are currently needed that are listed in "need
 
 **All image contributors:**
 - catgamer109: Some Ratchets, Bits, and CX parts
-- SunBro: Most Parts that are not renders
-- bobqwt: CX-06-2 Black Fox Brush and CX-06-3 Gold Fox Brush Blade Parts, Cyan accel from the Dran choice booster
-- AWildPickle: Hasbro Red and green Dranzer Ratchets and Bits
-- @shutterbeys on Instagram: Ratchets and Bits for Corocoro SamuraiSteel and BX-17 Red Dransword
-- SapphireBlaze: Most of the BBLD Parts
-- Luv_v: Black BBLD DranDagger Ratchet and Bit
-- BeyGorr (TikTok and Instagram): BBLD Boxes
-- stealthiccus: CX-18-2 Gold BrachioWhip Parts
-- Xenon24: Ratchets and bits for Chewbacca and Stormtrooper, PhoenixFeather Corocoro Original
+- SunBro: Most parts that are not renders
+- bobqwt: CX-06-2 Black Fox Brush and CX-06-3 Gold Fox Brush blade parts, cyan accel from the Dran choice booster
+- AWildPickle: Hasbro red and green Dranzer ratchets and bits
+- @shutterbeys on Instagram: ratchets and bits for Corocoro SamuraiSteel and BX-17 red Dransword
+- SapphireBlaze: Most of the BBLD parts
+- Luv_v: Black BBLD DranDagger ratchet and bit
+- BeyGorr (TikTok and Instagram): BBLD boxes
+- stealthiccus: CX-18-2 Gold BrachioWhip parts
+- Xenon24: ratchets and bits for Chewbacca and Stormtrooper, PhoenixFeather Corocoro original
+- Aria Rhapsody: Dransword Metal Coat: Red (Winning Xtra Guide 2026)
 
 
 # About the Beydex project:
@@ -46,6 +47,6 @@ Another main goal of Beydex is open sourced images and resources for developers,
 Why isn't Beydex itself open source? Beydex itself is closed source mainly so there is only one main copy of Beydex that is maintained and developed. Multiple copies floating around or used as a means for monetization is not something that should ever happen and I plan to keep it as such.
 
 
-If you would like to use Beydex, you can find it at https://app.midwestbeyblade.com
+If you would like to use Beydex, you can find it at https://app.midwestbeyblade.com or find it on the google play store at https://play.google.com/store/apps/details?id=com.beydex.app
 
 An overview of Beydex can be found at https://beydex.org

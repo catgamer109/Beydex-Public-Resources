@@ -26,6 +26,8 @@ Need better BBLD Launcher pics for each one
 
 - KidHunt K4-70TK Metal Coat White, Detective Conan Collab
 
+- DMM Bison, regular and metal coat white
+
 
 # Blades:
 
@@ -34,12 +36,9 @@ Need better BBLD Launcher pics for each one
 
 - Gold/Silver/Bronze DranStrike
 
+- Corocoro Metal Coat Blue Dransword
+
 - ClockMirage Metal Coat Black Fate Rewinder Ver.
-
-- BisonValor DMM Vol. 2
-
-- BisonValor Metal Coat: White DMM Vol. 2 
-
 
 
 
@@ -136,13 +135,10 @@ Need better BBLD Launcher pics for each one
 - UX-04 (Dranbuster from the UX battle set)
 
 
-**Disc Ball:**
+**Disk Ball:**
 
 - Gold G3 (Gold WizardRod)
 
-- BisonValor DMM Vol. 2
-
-- BisonValor Metal Coat: White DMM Vol. 2 
 
 
 **Flat:**
